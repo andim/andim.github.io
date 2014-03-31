@@ -5,4 +5,4 @@ date:   2014-03-31 17:42:46
 categories: test 
 ---
 
-Test 1
+This is just a test of jekyll's blogging capabilities.
