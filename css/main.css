@@ -55,6 +55,13 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
+h1 {
+    margin-top: 0.5em;
+    border-bottom: dotted thin #e0e0e0;
+    color: #0E1E97;
+    margin-bottom: 0.5em;
+}
+
 .site {
   font-size: 115%;
   text-align: justify;
@@ -69,25 +76,23 @@ a:visited { color: #a0a; }
 }
 
 .title {
+  font-size: 130%;
   display: inline-block;
   margin-bottom: 2em;
 }
 
 .title a {
-  color: #a00;
-}
-
-.title a:hover {
-  color: #000;
+  color: #303030;
 }
 
 .header a.extra {
-  color: #aaa;
+  font-size: 130%;
+  color: #888888;
   margin-left: 1em;
 }
 
 .header a.extra:hover {
-  color: #000;
+  color: #303030;
 }
 
 .meta {
@@ -96,7 +101,7 @@ a:visited { color: #a0a; }
 
 .footer {
   font-size: 80%;
-  color: #666;
+  color: #888888;
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
@@ -108,7 +113,7 @@ a:visited { color: #a0a; }
 }
 
 .footer .contact a {
-  color: #8085C1;
+  color: #3246e0;
 }
 
 .footer .rss {
