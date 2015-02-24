@@ -1,0 +1,16 @@
+/* New theme for hyde.css */
+
+.theme-andim .sidebar {
+  background-color: #2d314d;
+  color: #ccddcc;
+}
+.theme-andim .sidebar-about h1 {
+    font-size: 1.75rem;
+}
+.theme-andim .sidebar-about .lead {
+    font-size: 0.75rem;
+}
+.theme-andim .content a,
+.theme-andim .related-posts li a:hover {
+  color: #6a9fb5;
+}

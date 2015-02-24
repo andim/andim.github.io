@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Andreas Mayer
 tagline:          ''
-description:      'Physics PhD student'
+description:      'PhD student interested in quantitative descriptions of biological systems working in Paris at LPT-ENS'
 url:              http://andim.github.io/
 baseurl:          /
 
@@ -18,6 +18,3 @@ author:
   url:            https://twitter.com/andisspam
 
 paginate:         5
-
-github:
-  repo:           https://github.com/andim/andim.github.io
