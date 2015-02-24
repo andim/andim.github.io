@@ -1,4 +1,4 @@
-Data for my page
-----------------
+Source for my homepage
+----------------------
 
-Content is licensed cc-by, the rest is MIT licensed.
+Content is licensed cc-by-sa, the rest is MIT licensed.

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Andreas Mayer
+layout: page
+title: About
 ---
 
 About Me
@@ -12,5 +12,3 @@ My Projects
 ===========
 
 - [Easyleed](http://andim.github.io/easyleed/): A simple tool for the extraction of I(E) spectra from LEED patterns.
-
-

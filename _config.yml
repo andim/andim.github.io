@@ -1,3 +1,23 @@
-name: Andreas Mayer
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Hyde
+tagline:          'Andreas Mayer'
+description:      'Personal homepage of Andreas Mayer
+url:              http://andim.github.io/
+baseurl:          /
+
+author:
+  name:           'Andreas Mayer'
+  url:            https://twitter.com/andisspam
+
+paginate:         5
+
+github:
+  repo:           https://github.com/andim/andim.github.io
