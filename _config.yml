@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'Andreas Mayer'
-description:      'Personal homepage of Andreas Mayer
+title:            Andreas Mayer
+tagline:          ''
+description:      'Physics PhD student'
 url:              http://andim.github.io/
 baseurl:          /
 
