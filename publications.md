@@ -5,7 +5,8 @@ title: Publications
 
 ### 2015
 
-*    **A Mayer**, V Balasubramanian, T Mora, and AM Walczak, How a well-adapted immune system is organized, *Proc. Natl. Acad. Sci. U.S.A.*, 112(19):5950--5955, [Arxiv](http://arxiv.org/abs/1407.6888), [DOI link](http://dx.doi.org/10.1073/pnas.1421827112), [Code](https://github.com/andim/optimmune), featured in [phys.org|medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html)
+*    **A Mayer**, O Rivoire, T Mora, and AM Walczak, Diversity of immune strategies explained by adaptation to pathogen statistics, [arXiv](http://arxiv.org/abs/1511.08836), [bioRxiv](http://biorxiv.org/content/early/2015/11/27/033159)
+*    **A Mayer**, V Balasubramanian, T Mora, and AM Walczak, How a well-adapted immune system is organized, *Proc. Natl. Acad. Sci. U.S.A.*, 112(19):5950--5955, [arXiv](http://arxiv.org/abs/1407.6888), [DOI link](http://dx.doi.org/10.1073/pnas.1421827112), [Code](https://github.com/andim/optimmune), featured in [phys.org|medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html)
 *    DP Woodruff, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, HI Li, SY Su, **A Mayer**, NA Stanisha, and RD Diehl, X-ray standing wave study of Si clusters on a decagonal Al-Co-Ni quasicrystal surface, *Phys. Rev. B*, 91:115418.
 
 ### 2014
