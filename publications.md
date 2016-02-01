@@ -3,17 +3,21 @@ layout: page
 title: Publications
 ---
 
-### 2015
+*   A Mayer, O Rivoire, T Mora, and AM Walczak, Diversity of immune strategies explained by adaptation to pathogen statistics.
 
-*    **A Mayer**, O Rivoire, T Mora, and AM Walczak, Diversity of immune strategies explained by adaptation to pathogen statistics, [arXiv](http://arxiv.org/abs/1511.08836), [bioRxiv](http://biorxiv.org/content/early/2015/11/27/033159)
-*    **A Mayer**, V Balasubramanian, T Mora, and AM Walczak, How a well-adapted immune system is organized, *Proc. Natl. Acad. Sci. U.S.A.*, 112(19):5950--5955, [arXiv](http://arxiv.org/abs/1407.6888), [DOI link](http://dx.doi.org/10.1073/pnas.1421827112), [Code](https://github.com/andim/optimmune), featured in [phys.org|medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html)
-*    DP Woodruff, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, HI Li, SY Su, **A Mayer**, NA Stanisha, and RD Diehl, X-ray standing wave study of Si clusters on a decagonal Al-Co-Ni quasicrystal surface, *Phys. Rev. B*, 91:115418.
+    Paper on [arXiv](http://arxiv.org/abs/1511.08836) or [bioRxiv](http://biorxiv.org/content/early/2015/11/27/033159).
 
-### 2014
+*    A Mayer, V Balasubramanian, T Mora, and AM Walczak, How a well-adapted immune system is organized, *Proc. Natl. Acad. Sci. U.S.A.*, 2015, 112(19):5950--5955.
 
-*    RD Diehl, HI Li, SY Su, **A Mayer**, NA Stanisha, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, and DP Woodruff, Quantitative adsorbate structure determination for quasicrystals using X-ray standing waves, *Phys. Rev. Lett.*, 113(10):106101.
+    Paper on [arXiv](http://arxiv.org/abs/1407.6888) or from [publisher](http://dx.doi.org/10.1073/pnas.1421827112).
+    Check out source code on [GitHub](https://github.com/andim/optimmune). Featured in [phys.org|medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html).
+*    DP Woodruff, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, HI Li, SY Su, A Mayer, NA Stanisha, and RD Diehl, X-ray standing wave study of Si clusters on a decagonal Al-Co-Ni quasicrystal surface, *Phys. Rev. B*, 2015, 91:115418.
 
-### 2012
+    Paper from [publisher](http://dx.doi.org/10.1103/PhysRevB.91.115418).
+*    RD Diehl, HI Li, SY Su, A Mayer, NA Stanisha, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, and DP Woodruff, Quantitative adsorbate structure determination for quasicrystals using X-ray standing waves, *Phys. Rev. Lett.*, 2014, 113(10):106101.
 
-*    **A Mayer**, H Salopaasi, K Pussi, and RD Diehl, A novel method for the extraction of intensity--energy spectra from low-energy electron diffraction patterns, *Comput. Phys. Commun.*, 183(7):1443--1447, [DOI link](http://dx.doi.org/10.1016/j.cpc.2012.02.019), [Code](https://github.com/andim/easyleed).
+    Paper from [publisher](http://dx.doi.org/10.1103/PhysRevLett.113.106101).
+*    A Mayer, H Salopaasi, K Pussi, and RD Diehl, A novel method for the extraction of intensity--energy spectra from low-energy electron diffraction patterns, *Comput. Phys. Commun.*, 2012, 183(7):1443--1447.
+
+    Paper from [publisher](http://dx.doi.org/10.1016/j.cpc.2012.02.019). Check out source code on [GitHub](https://github.com/andim/easyleed).
 
