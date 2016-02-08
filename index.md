@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Start
+title: About me
 ---
 
 I am a physicist passionate about nonlinear dynamics and statistical mechanics - especially as applied to biological systems.
