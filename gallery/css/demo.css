@@ -13,10 +13,11 @@ body {
   max-width: 750px;
   margin: 0 auto;
   padding: 1em;
-  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1em;
   line-height: 1.4em;
-  background: #222;
+  text-align: center;
+  background: #111;
   color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -31,10 +32,6 @@ img {
 }
 h1 {
   line-height: 1em;
-}
-h2,
-.links {
-  text-align: center;
 }
 
 @media (min-width: 481px) {
