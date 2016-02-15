@@ -1,8 +1,28 @@
 /* New theme for hyde.css */
 
+html {
+  font-size: 14px;
+  line-height: 1.25;
+}
+@media (min-width: 38em) {
+  html {
+    font-size: 18px;
+  }
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
 .theme-andim .sidebar {
   background-color: #2d314d;
+  padding: 0.25rem 0.5rem;
   color: #ccddcc;
+}
+@media (min-width: 38em) {
+  .theme-andim .sidebar {
+    padding: 2rem 1rem;
+  }
 }
 .theme-andim .sidebar-about h1 {
     font-size: 2rem;
@@ -10,6 +30,10 @@
 }
 .theme-andim .sidebar-about .lead {
     font-size: 0.75rem;
+}
+.theme-andim .content {
+  padding-top:    1.5rem;
+  padding-bottom: 1.5rem;
 }
 .theme-andim .content a,
 .theme-andim .related-posts li a:hover {
