@@ -5,7 +5,8 @@
   color: #ccddcc;
 }
 .theme-andim .sidebar-about h1 {
-    font-size: 1.75rem;
+    font-size: 2rem;
+    font-family: "PT Sans", serif;
 }
 .theme-andim .sidebar-about .lead {
     font-size: 0.75rem;
