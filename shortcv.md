@@ -7,7 +7,7 @@ title: Short CV
 Under the supervision of [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/).
 
 #### MSc in Physics from *Universität Göttingen* (08/2014)
-10/2013 - 08/2014: Master thesis at *École Normale Supérieure* under the supervision of of [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/).
+10/2013 - 08/2014: Master thesis at *École Normale Supérieure* under the supervision of [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/).
 
 09/2012 - 03/2013: Exchange semester at *Université Paris-Sud*
 
