@@ -3,18 +3,18 @@ layout: page
 title: Publications
 ---
 
-*   A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**.
+*   A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**, *Proc. Natl. Acad. Sci. U.S.A.*, 2016.
 
     Paper from [publisher](http://dx.doi.org/10.1073/pnas.1600663113) or preprint from [arXiv](http://arxiv.org/abs/1511.08836) or [bioRxiv](http://biorxiv.org/content/early/2015/11/27/033159).
     Source code on [GitHub](https://github.com/andim/evolimmune). 
-    Video explaining parts of the work on [KITP website](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (from slide 15).
+    Video of Aleksandra explaining parts of the work on [KITP website](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (from slide 15).
 
 *   A Mayer, V Balasubramanian, T Mora, and AM Walczak, **How a well-adapted immune system is organized**, *Proc. Natl. Acad. Sci. U.S.A.*, 2015, 112(19):5950--5955.
 
     Paper from [publisher](http://dx.doi.org/10.1073/pnas.1421827112) or preprint from [arXiv](http://arxiv.org/abs/1407.6888). 
     Source code on [GitHub](https://github.com/andim/optimmune). 
     Featured in [phys.org|medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html).
-    Video explaining parts of the work on [savoirs.ens.fr](http://www.savoirs.ens.fr/expose.php?id=2333) (from 38 min 10 s) and on [KITP website](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (up to slide 15).
+    Video of Aleksandra explaining parts of the work on [savoirs.ens.fr](http://www.savoirs.ens.fr/expose.php?id=2333) (from 38 min 10 s) and on [KITP website](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (up to slide 15). If you prefer blackboard lectures there is also a video of Vijay discussing some of the context of this work as well as going step-by-step through some of the maths at a [ICTS conference](http://www.youtube.com/watch?v=7xnvNp8SKJY&t=32m0s).
 
 *   DP Woodruff, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, HI Li, SY Su, A Mayer, NA Stanisha, and RD Diehl, **X-ray standing wave study of Si clusters on a decagonal Al-Co-Ni quasicrystal surface**, *Phys. Rev. B*, 2015, 91:115418.
 
