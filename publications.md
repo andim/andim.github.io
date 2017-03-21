@@ -13,7 +13,7 @@ title: Publications
 
 *   A Mayer, V Balasubramanian, T Mora, and AM Walczak, **How a well-adapted immune system is organized**, *Proc. Natl. Acad. Sci. U.S.A.*, 2015, 112(19):5950--5955. [Paper](http://dx.doi.org/10.1073/pnas.1421827112), [Code](https://github.com/andim/optimmune). 
 
-    Featured in [phys.org|medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html).
+    Featured in [phys.org medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html).
 
     Videos of Aleksandra presenting this work @ [ENS](http://www.savoirs.ens.fr/expose.php?id=2333) (from 38 min 10 s) and @ [KITP](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (to slide 15). Video of Vijay presenting this work @ [ICTS](http://www.youtube.com/watch?v=7xnvNp8SKJY&t=32m0s).
 
