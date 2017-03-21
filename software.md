@@ -12,6 +12,7 @@ title: Software
 
 - [Scipydirect](http://scipydirect.readthedocs.org/): Python wrapper of the DIRECT optimization algorithm with a scipy.optimize compatible interface
 
-### Scripts
+### Scripts and Code Snippets
 
 - [Mise](https://github.com/andim/mise): Collection of handy configuration settings and small scripts facilitating life with LaTeX, vim, matplotlib, and so on. 
+- [Python snippets](https://github.com/andim/pysnippets): Collection of code snippets with a focus on plotting techniques and benchmarks for high performance numerical calculations.
