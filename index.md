@@ -15,12 +15,12 @@ Contact
 
 You can contact me via [email](mailto:andisspam@gmail.com) or [twitter](http://twitter.com/andisspam).
 
-I am currently based at:
-Laboratoire de Physique Théorique
-École Normale Supérieure
-24 Rue Lhomond
-75005 Paris, France
-+33 1 44 32 38 48
+I am currently based at:   
+Laboratoire de Physique Théorique   
+École Normale Supérieure   
+24 Rue Lhomond   
+75005 Paris, France  
++33 1 44 32 38 48  
 
 News
 ----
