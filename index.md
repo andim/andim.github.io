@@ -13,7 +13,7 @@ For more info check out my profile on [Github](https://github.com/andim), [Linke
 Contact
 -------
 
-You can contact me via [email](mailto:andisspam@gmail.com) or [twitter](http://twitter.com/andisspam).
+You can contact me via [email](mailto:andimscience@gmail.com) or [twitter](http://twitter.com/andimscience).
 
 I am currently based at:   
 Laboratoire de Physique Théorique   
@@ -22,11 +22,11 @@ Laboratoire de Physique Théorique
 75005 Paris, France  
 +33 1 44 32 38 48  
 
-News
-----
+Twitter Feed
+------------
 
 <a class="twitter-timeline"
-    href="https://twitter.com/andisspam"
+    href="https://twitter.com/andimscience"
     data-screen-name="andisspam"
     data-widget-id="477144629087703040">
 Tweets by @andisspam</a>
