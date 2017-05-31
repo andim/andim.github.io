@@ -3,6 +3,7 @@ layout: page
 title: Publications
 ---
 
+*   A Mayer, **Noisyopt: A Python library for optimizing noisy functions**, *Journal of Open Source Software*, 2017, 2(13), [Paper](https://doi.org/10.21105/joss.00258), [Code](https://github.com/andim/noisyopt)
 
 *   A Mayer, O Rivoire, T Mora, and AM Walczak, **Transitions in optimal adaptive strategies for populations in fluctuating environments**, 2017. [Preprint](https://arxiv.org/abs/1703.09780), [Code](https://github.com/andim/transitions-paper).
 
