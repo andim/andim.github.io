@@ -3,8 +3,8 @@ layout: page
 title: Short CV
 ---
 
-#### PhD student in theoretical biophysics at *École Normale Supérieure* (since 10/2014)
-Under the supervision of [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/).
+#### PhD in theoretical biophysics from *École Normale Supérieure* (06/2017)
+Work with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/) on optimal resource allocation and information processing in immune defense.
 
 #### MSc in Physics from *Universität Göttingen* (08/2014)
 10/2013 - 08/2014: Master thesis at *École Normale Supérieure* under the supervision of [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/).
