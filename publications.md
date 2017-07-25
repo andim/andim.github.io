@@ -11,7 +11,7 @@ title: Publications
 
 *   A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**, *Proc. Natl. Acad. Sci. U.S.A.*, 2016, 113(31):8630--8635. [Paper](http://dx.doi.org/10.1073/pnas.1600663113), [Code](https://github.com/andim/evolimmune).
 
-    [F1000prime](https://f1000.com/prime/726559726) recommended.
+    [F1000prime](https://f1000.com/prime/726559726) recommended. [French résumé](https://doi.org/10.1051/medsci/20173306012) of this work published as **Explication évolutive de la diversité des stratégies immunitaires**, *Med Sci (Paris)*, 2017, 33:593–595
 
     Video of Aleksandra presenting this work @ [KITP](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (from slide 15).
 
