@@ -4,7 +4,7 @@ title: Short CV
 ---
 
 #### PhD in theoretical biophysics from *École Normale Supérieure* (06/2017)
-Work with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/) on optimal resource allocation and information processing in immune defense.
+Work with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/) on optimal resource allocation and information processing in immune defense. [Thesis](http://www.theses.fr/s183895)
 
 #### MSc in Physics from *Universität Göttingen* (08/2014)
 10/2013 - 08/2014: Master thesis at *École Normale Supérieure* under the supervision of [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/).
