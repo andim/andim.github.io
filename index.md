@@ -6,7 +6,7 @@ title: Home
 About me
 --------
 
-I am a physicist passionate about nonlinear dynamics and statistical mechanics - especially as applied to biological systems.
+Why are the strategies organisms have evolved to defend against pathogens so diverse across the tree of life? How does the adaptive immune system self-organize its repertoire of specific cells to provide protection against diverse and variable threats? To work towards an answer to these and similar questions I construct and analyze conceptual mathematical models aiming to capture some of the relevant trade-offs under which these biological systems operate. In my work I use ideas and tools from statistical mechanics, nonlinear dynamics, and the theory of stochastic processes.
 
 For more info check out my profile on [Github](https://github.com/andim), [LinkedIn](https://www.linkedin.com/pub/andreas-mayer/83/49a/a37), [Orcid](http://orcid.org/0000-0002-6643-7622), [StackOverflow](http://stackoverflow.com/users/3223145/andi), [ResearchGate](https://www.researchgate.net/profile/Andreas_Mayer8), or [Google Scholar](http://scholar.google.de/citations?user=BKGAixAAAAAJ).
 
