@@ -3,9 +3,11 @@ layout: page
 title: Publications
 ---
 
-*   A Mayer, **Noisyopt: A Python library for optimizing noisy functions**, *Journal of Open Source Software*, 2017, 2(13), [Paper](https://doi.org/10.21105/joss.00258), [Code](https://github.com/andim/noisyopt).
+*   A Mayer, O Rivoire, T Mora, and AM Walczak, **Transitions in optimal adaptive strategies for populations in fluctuating environments**, *Phys. Rev. E*, 2017, 96:032412. [Paper](https://doi.org/10.1103/PhysRevE.96.032412), [Preprint](https://arxiv.org/abs/1703.09780), [Code](https://github.com/andim/transitions-paper).
 
-*   A Mayer, O Rivoire, T Mora, and AM Walczak, **Transitions in optimal adaptive strategies for populations in fluctuating environments**, 2017. [Preprint](https://arxiv.org/abs/1703.09780), [Code](https://github.com/andim/transitions-paper).
+    Editor's suggestion.
+
+*   A Mayer, **Noisyopt: A Python library for optimizing noisy functions**, *Journal of Open Source Software*, 2017, 2(13), [Paper](https://doi.org/10.21105/joss.00258), [Code](https://github.com/andim/noisyopt).
 
 *   J Desponds, A Mayer, T Mora, and AM Walczak, **Population dynamics of immune repertoires**, 2017. [Preprint](https://doi.org/10.1101/112755).
 
@@ -25,6 +27,4 @@ title: Publications
 
 *   RD Diehl, HI Li, SY Su, A Mayer, NA Stanisha, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, and DP Woodruff, **Quantitative adsorbate structure determination for quasicrystals using X-ray standing waves**, *Phys. Rev. Lett.*, 2014, 113(10):106101. [Paper](http://dx.doi.org/10.1103/PhysRevLett.113.106101).
 
-*   A Mayer, H Salopaasi, K Pussi, and RD Diehl, **A novel method for the extraction of intensity--energy spectra from low-energy electron diffraction patterns**, *Comput. Phys. Commun.*, 2012, 183(7):1443--1447. [Paper](http://dx.doi.org/10.1016/j.cpc.2012.02.019), [Code](https://github.com/andim/easyleed).
-
-    Documentation of resulting software tool [online](http://andim.github.io/easyleed/).
+*   A Mayer, H Salopaasi, K Pussi, and RD Diehl, **A novel method for the extraction of intensity--energy spectra from low-energy electron diffraction patterns**, *Comput. Phys. Commun.*, 2012, 183(7):1443--1447. [Paper](http://dx.doi.org/10.1016/j.cpc.2012.02.019), [Code](https://github.com/andim/easyleed), [Software documentation](http://andim.github.io/easyleed/).
