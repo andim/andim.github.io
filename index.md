@@ -18,7 +18,7 @@ Laboratoire de Physique Théorique
 
 For more info check out my profile on [Github](https://github.com/andim), [LinkedIn](https://www.linkedin.com/pub/andreas-mayer/83/49a/a37), [Orcid](http://orcid.org/0000-0002-6643-7622), [StackOverflow](http://stackoverflow.com/users/3223145/andi), [ResearchGate](https://www.researchgate.net/profile/Andreas_Mayer8), or [Google Scholar](http://scholar.google.de/citations?user=BKGAixAAAAAJ).
 
-# Twitter Feed
+## Twitter Feed
 
 <a class="twitter-timeline"
     href="https://twitter.com/andimscience"
