@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-* A Mayer, P Bittihn, S Luther, **Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice**, *Physiological Reports*, 2017, accepted
+* A Mayer, P Bittihn, S Luther, **Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice**, *Physiological Reports*, 2017, 5:e13449, [Paper](http://doi.org/10.14814/phy2.13449)
 
 *   A Mayer, O Rivoire, T Mora, and AM Walczak, **Transitions in optimal adaptive strategies for populations in fluctuating environments**, *Phys. Rev. E*, 2017, 96:032412. [Paper](https://doi.org/10.1103/PhysRevE.96.032412), [Preprint](https://arxiv.org/abs/1703.09780), [Code](https://github.com/andim/transitions-paper).
 
