@@ -34,18 +34,18 @@ p {
     padding: 2rem 1rem;
   }
 }
-.theme-andim .sidebar-about h1 {
+.sidebar-about h1 {
     font-size: 1.5rem;
     font-family: "PT Sans", serif;
 }
-.theme-andim .sidebar-about .lead {
+.sidebar-about .lead {
     font-size: 0.75rem;
 }
-.theme-andim .sidebar-nav-item {
+.sidebar-nav-item {
   display: inline-flex;
 }
 @media (min-width: 38em) {
-  .theme-andim .sidebar-nav-item {
+  .sidebar-nav-item {
     display: block;
   }
 }
