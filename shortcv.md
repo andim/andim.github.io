@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short CV
+title: CV
 order: 4
 ---
 

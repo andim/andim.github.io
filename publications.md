@@ -14,13 +14,13 @@ order: 3
 
 *   J Desponds, A Mayer, T Mora, and AM Walczak, **Population dynamics of immune repertoires**, 2017. [Preprint](http://doi.org/10.1101/112755).
 
-*   A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**, *Proc. Natl. Acad. Sci. U.S.A.*, 2016, 113(31):8630--8635. [DOI](http://dx.doi.org/10.1073/pnas.1600663113), [PDF](http://physics.princeton.edu/~am66/paper/2016evolimmune.pdf), [Code](http://github.com/andim/evolimmune).
+*   A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**, *Proc Natl Acad Sci USA*, 2016, 113(31):8630--8635. [DOI](http://dx.doi.org/10.1073/pnas.1600663113), [PDF](http://physics.princeton.edu/~am66/paper/2016evolimmune.pdf), [Code](http://github.com/andim/evolimmune).
 
     [F1000prime](http://f1000.com/prime/726559726) recommended. French résumé of this work published as **Explication évolutive de la diversité des stratégies immunitaires**, *Med Sci (Paris)*, 2017, 33:593–595. [DOI](http://doi.org/10.1051/medsci/20173306012), [PDF](http://physics.princeton.edu/~am66/paper/2017evolimmunefr.pdf)
 
     Video of Aleksandra presenting this work @ [KITP](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (from slide 15).
 
-*   A Mayer, V Balasubramanian, T Mora, and AM Walczak, **How a well-adapted immune system is organized**, *Proc. Natl. Acad. Sci. U.S.A.*, 2015, 112(19):5950--5955. [DOI](http://dx.doi.org/10.1073/pnas.1421827112), [PDF](http://physics.princeton.edu/~am66/paper/2015optimmune.pdf), [Code](http://github.com/andim/optimmune). 
+*   A Mayer, V Balasubramanian, T Mora, and AM Walczak, **How a well-adapted immune system is organized**, *Proc Natl Acad Sci USA*, 2015, 112(19):5950--5955. [DOI](http://dx.doi.org/10.1073/pnas.1421827112), [PDF](http://physics.princeton.edu/~am66/paper/2015optimmune.pdf), [Code](http://github.com/andim/optimmune). 
 
     Featured in [phys.org medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html).
 
