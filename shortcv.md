@@ -6,7 +6,7 @@ title: Short CV
 #### Lewis-Sigler Theory Fellow, Princeton University (since 10/2017)
 
 #### PhD in theoretical biophysics, École Normale Supérieure (06/2017)
-Work with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/) on optimal resource allocation and information processing in immune defense. [Thesis](http://www.theses.fr/s183895).
+Work with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/) on optimal resource allocation and information processing in immune defense. [Thesis](https://hal.archives-ouvertes.fr/tel-01707653).
 
 #### MSc Physics, Universität Göttingen (08/2014)
 10/2013 - 08/2014: Master thesis at École Normale Supérieure with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/).
