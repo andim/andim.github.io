@@ -17,7 +17,7 @@ Master thesis at École Normale Supérieure with [Aleksandra Walczak](http://www
 Exchange semester at Université Paris-Sud
 
 #### BSc Physics, Universität Göttingen (07/2012)
-Bachelor thesis at Max Planck Institute for Dynamics and Self-Organization in the [Biomedical Physics group](http://bmp.ds.mpg.de/) under the supervision of Stefan Luther and Ulrich Parlitz
+Bachelor thesis with Stefan Luther and Ulrich Parlitz in the [Biomedical Physics group](http://bmp.ds.mpg.de/) at the Max Planck Institute for Dynamics and Self-Organization 
 
 [DAAD funded](https://www.daad.de/rise/en/rise-worldwide/) summer internships with [Ravi Jagadeeshan](http://users.monash.edu.au/~rprakash/) at Monash University, and [Renee Diehl](http://www.phys.psu.edu/people/rdd2) at the Pennsylvania State University 
 
