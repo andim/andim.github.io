@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Software
+order: 5
 ---
 
 ### Stand-alone

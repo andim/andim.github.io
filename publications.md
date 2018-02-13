@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+order: 3
 ---
 
 * A Mayer, P Bittihn, S Luther, **Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice**, *Physiological Reports*, 2017, 5:e13449, [DOI](http://doi.org/10.14814/phy2.13449), [PDF](http://physics.princeton.edu/~am66/paper/2017miceheart.pdf)

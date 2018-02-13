@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Short CV
+order: 4
 ---
 
 #### Lewis-Sigler Theory Fellow, Princeton University (since 10/2017)
