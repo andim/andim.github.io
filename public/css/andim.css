@@ -14,6 +14,16 @@ p {
   margin-bottom: 0.75rem;
 }
 
+.theme-andim .content {
+  padding-top:    1.5rem;
+  padding-bottom: 1.5rem;
+}
+.theme-andim .content a,
+.theme-andim .related-posts li a:hover {
+  color: #6a9fb5;
+}
+
+/* Sidebar nav */
 .theme-andim .sidebar {
   background-color: #2d314d;
   padding: 0.25rem 0.5rem;
@@ -31,11 +41,11 @@ p {
 .theme-andim .sidebar-about .lead {
     font-size: 0.75rem;
 }
-.theme-andim .content {
-  padding-top:    1.5rem;
-  padding-bottom: 1.5rem;
+.theme-andim .sidebar-nav-item {
+  display: inline-flex;
 }
-.theme-andim .content a,
-.theme-andim .related-posts li a:hover {
-  color: #6a9fb5;
+@media (min-width: 38em) {
+  .theme-andim .sidebar-nav-item {
+    display: block;
+  }
 }
