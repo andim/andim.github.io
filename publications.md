@@ -10,6 +10,8 @@ order: 3
 
     Selected as an Editor's suggestion.
 
+* A Mayer **Optimal immune systems: A resource allocation and information processing view of immune defense** PhD thesis, Ecole normale supérieure - PSL research University, 2017. [HAL](https://hal.archives-ouvertes.fr/tel-01707653), [PDF](http://physics.princeton.edu/~am66/paper/2017phdthesis.pdf).
+
 *   A Mayer, **Noisyopt: A Python library for optimizing noisy functions**, *Journal of Open Source Software*, 2017, 2(13), [DOI](http://doi.org/10.21105/joss.00258), [PDF](http://physics.princeton.edu/~am66/paper/2017noisyopt.pdf), [Code](http://github.com/andim/noisyopt).
 
 *   J Desponds, A Mayer, T Mora, and AM Walczak, **Population dynamics of immune repertoires**, 2017. [Preprint](http://doi.org/10.1101/112755).
