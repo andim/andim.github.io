@@ -4,7 +4,9 @@ title: Publications
 order: 3
 ---
 
-* A Mayer, P Bittihn, S Luther, **Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice**, *Physiological Reports*, 2017, 5:e13449, [DOI](http://doi.org/10.14814/phy2.13449), [PDF](http://physics.princeton.edu/~am66/paper/2017miceheart.pdf)
+* A Mayer, V Balasubramanian, T Mora, AM Walczak, **How a well-adapting immune system remembers**, Preprint, [DOI](https://doi.org/10.1101/347856).
+
+* A Mayer, P Bittihn, S Luther, **Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice**, *Physiological Reports*, 2017, 5:e13449, [DOI](http://doi.org/10.14814/phy2.13449), [PDF](http://physics.princeton.edu/~am66/paper/2017miceheart.pdf).
 
 *   A Mayer, O Rivoire, T Mora, and AM Walczak, **Transitions in optimal adaptive strategies for populations in fluctuating environments**, *Phys. Rev. E*, 2017, 96:032412. [DOI](http://doi.org/10.1103/PhysRevE.96.032412), [PDF](http://physics.princeton.edu/~am66/paper/2017transitions.pdf), [Code](http://github.com/andim/transitions-paper).
 
