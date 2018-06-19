@@ -4,7 +4,7 @@ title: Publications
 order: 3
 ---
 
-* A Mayer, V Balasubramanian, T Mora, AM Walczak, **How a well-adapting immune system remembers**, Preprint, [DOI](https://doi.org/10.1101/347856).
+* A Mayer, V Balasubramanian, T Mora, AM Walczak, **How a well-adapting immune system remembers**, Preprint, 2018. [DOI](https://doi.org/10.1101/347856).
 
 * A Mayer, P Bittihn, S Luther, **Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice**, *Physiological Reports*, 2017, 5:e13449, [DOI](http://doi.org/10.14814/phy2.13449), [PDF](http://physics.princeton.edu/~am66/paper/2017miceheart.pdf).
 
@@ -16,7 +16,7 @@ order: 3
 
 *   A Mayer, **Noisyopt: A Python library for optimizing noisy functions**, *Journal of Open Source Software*, 2017, 2(13), [DOI](http://doi.org/10.21105/joss.00258), [PDF](http://physics.princeton.edu/~am66/paper/2017noisyopt.pdf), [Code](http://github.com/andim/noisyopt).
 
-*   J Desponds, A Mayer, T Mora, and AM Walczak, **Population dynamics of immune repertoires**, 2017. [Preprint](http://doi.org/10.1101/112755).
+*   J Desponds, A Mayer, T Mora, and AM Walczak, **Population dynamics of immune repertoires**, Preprint, 2017. [DOI](http://doi.org/10.1101/112755).
 
 *   A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**, *Proc Natl Acad Sci USA*, 2016, 113(31):8630--8635. [DOI](http://dx.doi.org/10.1073/pnas.1600663113), [PDF](http://physics.princeton.edu/~am66/paper/2016evolimmune.pdf), [Code](http://github.com/andim/evolimmune).
 
