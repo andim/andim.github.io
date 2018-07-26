@@ -4,7 +4,7 @@ title: Publications
 order: 3
 ---
 
-* A Mayer, Y Zhang, AS Perelson, NS Wingreen, ** Regulation of T cell expansion by antigen presentation dynamics**, Preprint, 2018. [DOI](https://doi.org/10.1101/377036).
+* A Mayer, Y Zhang, AS Perelson, NS Wingreen, **Regulation of T cell expansion by antigen presentation dynamics**, Preprint, 2018. [DOI](https://doi.org/10.1101/377036).
 
 * A Mayer, V Balasubramanian, T Mora, AM Walczak, **How a well-adapting immune system remembers**, Preprint, 2018. [DOI](https://doi.org/10.1101/347856).
 
