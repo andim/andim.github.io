@@ -4,6 +4,8 @@ title: Publications
 order: 3
 ---
 
+* A Mayer, Y Zhang, AS Perelson, NS Wingreen, ** Regulation of T cell expansion by antigen presentation dynamics**, Preprint, 2018. [DOI](https://doi.org/10.1101/377036).
+
 * A Mayer, V Balasubramanian, T Mora, AM Walczak, **How a well-adapting immune system remembers**, Preprint, 2018. [DOI](https://doi.org/10.1101/347856).
 
 * A Mayer, P Bittihn, S Luther, **Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice**, *Physiological Reports*, 2017, 5:e13449, [DOI](http://doi.org/10.14814/phy2.13449), [PDF](http://physics.princeton.edu/~am66/paper/2017miceheart.pdf).
@@ -12,7 +14,7 @@ order: 3
 
     Selected as an Editor's suggestion.
 
-* A Mayer **Optimal immune systems: A resource allocation and information processing view of immune defense** PhD thesis, Ecole normale supérieure - PSL research University, 2017. [HAL](https://hal.archives-ouvertes.fr/tel-01707653), [PDF](http://physics.princeton.edu/~am66/paper/2017phdthesis.pdf).
+* A Mayer **Optimal immune systems: A resource allocation and information processing view of immune defense** PhD thesis, Ecole normale supérieure - PSL Research University, 2017. [HAL](https://hal.archives-ouvertes.fr/tel-01707653), [PDF](http://physics.princeton.edu/~am66/paper/2017phdthesis.pdf).
 
 *   A Mayer, **Noisyopt: A Python library for optimizing noisy functions**, *Journal of Open Source Software*, 2017, 2(13), [DOI](http://doi.org/10.21105/joss.00258), [PDF](http://physics.princeton.edu/~am66/paper/2017noisyopt.pdf), [Code](http://github.com/andim/noisyopt).
 
