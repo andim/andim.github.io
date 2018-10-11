@@ -4,6 +4,8 @@ title: Publications
 order: 3
 ---
 
+* M Carballo-Pacheco, J Desponds, T Gavrilchenko, A Mayer, R Prizak, G Reddy, I Nemenman, T Mora, **Receptor crosstalk improves concentration sensing of multiple ligands**, Preprint, 2018. [arXiv 1810.04589](https://arxiv.org/abs/1810.04589).
+
 * A Mayer, Y Zhang, AS Perelson, NS Wingreen, **Regulation of T cell expansion by antigen presentation dynamics**, Preprint, 2018. [DOI](https://doi.org/10.1101/377036).
 
 * A Mayer, V Balasubramanian, T Mora, AM Walczak, **How a well-adapting immune system remembers**, Preprint, 2018. [DOI](https://doi.org/10.1101/347856).
