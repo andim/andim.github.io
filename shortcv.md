@@ -6,7 +6,7 @@ order: 4
 
 #### Lewis-Sigler Theory Fellow, Princeton University (since 10/2017)
 
-Associate research scholar in the [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/), Lecturer in the [integrated science curriculum](https://lsi.princeton.edu/integratedscience).
+Associate research scholar in the [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/), Lecturer in the [Integrated Science Curriculum](https://lsi.princeton.edu/integratedscience).
 
 #### PhD in theoretical biophysics, École Normale Supérieure (06/2017)
 Work with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/) on optimal resource allocation and information processing in immune defense.
