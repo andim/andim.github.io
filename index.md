@@ -4,6 +4,8 @@ title: Home
 order: 1
 ---
 
+<img src="images/andreasmayer.jpg" align="right">
+
 I am a research fellow at the Lewis-Sigler Institute for Integrative Genomics at Princeton University working on topics in theoretical biophysics and quantitative immunology.
 
 You can contact me via [email](mailto:andimscience@gmail.com) or [twitter](http://twitter.com/andimscience).
