@@ -12,9 +12,7 @@ Associate research scholar in the [Lewis-Sigler Institute for Integrative Genomi
 Work with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/) on optimal resource allocation and information processing in immune defense.
 
 #### MSc Physics, Universität Göttingen (08/2014)
-Master thesis at École Normale Supérieure with [Aleksandra Walczak](http://www.phys.ens.fr/~awalczak/) and [Thierry Mora](http://www.phys.ens.fr/~tmora/).
-
-Exchange semester at Université Paris-Sud
+Master thesis at École Normale Supérieure, exchange semester at Université Paris-Sud.
 
 #### BSc Physics, Universität Göttingen (07/2012)
 Bachelor thesis with Stefan Luther and Ulrich Parlitz in the [Biomedical Physics group](http://bmp.ds.mpg.de/) at the Max Planck Institute for Dynamics and Self-Organization 
