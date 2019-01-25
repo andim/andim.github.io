@@ -4,7 +4,7 @@ html {
   font-size: 14px;
   line-height: 1.25;
 }
-@media (min-width: 38em) {
+@media (min-width: 48em) {
   html {
     font-size: 18px;
   }
@@ -29,7 +29,7 @@ p {
   padding: 0.25rem 0.5rem;
   color: #ccddcc;
 }
-@media (min-width: 38em) {
+@media (min-width: 48em) {
   .theme-andim .sidebar {
     padding: 2rem 1rem;
   }
@@ -43,9 +43,11 @@ p {
 }
 .sidebar-nav-item {
   display: inline-flex;
+  padding: 0.1em 0.1em;
 }
-@media (min-width: 38em) {
+@media (min-width: 48em) {
   .sidebar-nav-item {
     display: block;
+    padding: 0em 0em;
   }
 }
