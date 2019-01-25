@@ -10,6 +10,7 @@ title:            Andreas Mayer
 tagline:          'Theoretical biophysics @ Princeton'
 description:      'Lewis-Sigler Theory Fellow at Princeton University'
 url:              http://andim.github.io/
+baseurl:          /
 
 author:
   name:           'Andreas Mayer'
