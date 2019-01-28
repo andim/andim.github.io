@@ -7,6 +7,8 @@ order: 1
 <img style="width:7em" src="images/andreasmayer.jpg" align="right">
 I am a research fellow at the Lewis-Sigler Institute for Integrative Genomics at Princeton University working on topics in theoretical biophysics and quantitative immunology.
 
+Much of my work is in collaboration with other members of the [Princeton Center for the Physics of Biological function](https://biophysics.princeton.edu/), including the theoretical biophysics groups of Profs. Bill Bialek, Curt Callan, and Ned Wingreen. 
+
 You can contact me via [email](mailto:andimscience@gmail.com) or [twitter](http://twitter.com/andimscience).
 
 You can find me [here](https://www.google.com/maps/place/Icahn+Laboratory,+Princeton,+NJ+08540/@40.3443669,-74.655529,17z):
