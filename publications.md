@@ -8,7 +8,7 @@ order: 3
 
 * A Mayer, Y Zhang, AS Perelson, NS Wingreen, **Regulation of T cell expansion by antigen presentation dynamics**, *arXiv Preprint*, 1807.09481 [<i class="ai ai-arxiv"></i>](https://arxiv.org/abs/1807.09481)
 
-* A Mayer, V Balasubramanian, T Mora, AM Walczak, **How a well-adapting immune system remembers**, *arXiv Preprint*, 1806.05753 [<i class="ai ai-arxiv"></i>](https://arxiv.org/abs/1806.05753)
+* A Mayer, V Balasubramanian, AM Walczak, T Mora, **How a well-adapting immune system remembers**, *arXiv Preprint*, 1806.05753 [<i class="ai ai-arxiv"></i>](https://arxiv.org/abs/1806.05753)
 
 * A Mayer, P Bittihn, S Luther, **Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice**, *Physiological Reports*, 2017, 5:e13449 [<i class="ai ai-doi"></i>](http://doi.org/10.14814/phy2.13449) [<i class="ai ai-open-access"></i>](http://physics.princeton.edu/~am66/paper/2017miceheart.pdf)
 
