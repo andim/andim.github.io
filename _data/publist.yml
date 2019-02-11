@@ -1,0 +1,120 @@
+- authors: M Carballo-Pacheco, J Desponds, T Gavrilchenko, A Mayer, R Prizak, G Reddy, I Nemenman, T Mora
+  title: Receptor crosstalk improves concentration sensing of multiple ligands
+  journal: arXiv Preprint
+  year: 2018
+  detail: 1810.04589
+  links:
+      arxiv: https://arxiv.org/abs/1810.04589
+
+- authors: A Mayer, Y Zhang, AS Perelson, NS Wingreen
+  title: Regulation of T cell expansion by antigen presentation dynamics
+  journal: arXiv Preprint
+  year: 2018
+  detail: 1807.09481
+  links:
+      arxiv: https://arxiv.org/abs/1807.09481
+
+- authors: A Mayer, V Balasubramanian, AM Walczak, T Mora
+  title: How a well-adapting immune system remembers
+  journal: arXiv Preprint
+  year: 2018
+  detail: 1806.05753
+  links:
+      arxiv: https://arxiv.org/abs/1806.05753
+- authors: A Mayer, P Bittihn, S Luther
+  title: Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice
+  journal: Physiological Reports
+  year: 2017
+  detail: 5:e13449
+  links:
+      doi: http://doi.org/10.14814/phy2.13449
+      pdf: http://physics.princeton.edu/~am66/paper/2017miceheart.pdf
+
+- authors: A Mayer
+  title: Optimal immune systems. A resource allocation and information processing view of immune defense
+  journal: PhD thesis
+  year: 2017
+  detail: Ecole normale supérieure - PSL Research University
+  links:
+      doi: https://hal.archives-ouvertes.fr/tel-01707653 
+      pdf: http://physics.princeton.edu/~am66/paper/2017phdthesis.pdf
+      
+- authors: A Mayer, O Rivoire, T Mora, and AM Walczak
+  title: Transitions in optimal adaptive strategies for populations in fluctuating environments
+  journal: PRE
+  year: 2017
+  detail: 96:032412
+  links:
+      doi: http://doi.org/10.1103/PhysRevE.96.032412
+      pdf: http://physics.princeton.edu/~am66/paper/2017transitions.pdf
+      github: http://github.com/andim/transitions-paper
+  media: Selected as an Editor's suggestion.
+
+- authors: A Mayer
+  title: Noisyopt. A Python library for optimizing noisy functions
+  journal: Journal of Open Source Software
+  year: 2017
+  detail: 2(13)
+  links:
+      doi: http://doi.org/10.21105/joss.00258
+      pdf: http://physics.princeton.edu/~am66/paper/2017noisyopt.pdf
+      github: http://github.com/andim/noisyopt
+
+- authors: J Desponds, A Mayer, T Mora, and AM Walczak
+  title: Population dynamics of immune repertoires
+  journal: arXiv Preprint
+  year: 2017
+  links:
+      doi: http://doi.org/10.1101/112755
+
+- authors: A Mayer, O Rivoire, T Mora, and AM Walczak
+  title: Diversity of immune strategies explained by adaptation to pathogen statistics
+  journal: PNAS
+  year: 2016
+  detail: 113(31):8630--8635
+  links:
+      doi: http://dx.doi.org/10.1073/pnas.1600663113
+      pdf: http://physics.princeton.edu/~am66/paper/2016evolimmune.pdf
+      github: http://github.com/andim/evolimmune
+  media: "[F1000prime](http://f1000.com/prime/726559726) recommended &middot; French résumé of this work published in Med Sci (2017) [<i class='ai ai-doi'></i>](http://doi.org/10.1051/medsci/20173306012) [<i class='ai ai-open-access'></i>](http://physics.princeton.edu/~am66/paper/2017evolimmunefr.pdf) &middot; Video of Aleksandra presenting this work @ [KITP](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (from slide 15)"
+
+- authors: A Mayer, V Balasubramanian, T Mora, and AM Walczak
+  title: How a well-adapted immune system is organized
+  journal: PNAS
+  year: 2015
+  detail: 112(19):5950--5955
+  links:
+      doi: http://dx.doi.org/10.1073/pnas.1421827112
+      pdf: http://physics.princeton.edu/~am66/paper/2015optimmune.pdf
+      github: http://github.com/andim/optimmune
+  media: "Featured in [phys.org medicalxpress](http://medicalxpress.com/news/2015-05-host-thyself-immune-self-organizes-minimize.html) &middot; Videos of Aleksandra presenting this work @ [ENS](http://www.savoirs.ens.fr/expose.php?id=2333) (from 38 min 10 s) and @ [KITP](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (to slide 15) &middot; Video of Vijay presenting this work @ [ICTS](http://www.youtube.com/watch?v=7xnvNp8SKJY&t=32m0s)"
+      
+- authors: DP Woodruff, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, HI Li, SY Su, A Mayer, NA Stanisha, and RD Diehl
+  title: X-ray standing wave study of Si clusters on a decagonal Al-Co-Ni quasicrystal surface
+  journal: PRB
+  year: 2015
+  detail: 91:115418
+  links:
+      doi: http://dx.doi.org/10.1103/PhysRevB.91.115418
+      pdf: http://physics.princeton.edu/~am66/paper/2015quasicrystal.pdf
+      
+- authors: RD Diehl, HI Li, SY Su, A Mayer, NA Stanisha, J Ledieu, KRJ Lovelock, RG Jones, A Deyko, LH Wearing, R McGrath, A Chaudhuri, and DP Woodruff
+  title: Quantitative adsorbate structure determination for quasicrystals using X-ray standing waves
+  journal: PRL
+  year: 2014
+  detail: 113(10):106101
+  links:
+      doi: http://dx.doi.org/10.1103/PhysRevLett.113.106101
+      pdf: http://physics.princeton.edu/~am66/paper/2014quasicrystal.pdf
+
+- authors: A Mayer, H Salopaasi, K Pussi, and RD Diehl
+  title: A novel method for the extraction of intensity--energy spectra from low-energy electron diffraction patterns
+  journal: Comput. Phys. Commun.
+  year: 2012
+  detail: 183(7):1443--1447
+  links:
+      doi: http://dx.doi.org/10.1016/j.cpc.2012.02.019
+      pdf: http://physics.princeton.edu/~am66/paper/2012easyleed.pdf
+      github: http://github.com/andim/easyleed
+      
+
