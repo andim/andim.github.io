@@ -1,3 +1,11 @@
+- authors: S Mayer, J Chen, D Velmeshev, A Mayer, UZ Eze, A Bhaduri, CE Cunha, D Jung,A Arjun, E Li, B Alvarado, S Wang, N Lovegren, ML Gonzales, L Szpankowski, A Leyrat, JAA West, G Panagiotakos, A Alvarez-Buylla, MF Paredes, TJ Nowakowski, AA Pollen, AR Kriegstein
+  title: Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex
+  journal: Neuron
+  year: 2019
+  detail: 102, 1-16
+  links:
+      doi: https://doi.org/10.1016/j.neuron.2019.01.027
+
 - authors: M Carballo-Pacheco, J Desponds, T Gavrilchenko, A Mayer, R Prizak, G Reddy, I Nemenman, T Mora
   title: Receptor crosstalk improves concentration sensing of multiple ligands
   journal: arXiv Preprint
