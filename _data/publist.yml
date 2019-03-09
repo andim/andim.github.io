@@ -1,3 +1,11 @@
+- authors: A Mayer, Y Zhang, AS Perelson, NS Wingreen
+  title: Regulation of T cell expansion by antigen presentation dynamics
+  journal: PNAS
+  year: 2019
+  detail: 
+  links:
+      doi: https://doi.org/10.1073/pnas.1812800116
+
 - authors: S Mayer, J Chen, D Velmeshev, A Mayer, UZ Eze, A Bhaduri, CE Cunha, D Jung,A Arjun, E Li, B Alvarado, S Wang, N Lovegren, ML Gonzales, L Szpankowski, A Leyrat, JAA West, G Panagiotakos, A Alvarez-Buylla, MF Paredes, TJ Nowakowski, AA Pollen, AR Kriegstein
   title: Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex
   journal: Neuron
@@ -13,14 +21,6 @@
   detail: 99 (2), 022423
   links:
       doi: https://doi.org/10.1103/PhysRevE.99.022423
-
-- authors: A Mayer, Y Zhang, AS Perelson, NS Wingreen
-  title: Regulation of T cell expansion by antigen presentation dynamics
-  journal: arXiv Preprint
-  year: 2018
-  detail: 1807.09481
-  links:
-      arxiv: https://arxiv.org/abs/1807.09481
 
 - authors: A Mayer, V Balasubramanian, AM Walczak, T Mora
   title: How a well-adapting immune system remembers
