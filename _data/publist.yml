@@ -31,6 +31,8 @@
   detail: 1806.05753
   links:
       arxiv: https://arxiv.org/abs/1806.05753
+  media: "Video of Aleksandra presenting this work in [Bordeaux](https://youtu.be/4WvkavDnbsY?t=7m22s)"
+
 - authors: A Mayer, P Bittihn, S Luther
   title: Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice
   journal: Physiol Rep
@@ -72,7 +74,7 @@
 
 - authors: J Desponds, A Mayer, T Mora, and AM Walczak
   title: Population dynamics of immune repertoires
-  journal: arXiv Preprint
+  journal: arXiv Preprint (to appear as Springer book chapter)
   year: 2017
   links:
       doi: http://doi.org/10.1101/112755
