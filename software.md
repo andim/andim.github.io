@@ -4,13 +4,13 @@ title: Software
 order: 5
 ---
 
-### [Noisyopt](http://noisyopt.readthedocs.org/)
-
-Python library for optimization of a function from noisy function evaluations using a robust pattern search algorithm with adaptive sampling or stochastic approximation
-
 ### [Easyleed](http://andim.github.io/easyleed/)
 
 Software for the automated extraction of intensity-energy spectra from low-energy election diffraction patterns based on image analysis and spot tracking.
+
+### [Noisyopt](http://noisyopt.readthedocs.org/)
+
+Python library for optimization of a function from noisy function evaluations using a robust pattern search algorithm with adaptive sampling or stochastic approximation
 
 ### Other
 
