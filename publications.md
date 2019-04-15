@@ -17,3 +17,5 @@ order: 3
 {% endif %}
 
 {% endfor %}
+
+\*: Equal contribution
