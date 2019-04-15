@@ -7,6 +7,16 @@
       doi: https://doi.org/10.1073/pnas.1812800116
   media: "Featured in [Princeton discovery blog](https://discovery.princeton.edu/2019/03/11/for-infection-fighting-cells-a-guideline-for-expanding-the-troops/)"
 
+- authors: A Mayer, V Balasubramanian, AM Walczak\*, T Mora\*
+  title: How a well-adapting immune system remembers
+  journal: PNAS
+  year: 2019
+  detail: 
+  links:
+      doi: https://doi.org/10.1073/pnas.1812810116
+  media: "Video of Aleksandra presenting this work in [Bordeaux](https://youtu.be/4WvkavDnbsY?t=7m22s)"
+
+
 - authors: S Mayer\*, J Chen\*, D Velmeshev, A Mayer, UZ Eze, A Bhaduri, CE Cunha, D Jung,A Arjun, E Li, B Alvarado, S Wang, N Lovegren, ML Gonzales, L Szpankowski, A Leyrat, JAA West, G Panagiotakos, A Alvarez-Buylla, MF Paredes, TJ Nowakowski, AA Pollen, AR Kriegstein
   title: Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex
   journal: Neuron
@@ -23,15 +33,6 @@
   detail: 99 (2), 022423
   links:
       doi: https://doi.org/10.1103/PhysRevE.99.022423
-
-- authors: A Mayer, V Balasubramanian, AM Walczak\*, T Mora\*
-  title: How a well-adapting immune system remembers
-  journal: arXiv Preprint
-  year: 2018
-  detail: 1806.05753
-  links:
-      arxiv: https://arxiv.org/abs/1806.05753
-  media: "Video of Aleksandra presenting this work in [Bordeaux](https://youtu.be/4WvkavDnbsY?t=7m22s)"
 
 - authors: A Mayer, P Bittihn, S Luther
   title: Complex restitution behavior and reentry in a cardiac tissue model for neonatal mice
