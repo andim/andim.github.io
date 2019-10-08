@@ -18,6 +18,10 @@ Princeton University
 232 Carl Icahn Lab  
 Princeton, NJ 08544, USA 
 
+### News
+
+- 10/19: We are organizing a conference at PCTS on [Sensing chemical spaces](bit.ly/chemspaces) in Princeton December 11-13. Signup is free but required.
+
 ### Selected Publications
 
 A Mayer, Y Zhang, AS Perelson, NS Wingreen, **Regulation of T cell expansion by antigen presentation dynamics**, PNAS, 2019. [<i class="ai ai-doi"></i>](https://doi.org/10.1073/pnas.1812800116)
