@@ -20,7 +20,7 @@ Princeton, NJ 08544, USA
 
 ### News
 
-- 10/19: We are organizing a conference at PCTS on [Sensing chemical spaces](bit.ly/chemspaces) in Princeton December 11-13. Signup is free but required.
+- 10/19: We are organizing a conference at PCTS on [Sensing chemical spaces](http://bit.ly/chemspaces) in Princeton December 11-13. Signup is free but required.
 
 ### Selected Publications
 

@@ -8,6 +8,15 @@
       github: https://github.com/andim/paper-tcellexp
   media: "Featured in [Princeton discovery blog](https://discovery.princeton.edu/2019/03/11/for-infection-fighting-cells-a-guideline-for-expanding-the-troops/)"
 
+- authors: S Mayer\*, J Chen\*, D Velmeshev, A Mayer, UZ Eze, A Bhaduri, CE Cunha, D Jung,A Arjun, E Li, B Alvarado, S Wang, N Lovegren, ML Gonzales, L Szpankowski, A Leyrat, JAA West, G Panagiotakos, A Alvarez-Buylla, MF Paredes, TJ Nowakowski, AA Pollen, AR Kriegstein
+  title: Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex
+  journal: Neuron
+  year: 2019
+  detail: 102, 1-16
+  links:
+      doi: https://doi.org/10.1016/j.neuron.2019.01.027
+  media: "Featured in [Brainpost blog](https://www.brainpost.co/weekly-brainpost/2019/2/19/neuronal-maturation-in-the-developing-human-brain)"
+
 - authors: A Mayer, V Balasubramanian, AM Walczak\*\*, T Mora\*\*
   title: How a well-adapting immune system remembers
   journal: PNAS
@@ -17,16 +26,6 @@
       doi: https://doi.org/10.1073/pnas.1812810116
       github: https://github.com/andim/paper-bayesimmune
   media: "Video of Aleksandra presenting this work in [Bordeaux](https://youtu.be/4WvkavDnbsY?t=7m22s)"
-
-
-- authors: S Mayer\*, J Chen\*, D Velmeshev, A Mayer, UZ Eze, A Bhaduri, CE Cunha, D Jung,A Arjun, E Li, B Alvarado, S Wang, N Lovegren, ML Gonzales, L Szpankowski, A Leyrat, JAA West, G Panagiotakos, A Alvarez-Buylla, MF Paredes, TJ Nowakowski, AA Pollen, AR Kriegstein
-  title: Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex
-  journal: Neuron
-  year: 2019
-  detail: 102, 1-16
-  links:
-      doi: https://doi.org/10.1016/j.neuron.2019.01.027
-  media: "Featured in [Brainpost blog](https://www.brainpost.co/weekly-brainpost/2019/2/19/neuronal-maturation-in-the-developing-human-brain)"
 
 - authors: M Carballo-Pacheco\*, J Desponds\*, T Gavrilchenko\*, A Mayer\*, R Prizak\*, G Reddy\*, I Nemenman\*\*, T Mora\*\*
   title: Receptor crosstalk improves concentration sensing of multiple ligands
