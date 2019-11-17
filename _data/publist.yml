@@ -15,7 +15,7 @@
   detail: 102, 1-16
   links:
       doi: https://doi.org/10.1016/j.neuron.2019.01.027
-  media: "Featured in [Brainpost blog](https://www.brainpost.co/weekly-brainpost/2019/2/19/neuronal-maturation-in-the-developing-human-brain)"
+  media: "Featured in [Brainpost blog](https://www.brainpost.co/weekly-brainpost/2019/2/19/neuronal-maturation-in-the-developing-human-brain) &middot; [F1000](https://f1000.com/prime/735105606) recommended"
 
 - authors: A Mayer, V Balasubramanian, AM Walczak\*\*, T Mora\*\*
   title: How a well-adapting immune system remembers
@@ -90,7 +90,7 @@
       doi: http://dx.doi.org/10.1073/pnas.1600663113
       pdf: http://physics.princeton.edu/~am66/paper/2016evolimmune.pdf
       github: http://github.com/andim/evolimmune
-  media: "[F1000prime](http://f1000.com/prime/726559726) recommended &middot; French résumé of this work published in Med Sci (2017) [<i class='ai ai-doi'></i>](http://doi.org/10.1051/medsci/20173306012) [<i class='ai ai-open-access'></i>](http://physics.princeton.edu/~am66/paper/2017evolimmunefr.pdf) &middot; Video of Aleksandra presenting this work @ [KITP](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (from slide 15)"
+  media: "French résumé of this work published in Med Sci (2017) [<i class='ai ai-doi'></i>](http://doi.org/10.1051/medsci/20173306012) [<i class='ai ai-open-access'></i>](http://physics.princeton.edu/~am66/paper/2017evolimmunefr.pdf) &middot; [F1000](http://f1000.com/prime/726559726) recommended &middot; Video of Aleksandra presenting this work @ [KITP](http://online.kitp.ucsb.edu/online/immuno16/walczak/) (from slide 15)"
 
 - authors: A Mayer, V Balasubramanian, T Mora, and AM Walczak
   title: How a well-adapted immune system is organized
