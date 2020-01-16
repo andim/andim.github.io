@@ -18,6 +18,18 @@ ul {
     list-style-type: square;
 }
 
+/* add horn list type for announcements */
+ul.horn {
+    list-style-type: none;
+}
+
+ul.horn li::before {
+    content: "\f0a1";
+    font-family: 'FontAwesome';
+    float: left;
+    margin-left: -1.5em;
+}
+
 .theme-andim .content {
   padding-top:    1.5rem;
   padding-bottom: 1.5rem;
