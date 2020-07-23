@@ -1,3 +1,12 @@
+- authors: MG Gaimann, M Nguyen, J Desponds, A Mayer
+  title: Early life imprints the hierarchy of T cell clone sizes
+  journal: Preprint
+  year: 2020
+  links:
+      doi: https://doi.org/10.1101/2020.07.21.214841
+      arxiv: https://arxiv.org/abs/2007.11113
+  media: "Video of Andreas presenting this work in [Oaxaca](http://www.birs.ca/events/2019/5-day-workshops/19w5150/videos/watch/201908221242-Mayer.html)"
+
 - authors: A Mayer, Y Zhang, AS Perelson, NS Wingreen
   title: Regulation of T cell expansion by antigen presentation dynamics
   journal: PNAS
@@ -76,7 +85,7 @@
 
 - authors: J Desponds, A Mayer, T Mora, and AM Walczak
   title: Population dynamics of immune repertoires
-  journal: arXiv Preprint (to appear as Springer book chapter)
+  journal: Preprint (to appear as Springer book chapter)
   year: 2017
   links:
       doi: http://doi.org/10.1101/112755
