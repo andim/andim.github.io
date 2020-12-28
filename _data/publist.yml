@@ -5,7 +5,7 @@
   detail: 118 (1) e2011709118
   links:
       doi: https://doi.org/10.1073/pnas.2011709118 
-      arxiv: https://arxiv.org/abs/2012.00252 
+      github: https://github.com/Emergent-Behaviors-in-Biology/immune-svm
  
 - authors: MG Gaimann, M Nguyen, J Desponds, A Mayer
   title: Early life imprints the hierarchy of T cell clone sizes
@@ -14,6 +14,7 @@
   detail: 9 e61639
   links:
       doi: https://doi.org/10.7554/eLife.61639
+      github: https://github.com/andim/paper-tcellimprint
   media: "Video of Andreas presenting this work in [Oaxaca](http://www.birs.ca/events/2019/5-day-workshops/19w5150/videos/watch/201908221242-Mayer.html)"
 
 - authors: A Mayer, Y Zhang, AS Perelson, NS Wingreen
