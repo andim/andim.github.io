@@ -1,17 +1,19 @@
 - authors: R Marsland, O Howell, A Mayer, P Mehta
   title: Tregs self-organize into a "computing ecosystem" and implement a sophisticated optimization algorithm for mediating immune response 
-  journal: Preprint
-  year: 2020
+  journal: PNAS
+  year: 2021
+  detail: 118 (1) e2011709118
   links:
+      doi: https://doi.org/10.1073/pnas.2011709118 
       arxiv: https://arxiv.org/abs/2012.00252 
  
 - authors: MG Gaimann, M Nguyen, J Desponds, A Mayer
   title: Early life imprints the hierarchy of T cell clone sizes
-  journal: Preprint
+  journal: eLife
   year: 2020
+  detail: 9 e61639
   links:
-      doi: https://doi.org/10.1101/2020.07.21.214841
-      arxiv: https://arxiv.org/abs/2007.11113
+      doi: https://doi.org/10.7554/eLife.61639
   media: "Video of Andreas presenting this work in [Oaxaca](http://www.birs.ca/events/2019/5-day-workshops/19w5150/videos/watch/201908221242-Mayer.html)"
 
 - authors: A Mayer, Y Zhang, AS Perelson, NS Wingreen
