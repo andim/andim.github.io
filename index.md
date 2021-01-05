@@ -21,7 +21,7 @@ Princeton, NJ 08544, USA
 ### News
 
 - Mar 5 2020: I gave an invited (virtual) talk at the APS march meeting in the [Population dynamics in time-varying environments](http://meetings.aps.org/Meeting/MAR20/Session/U27) session.
-- December 11-13 2019: We have organized a conference at PCTS on [Sensing chemical spaces](http://bit.ly/chemspaces). Video recordings of the lectures are available [here](http://www.kaltura.com/tiny/opthb).
+- December 11-13 2019: We have organized a conference at PCTS on [Sensing chemical spaces](http://pcts.princeton.edu/programs/past/sensing-chemical-spaces/122). Video recordings of the lectures are available [here](http://www.kaltura.com/tiny/opthb).
 {:.horn}
 
 ### Selected Publications
