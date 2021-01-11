@@ -103,10 +103,11 @@
 
 - authors: J Desponds, A Mayer, T Mora, and AM Walczak
   title: Population dynamics of immune repertoires
-  journal: Preprint (to appear as Springer book chapter)
-  year: 2017
+  journal: Book chapter in: "Mathematical, Computational and Experimental T Cell Immunology" (Springer), first appeared as arXiv preprint arXiv:1703.00226
+  year: 2021
   links:
-      doi: http://doi.org/10.1101/112755
+      doi: https://doi.org/10.1007/978-3-030-57204-4_12
+      arxiv: https://arxiv.org/abs/1703.00226 
 
 - authors: A Mayer, T Mora, O Rivoire, and AM Walczak
   title: Diversity of immune strategies explained by adaptation to pathogen statistics
