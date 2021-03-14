@@ -1,6 +1,15 @@
+- authors: AE Downie, A Mayer, CJE Metcalf, AL Graham
+  title: Optimal immune specificity at the intersection of host life history and parasite epidemiology
+  journal: bioRxiv Preprint
+  year: 2021
+  detail: 2021.03
+  links:
+      doi: https://doi.org/10.1101/2021.03.11.434955
+
+
 - authors: H Chen\*, A Mayer\*, V Balasubramanian
   title: A scaling law in CRISPR repertoire sizes arises from avoidance of autoimmunity 
-  journal: arxiv Preprint
+  journal: arXiv Preprint
   year: 2021
   detail: 2101.01267
   links:
