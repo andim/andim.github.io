@@ -1,10 +1,10 @@
 - authors: AE Downie, A Mayer, CJE Metcalf, AL Graham
   title: Optimal immune specificity at the intersection of host life history and parasite epidemiology
-  journal: bioRxiv Preprint
+  journal: PloS Comp Bio
   year: 2021
-  detail: 2021.03
+  detail: 17(12): e1009714
   links:
-      doi: https://doi.org/10.1101/2021.03.11.434955
+      doi: https://doi.org/10.1371/journal.pcbi.1009714
 
 
 - authors: H Chen\*, A Mayer\*, V Balasubramanian
