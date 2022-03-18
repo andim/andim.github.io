@@ -5,6 +5,7 @@
   detail: 17(12) e1009714
   links:
       doi: https://doi.org/10.1371/journal.pcbi.1009714
+      github: https://github.com/andim/crispr_repertoires/ 
 
 
 - authors: H Chen\*, A Mayer\*, V Balasubramanian
