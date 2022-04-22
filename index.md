@@ -5,7 +5,7 @@ order: 1
 ---
 
 <img style="width:7em" src="images/andreasmayer.jpg" align="right">
-I lead a research group at the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at University College London with a focus on quantitative immunology and biological physics.
+I lead a research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at University College London with a focus on quantitative immunology and biological physics.
 
 I was previously at the [Princeton Center for the Physics of Biological Function](https://biophysics.princeton.edu/), and I maintain collaborations with the theoretical biophysics groups of Profs. Bill Bialek, Curt Callan, and Ned Wingreen. 
 
