@@ -5,21 +5,22 @@ order: 1
 ---
 
 <img style="width:7em" src="images/andreasmayer.jpg" align="right">
-I am a research fellow at the Lewis-Sigler Institute for Integrative Genomics at Princeton University working on topics in theoretical biophysics and quantitative immunology.
+I lead a research group at the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at University College London with a focus on quantitative immunology and biological physics.
 
-In my work I collaborate with other members of the [Princeton Center for the Physics of Biological Function](https://biophysics.princeton.edu/), in particular the theoretical biophysics groups of Profs. Bill Bialek, Curt Callan, and Ned Wingreen. 
+I was previously at the [Princeton Center for the Physics of Biological Function](https://biophysics.princeton.edu/), and I maintain collaborations with the theoretical biophysics groups of Profs. Bill Bialek, Curt Callan, and Ned Wingreen. 
 
 You can contact me via [email](mailto:andimscience@gmail.com) or [twitter](http://twitter.com/andimscience).
 
-You can find me [here](https://www.google.com/maps/place/Icahn+Laboratory,+Princeton,+NJ+08540/@40.3443669,-74.655529,17z):
+You can find me [here](https://goo.gl/maps/RsAgTCkQwTSLdBVK7):
 
-Lewis-Sigler Institute for Integrative Genomics  
-Princeton University  
-232 Carl Icahn Lab  
-Princeton, NJ 08544, USA 
+Division of Infection and Immunity
+University College London
+302 Pears Building
+London, NW3 2PP, UK
 
 ### News
 
+- Apr 7 2022: First day at UCL!
 - Mar 15 2022: I gave a talk at the APS march meeting in an invited session on [Sensing chemical spaces](https://meetings.aps.org/Meeting/MAR22/Session/F14).
 - Mar 5 2020: I gave an invited (virtual) talk at the APS march meeting in the [Population dynamics in time-varying environments](http://meetings.aps.org/Meeting/MAR20/Session/U27) session.
 - December 11-13 2019: We have organized a conference at PCTS on [Sensing chemical spaces](http://pcts.princeton.edu/programs/past/sensing-chemical-spaces/122). Video recordings of the lectures are available [here](http://www.kaltura.com/tiny/opthb).

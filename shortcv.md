@@ -4,7 +4,12 @@ title: CV
 order: 4
 ---
 
-#### Since 10/2017 -- Lewis-Sigler Theory Fellow, Princeton University
+#### Since 04/2022 -- Lecturer (UK eq. Assistant Professor), University College London
+
+[Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) and [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/)
+
+
+#### 2017-2022 -- Lewis-Sigler Theory Fellow, Princeton University
 
 Associate research scholar in the [Lewis-Sigler Institute for Integrative Genomics](https://lsi.princeton.edu/), Lecturer in the [Integrated Science Curriculum](https://lsi.princeton.edu/integratedscience).
 
