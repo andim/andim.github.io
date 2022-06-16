@@ -6,6 +6,7 @@
   links:
       doi: https://doi.org/10.1016/j.cub.2022.05.021
       github: https://github.com/andim/crispr_repertoires/
+  media: "Featured in [UPenn Today](https://penntoday.upenn.edu/news/how-bacteria-store-information-kill-viruses-not-themselves) and [Genetic Engineering & Biotechnology News](https://www.genengnews.com/topics/genome-editing/crispr-scaling-law-helps-bacteria-balance-autoimmunity-and-antiviral-defense/)"
       
 - authors: AE Downie, A Mayer, CJE Metcalf, AL Graham
   title: Optimal immune specificity at the intersection of host life history and parasite epidemiology
