@@ -5,8 +5,8 @@ order: 3
 ---
 
 <img style="width:9em;margin-left:1em;margin-top:1em,border-radius:5px" src="../images/andreasmayer.jpg" align="right">
-Andreas Mayer  
-Group Leader and Lecturer in Computational Biology  
+**Andreas Mayer**  
+*Group Leader and Lecturer in Computational Biology*  
 <a href="https://scholar.google.com/citations?user=BKGAixAAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;
 <a href="http://orcid.org/0000-0002-6643-7622"><i class="ai ai-orcid"></i></a> &nbsp;
 <a href="https://github.com/andim"><i class="fa fa-github"></i></a> &nbsp;

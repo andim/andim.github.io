@@ -4,7 +4,9 @@ title: Home
 order: 1
 ---
 
-We are a research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our lab's mission is to use computation and theory to understand immunological phenomena quantitatively.
+#### Our lab's mission is to use computation and theory to understand immunology quantitatively.
+
+We are a Quantitative Immunology research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. 
 
 Our approaches are often rooted in ideas from biological physics and we are part of UCL's [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/).
 
@@ -12,7 +14,7 @@ Our research builds on strong collaborative links within the [Innate2Adaptive la
 
 You can contact us via [email](mailto:andimscience@gmail.com) or [twitter](http://twitter.com/andimscience).
 
-You can find us [here](https://goo.gl/maps/RsAgTCkQwTSLdBVK7):
+We are thrilled to be part of the [Institute of Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/), a new hub for immunology research located in central North London in a stunning building within walking distance to Hampstead Heath. You can find us [here](https://goo.gl/maps/RsAgTCkQwTSLdBVK7):
 
 Division of Infection and Immunity  
 University College London  
