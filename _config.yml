@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Andreas Mayer
+title:            QImmunoLab @ UCL
 tagline:          'Quantitative Immunology @ UCL'
-description:      'Lecturer at University College London'
+description:      'Group Leader: Andreas Mayer'
 url:              http://andim.github.io/
 baseurl:          /
 
