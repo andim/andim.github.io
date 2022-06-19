@@ -10,9 +10,9 @@ order: 4
   {{ pub.journal }} ({{ pub.year }})
 {% if pub.links.arxiv %}[<i class="ai ai-arxiv"></i>]({{ pub.links.arxiv }}){% endif %}{% if pub.links.doi %}[<i class="ai ai-doi"></i>]({{ pub.links.doi }}){% endif %}{% if pub.links.pdf %}[<i class="ai ai-open-access"></i>]({{ pub.links.pdf }}){% endif %}{% if pub.links.github %}[<i class="fa fa-github"></i>]({{ pub.links.github }}){% endif %}
 {% if pub.media %}
-    <small>
-    {{ pub.media }}
-    </small>
+<small>
+{{ pub.media }}
+</small>
 {% endif %}
 {% endfor %}
 

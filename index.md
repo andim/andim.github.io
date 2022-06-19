@@ -10,11 +10,11 @@ We are a Quantitative Immunology research group in the [Division of Infection an
 
 Our approaches are often rooted in ideas from biological physics and we are part of UCL's [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/).
 
-Our research builds on strong collaborative links within the [Innate2Adaptive lab group](https://www.ucl.ac.uk/infection-immunity/research/research-department-infection/lab-research-groups/innate2adaptive) and with other groups across UCL and beyond.
+Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.ucl.ac.uk/infection-immunity/research/research-department-infection/lab-research-groups/innate2adaptive) and we maintain strong links with multiple experimental groups at UCL and beyond.
 
 You can contact us via [email](mailto:andimscience@gmail.com) or [twitter](http://twitter.com/andimscience).
 
-We are thrilled to be part of the [Institute of Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/), a new hub for immunology research located in central North London in a stunning building within walking distance to Hampstead Heath. You can find us [here](https://goo.gl/maps/RsAgTCkQwTSLdBVK7):
+We are thrilled to be part of the [Institute of Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/) in central North London, a new hub for immunology research located in a stunning building within walking distance to Hampstead Heath. You can find us [here](https://goo.gl/maps/RsAgTCkQwTSLdBVK7):
 
 Division of Infection and Immunity  
 University College London  
