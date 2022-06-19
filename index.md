@@ -7,7 +7,7 @@ order: 1
 <img style="width:8em;margin-left:1em;border-radius:5px" src="images/andreasmayer.jpg" align="right">
 We are a research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our lab's mission is to use computation and theory to understand immunological phenomena quantitatively.
 
-Our approaches are often rooted in ideas from biological physics and we are part of UCL's [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/). 
+Our approaches are often rooted in ideas from biological physics and we are part of UCL's [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/). We are part of the [Innate2Adaptive lab group](https://www.ucl.ac.uk/infection-immunity/research/research-department-infection/lab-research-groups/innate2adaptive) and our research builds on strong collaborative links with groups across the UK and abroad.
 
 You can contact us via [email](mailto:andimscience@gmail.com) or [twitter](http://twitter.com/andimscience).
 
