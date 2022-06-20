@@ -32,9 +32,8 @@ A Mayer, Y Zhang, AS Perelson, NS Wingreen, **Regulation of T cell expansion by 
 
 A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**, PNAS, 2016. [<i class="ai ai-doi"></i>](http://dx.doi.org/10.1073/pnas.1600663113)
 
-<div id="links" style="background-color:#2d314d;padding-left:1em;padding-bottom:1em;padding-top:0.1em">
-    <h4 style="color:white;">Image Gallery</h4>
-
+### Image Gallery
+<div id="links" style="background-color:#2d314d;padding:0.5em">
     <a href="images/pears.jpg" title="The Institute of Immunity and Transplantation">
         <img src="images/thumbnails/pears.jpg" alt="Pears Building">
     </a>
