@@ -4,6 +4,8 @@ title: Home
 order: 1
 ---
 
+<link rel="stylesheet" href="gallery/css/blueimp-gallery.min.css">
+
 #### Our lab's mission is to use computation and theory to understand immunology quantitatively.
 
 We are a Quantitative Immunology research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. 
@@ -29,3 +31,42 @@ MG Gaimann, M Nguyen, J Desponds, A Mayer, **Early life imprints the hierarchy o
 A Mayer, Y Zhang, AS Perelson, NS Wingreen, **Regulation of T cell expansion by antigen presentation dynamics**, PNAS, 2019. [<i class="ai ai-doi"></i>](https://doi.org/10.1073/pnas.1812800116)
 
 A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**, PNAS, 2016. [<i class="ai ai-doi"></i>](http://dx.doi.org/10.1073/pnas.1600663113)
+
+<div id="links" style="background-color:#2d314d;padding-left:1em;padding-bottom:1em;padding-top:0.1em">
+    <h4 style="color:white;">Image Gallery</h4>
+
+    <a href="images/pears.jpg" title="The Institute of Immunity and Transplantation">
+        <img src="images/thumbnails/pears.jpg" alt="Pears Building">
+    </a>
+    <a href="images/crispr.jpg" title="What trade-offs shape prokaryotic immunity? (Current Biology 2022)">
+        <img src="images/thumbnails/crispr.jpg" alt="CRISPR graphical abstract">
+    </a>
+    <a href="images/tcellexpansion.jpg" title="How is T cell expansion regulated? (PNAS 2019)">
+        <img src="images/thumbnails/tcellexpansion.jpg" alt="T cell expansion">
+    </a>
+</div>
+
+<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+<script>
+document.getElementById('links').onclick = function (event) {
+    event = event || window.event;
+    var target = event.target || event.srcElement,
+        link = target.src ? target.parentNode : target,
+        options = {index: link, event: event},
+        links = this.getElementsByTagName('a');
+    blueimp.Gallery(links, options);
+};
+</script>
+
+<script src="gallery/js/blueimp-gallery.min.js"></script>
+
+
