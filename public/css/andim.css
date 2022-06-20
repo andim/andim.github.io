@@ -47,7 +47,7 @@ ul.horn li::before {
 }
 @media (min-width: 48em) {
   .theme-andim .sidebar {
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
   }
 }
 .sidebar-about h1 {
@@ -55,7 +55,7 @@ ul.horn li::before {
     font-family: "PT Sans", serif;
 }
 .sidebar-about .lead {
-    font-size: 0.75rem;
+    font-size: 1rem;
 }
 .sidebar-nav-item {
   display: inline-flex;
