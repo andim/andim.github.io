@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title: Team
 order: 3
 ---
 

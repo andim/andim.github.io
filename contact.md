@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact
 order: 6
 ---
 
