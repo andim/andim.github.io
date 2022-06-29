@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            The QImmunoLab
-tagline:          'Quantitative Immunology Lab @ UCL'
-description:      'Led by Andreas Mayer | UCL'
+tagline:          'Quantitative Immunology @ UCL'
+description:      'PI: Andreas Mayer | UCL'
 url:              http://andim.github.io/
 baseurl:          /
 

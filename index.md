@@ -6,13 +6,11 @@ order: 1
 
 <link rel="stylesheet" href="gallery/css/blueimp-gallery.min.css">
 
-#### Our lab's mission is to use computation and theory to understand immunology quantitatively.
+#### Our lab's mission is to understand immune defense quantitatively using theory and computation.
 
-We are a Quantitative Immunology research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. 
+We are a Quantitative Immunology research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.ucl.ac.uk/infection-immunity/research/research-department-infection/lab-research-groups/innate2adaptive) and we maintain strong links with multiple experimental and theory groups at UCL and beyond.
 
 Our approaches are often rooted in ideas from biological physics and we are part of UCL's [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/).
-
-Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.ucl.ac.uk/infection-immunity/research/research-department-infection/lab-research-groups/innate2adaptive) and we maintain strong links with multiple experimental and theory groups at UCL and beyond.
 
 ### News
 
