@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            The QImmunoLab
+title:            The Qimmuno Lab
 tagline:          'Quantitative Immunology @ UCL'
 description:      'PI: Andreas Mayer | UCL'
 url:              http://andim.github.io/
