@@ -14,12 +14,12 @@ order: 3
 
 After an initial training in statistical physics in Göttingen and Paris, I worked on how evolution shapes immune defense strategies for my PhD at École Normale Supérieure in the [statistical biophysics group](https://sites.google.com/view/statbiophysens). As a Lewis-Sigler Theory Fellow at [Princeton University](https://lsi.princeton.edu/) I further developed my interest in evolutionary immunology and started to ask more practical questions around how to turn advances in measuring immunological processes into quantitative models. Notably, combining theory and data analysis I uncovered quantitative principles that govern the regulation of T cell dynamics at multiple timescales. As of 2022, I have opened up the QImmunoLab at UCL and I am excited to do so at a time that is ripe for major advances in the grand challenge of understanding immunity quantitatively.   
 
-**Andrew Pyo** 
+**Andrew Pyo**  
 *PhD student at Princeton University*
 
 Interested in the statistical physics of receptor-ligand interactions (co-supervised by Ned Wingreen).
 
-**James Henderson** 
+**James Henderson**  
 *Master student at UCL*
 
 Interested in learning the sequence determinants of TCR specificity.
@@ -30,7 +30,7 @@ Interested in learning the sequence determinants of TCR specificity.
 We are looking for enthusiastic researchers at all levels to join us on our journey. Interested in working on some of the most fundamental questions in immunology using cutting edge machine learning techniques? Excited about studying the physics of living systems in an important and tractable model system? Please reach out!
 
 ### Alumni
-**[Chris Russo](https://cobeylab.uchicago.edu/people/c-j-russo/)**, was a physics junior and senior thesis student || now a PhD student at University of Chicago 
-**[Max Nguyen](https://lsi.princeton.edu/max-nguyen)**, was a QCB PhD rotation student || now a PhD student at Princeton University 
-**[Léo Régnier](https://leoregnier.com/Accueil.html)**, was a visiting Master student from ENS || now a PhD student at CNRS 
-**[Mario Gaimann](https://mario.gaimann.com/)**, was a DAAD RISE summer intern || now a PhD student at the Max Planck Institute for Intelligent Systems 
+**[Chris Russo](https://cobeylab.uchicago.edu/people/c-j-russo/)**, was a physics junior and senior thesis student || now a PhD student at University of Chicago  
+**[Max Nguyen](https://lsi.princeton.edu/max-nguyen)**, was a QCB PhD rotation student || now a PhD student at Princeton University  
+**[Léo Régnier](https://leoregnier.com/Accueil.html)**, was a visiting Master student from ENS || now a PhD student at CNRS  
+**[Mario Gaimann](https://mario.gaimann.com/)**, was a DAAD RISE summer intern || now a PhD student at the Max Planck Institute for Intelligent Systems  
