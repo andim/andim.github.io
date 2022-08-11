@@ -8,12 +8,13 @@ order: 1
 
 #### Our lab's mission is to understand immune defense quantitatively using theory and computation.
 
-We are a Quantitative Immunology research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.ucl.ac.uk/infection-immunity/research/research-department-infection/lab-research-groups/innate2adaptive) and we maintain strong links with multiple experimental and theory groups at UCL and beyond.
+We are a Quantitative Immunology research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.ucl.ac.uk/infection-immunity/research/research-department-infection/lab-research-groups/innate2adaptive) and we have strong links with experimental and theory groups at UCL and beyond.
 
-Our approaches are often rooted in ideas from biological physics and we are part of UCL's [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/).
+Our approach to quantitative immunology is rooted in the tradition of biological physics and we are part of UCL's [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/).
 
 ### News
 
+- July 25 2022: First paper from lab out on [bioRxiv](https://doi.org/10.1101/2022.07.25.501373)! Our first foray into deciphering TCR specificity quantitatively. 
 - Apr 7 2022: The lab opens its doors at UCL!
 - Mar 15 2022: Andreas gave a talk at the APS march meeting in an invited session on [Sensing chemical spaces](https://meetings.aps.org/Meeting/MAR22/Session/F14).
 - Mar 5 2020: Andreas gave an invited (virtual) talk at the APS march meeting in the [Population dynamics in time-varying environments](http://meetings.aps.org/Meeting/MAR20/Session/U27) session.
