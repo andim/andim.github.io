@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Tools
+title: Software
 order: 5
 ---
+
+### [Pyrepseq](https://pyrepseq.readthedocs.io/)
+
+A Python library that provides algorithms and visualization tools to speed up the analysis of immune repertoire sequencing data.
 
 ### [Easyleed](http://andim.github.io/easyleed/)
 
