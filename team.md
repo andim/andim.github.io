@@ -32,5 +32,5 @@ We are looking for enthusiastic researchers at all levels to join us on our jour
 ### Alumni
 **[Chris Russo](https://cobeylab.uchicago.edu/people/c-j-russo/)**, was a physics junior and senior thesis student || now a PhD student at University of Chicago  
 **[Max Nguyen](https://lsi.princeton.edu/max-nguyen)**, was a QCB PhD rotation student || now a PhD student at Princeton University  
-**[Léo Régnier](https://leoregnier.com/Accueil.html)**, was a visiting Master student from ENS || now a PhD student at CNRS  
+**[Léo Régnier](https://leoregnier.com/)**, was a visiting Master student from ENS || now a PhD student at CNRS  
 **[Mario Gaimann](https://mario.gaimann.com/)**, was a DAAD RISE summer intern || now a PhD student at the Max Planck Institute for Intelligent Systems  
