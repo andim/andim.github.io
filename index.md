@@ -14,9 +14,10 @@ Our approach to quantitative immunology is rooted in the tradition of biological
 
 ### News
 
+- Sept 30 2022: The workshop "Statistical physics and adaptive immunity" co-organized by Andreas is now open for [registration](https://aspenphys.org/physicists/summer/program/currentworkshops.html). The workshop will be held at the Aspen Center for Physics August 6 - 27, 2023.
 - July 25 2022: First paper from lab out on [bioRxiv](https://doi.org/10.1101/2022.07.25.501373)! Our first foray into deciphering TCR specificity quantitatively. 
 - Apr 7 2022: The lab opens its doors at UCL!
-- Mar 15 2022: Andreas gave a talk at the APS march meeting in an invited session on [Sensing chemical spaces](https://meetings.aps.org/Meeting/MAR22/Session/F14).
+- Mar 15 2022: Andreas gave an invited talk at the APS march meeting in the [Sensing chemical spaces](https://meetings.aps.org/Meeting/MAR22/Session/F14) session.
 - Mar 5 2020: Andreas gave an invited (virtual) talk at the APS march meeting in the [Population dynamics in time-varying environments](http://meetings.aps.org/Meeting/MAR20/Session/U27) session.
 - December 11-13 2019: We have organized a conference at PCTS on [Sensing chemical spaces](https://pcts.princeton.edu/events/2019/sensing-chemical-spaces). Video recordings of the lectures are available [here](http://www.kaltura.com/tiny/opthb).
 {:.horn}
