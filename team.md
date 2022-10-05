@@ -19,7 +19,7 @@ After an initial training in statistical physics in Göttingen and Paris, I work
 *PhD student at Princeton University*
 <a href="https://scholar.google.de/citations?user=xf3PDngAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;
 
-Interested in the statistical physics of receptor-ligand interactions (co-supervised by Ned Wingreen). Laying the groundwork for applying metric learning to the prediction of lymphocyte receptor sepcificity, and linking results to biophysical intuition.
+Interested in the statistical physics of receptor-ligand interactions (co-supervised by Ned Wingreen). Laying the groundwork for applying metric learning to the prediction of lymphocyte receptor specificity, and linking results to biophysical intuition.
 
 **James Henderson**  
 *Master student at UCL*
