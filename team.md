@@ -16,8 +16,8 @@ After an initial training in statistical physics in Göttingen and Paris, I work
 
 <img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="../images/andrewpyo.jpg" align="right">
 **Andrew Pyo**  
-*PhD student at Princeton University*
-<a href="https://scholar.google.de/citations?user=xf3PDngAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;
+*PhD student at Princeton University*  
+<a href="https://scholar.google.com/citations?user=xf3PDngAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;
 
 Interested in the statistical physics of receptor-ligand interactions (co-supervised by Ned Wingreen). Laying the groundwork for applying metric learning to the prediction of lymphocyte receptor specificity, and linking results to biophysical intuition.
 
