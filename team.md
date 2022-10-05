@@ -4,7 +4,7 @@ title: Team
 order: 3
 ---
 
-<img style="width:9em;margin-left:1em;margin-top:1em,border-radius:5px" src="../images/andreasmayer.jpg" align="right">
+<img style="width:8em;margin-left:1em;margin-top:1em,border-radius:5px" src="../images/andreasmayer.jpg" align="right">
 **Andreas Mayer**  
 *Group Leader and Lecturer in Computational Biology*  
 <a href="https://scholar.google.com/citations?user=BKGAixAAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;
@@ -14,6 +14,8 @@ order: 3
 
 After an initial training in statistical physics in Göttingen and Paris, I worked on how evolution shapes immune defense strategies for my PhD at École Normale Supérieure in the [statistical biophysics group](https://sites.google.com/view/statbiophysens). As a Lewis-Sigler Theory Fellow at [Princeton University](https://lsi.princeton.edu/) I further developed my interest in evolutionary immunology and started to ask more practical questions around how to turn advances in measuring immunological processes into quantitative models. Notably, combining theory and data analysis I uncovered quantitative principles that govern the regulation of T cell dynamics at multiple timescales. As of 2022, I have opened up the QImmunoLab at UCL and I am excited to do so at a time that is ripe for major advances in the grand challenge of understanding immunity quantitatively.   
 
+<img style="width:8em;margin-left:1em;margin-top:1em,border-radius:5px" src="../images/andrewpyo.jpg" align="right">
+*
 **Andrew Pyo**  
 *PhD student at Princeton University*
 
