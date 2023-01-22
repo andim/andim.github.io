@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-order: 5
+order: 6
 ---
 
 ### [Pyrepseq](https://pyrepseq.readthedocs.io/)
