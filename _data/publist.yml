@@ -15,10 +15,11 @@
 
 - authors: A Mayer, CG Callan Jr.
   title: Measures of epitope binding degeneracy from T cell receptor repertoires
-  journal: bioRxiv preprint
-  year: 2022
+  journal: PNAS
+  year: 2023
+  detail: 120(4)e2213264120
   links:
-      doi: https://doi.org/10.1101/2022.07.25.501373
+      doi: https://doi.org/10.1073/pnas.2213264120
       github: https://github.com/andim/paper_coincidences/
   media: "Video of Andreas presenting this work in the [iReceptor+ Seminar Series](https://www.youtube.com/watch?v=YdSzql3ZiHQ) and in [Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5139/videos/watch/202202140936-Mayer.html)"
 
@@ -45,7 +46,7 @@
   title: Tregs self-organize into a "computing ecosystem" and implement a sophisticated optimization algorithm for mediating immune response 
   journal: PNAS
   year: 2021
-  detail: 118 (1) e2011709118
+  detail: 118(1)e2011709118
   links:
       doi: https://doi.org/10.1073/pnas.2011709118 
       github: https://github.com/Emergent-Behaviors-in-Biology/immune-svm
