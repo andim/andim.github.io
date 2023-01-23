@@ -24,6 +24,8 @@ Our approach to quantitative immunology is rooted in the tradition of biological
 
 ### Selected Publications
 
+A Mayer, C Callan **Measures of epitope binding degeneracy from T cell receptor repertoires**, PNAS, 2023. [<i class="ai ai-doi"></i>](https://doi.org/10.1073/pnas.2213264120)
+
 H Chen, A Mayer, V Balasubramanian **A scaling law in CRISPR repertoire sizes arises from avoidance of autoimmunity**, Current Biology, 2022. [<i class="ai ai-doi"></i>](https://doi.org/10.1016/j.cub.2022.05.021)
 
 MG Gaimann, M Nguyen, J Desponds, A Mayer, **Early life imprints the hierarchy of T cell clone sizes**, eLife, 2020. [<i class="ai ai-doi"></i>](https://doi.org/10.7554/eLife.61639)
