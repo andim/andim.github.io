@@ -5,37 +5,70 @@ order: 5
 ---
 
 <div class="titlebox">
-  <h1 style="color:#B5E2FF">
+  <h1>
   London Quantitative Immunology Day
   </h1>
-  <p style="margin-top:1em;padding-bottom:1em">
+  <img style="width:6em;margin-left:1em;margin-top:1em;margin-right:2em" src="../images/ldnqimmuno.png" align="left">
+  <p style="text-align:left">
     Thursday March 9th 2023 10am <br /> 
-    Pears Building, UCL Institute of Immunity and Transplantation <br />
+    Pears Building, UCL Infection and Immunity <br />
     Pond Street London, NW3 2PP UK  <br />
     Tube station: Belsize Park  <br />
   </p>
+  <p style="margin-top:0em;padding:1em">
+    A one day symposium to gather researchers from across London interested in the quantitative life sciences.
+  </p>
 </div>
 
+We aim to gather researchers with an interest in quantitative immunology to create an **opportunity for sharing knowledge and social exchange**. It is going to be a day of conviviality and scientific enthusiasm with a dynamic and informal atmosphere. In the program, talks of the invited speakers are interleaved with short presentations by young investigators (contributions welcome!). The schedule includes ample breaks for discussions and, for those interested, we propose to conclude the day in a local pub.
 
-The London Quantitative Immunology Day is a one day symposium organized to bring together researchers from across London interested in the quantitative life sciences. Immunology is being transformed through a multitude of quantitative approaches, and correspondingly we expect the day to be of interest to researchers from diverse backgrounds from immunology, evolution, and cell biology, to systems biology, bioinformatics, and the physics of living systems. No matter your background, you are welcome to join us!
+Immunology is being transformed through a multitude of quantitative approaches. Correspondingly, we expect the day to be of interest to researchers from diverse backgrounds from immunology, evolution, and cell biology, to systems biology, bioinformatics, and the physics of living systems. **No matter your background, you are welcome to join us!**
 
-We aim to gather researchers with an interest in quantitative immunology in the London area in order to create an opportunity for sharing knowledge and social exchange. It is going to be a day of conviviality and scientific enthusiasm with a dynamic and informal atmosphere. In the program, talks of the invited speakers are interleaved with short presentations by young investigators (contributions welcome!). The schedule includes ample breaks for discussions and, for those interested, we propose to conclude the day in a local pub.
+There is no registration fee, but we encourage prior [registration](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u) to help us gauge attendance.
 
-There is no registration fee, but we encourage prior registration to help us gauge attendance.
+## We want YOU!
+
+We highly encourage you to contribute to the London QImmuno day - works in progress and contributions from early career researchers particularly welcome!
+
+There are three possible formats:
+
+(1) a **short talk** during one of the main sessions  
+(2) a **whiteboard talk**: a talk without slides where you will explain your project interactively to a small audience with the support of a marker and a whiteboard  
+(3) a **poster** 
+
+If you would like to be considered for any of the three, please indicate so on the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u).
 
 
 ## Schedule
 
-09:30-10:00 Meet and Greet  
+- 09:30-10:00 Meet and Greet  
+<details>
+<summary>
 10:00-11:00 Session 1  
-11:00-11:30 Coffee break  
+</summary>
+To be announced
+</details>
+- 11:00-11:30 Coffee break  
+<details>
+<summary>
 11:30-12:30 Session 2  
-12:30-13:45 Lunch  
-13:45-14:30 Whiteboard session  
-14:30-15:30 Session 3 -- Keynote speaker: [Bart Hoogenboom](https://www.hoogenboom-lab.com/), UCL Physics  
-15:30-16:00 Coffee break  
-16:00-17:00 Poster and drinks  
+</summary>
+To be announced
+</details>
+- 12:30-13:45 Lunch  
+- 13:45-14:30 Whiteboard session  
+<details>
+<summary>
+14:30-15:30 Session 3 -- Keynote speaker: <a href="https://www.hoogenboom-lab.com/">Bart Hoogenboom</a>, UCL Physics
+</summary>
+  <h3>Physical membrane properties protect cytotoxic T cells from suicide</h3>
+  To eliminate virus-infected and tumour cells, cytotoxic T cells form a synapse with their target, in which they release pro-apoptotic granzymes as well as pore forming proteins called perforin. Perforin punches holes in the target membrane to facilitate cell entry for the granzymes, which next initiate a signalling cascade leading to programmed cell death (apoptosis). It has long been a mystery what protected the T cells from being targeted by the proteins they secrete to kill their targets. I will report on recent studies that have identified such self-protection mechanisms based on the physical properties of the T cell membrane. Notably, enhanced lipid order and packing reduce perforin binding, whereas externalisation of negatively charged lipids results in local deactivation of perforin. This raises the yet unanswered question if similar membrane-based protection could be used by cancer cells to evade immune killing.
+</details>
+- 15:30-16:00 Coffee break  
+- 16:00-17:00 Poster and drinks  
+
+Toggle to see abstracts.
 
 ## Organizers
 
-[Martina Milighetti](https://twitter.com/martina_milig), [Yuta Nagano](https://www.yutanagano.com/), and [Andreas Mayer](https://qimmuno.com/).
+[Martina Milighetti](https://twitter.com/martina_milig), [Yuta Nagano](https://www.yutanagano.com/), and [Andreas Mayer](https://qimmuno.com/) from UCL IIT.
