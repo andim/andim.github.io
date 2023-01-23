@@ -8,12 +8,12 @@ order: 5
   <h1>
   London Quantitative Immunology Day
   </h1>
-  <img style="width:6em;margin-left:1em;margin-top:1em;margin-right:2em" src="../images/ldnqimmuno.png" align="left">
+  <img style="width:6em;margin-left:1em;margin-top:1em;margin-right:1em" src="../images/ldnqimmuno.png" align="left">
   <p style="text-align:left">
     Thursday March 9th 2023 10am <br /> 
     Pears Building, UCL Infection and Immunity <br />
-    Pond Street London, NW3 2PP UK  <br />
-    Tube station: Belsize Park  <br />
+    Pond Street, London NW32PP <br />
+    Tube station: Belsize Park <br />
   </p>
   <p style="margin-top:0em;padding:1em">
     A one day symposium to gather researchers from across London interested in the quantitative life sciences.
@@ -71,4 +71,6 @@ Toggle to see abstracts.
 
 ## Organizers
 
-[Martina Milighetti](https://twitter.com/martina_milig), [Yuta Nagano](https://www.yutanagano.com/), and [Andreas Mayer](https://qimmuno.com/) from UCL IIT.
+[Martina Milighetti](https://twitter.com/martina_milig), [Yuta Nagano](https://www.yutanagano.com/), and [Andreas Mayer](https://qimmuno.com/).
+
+The LDN QImmuno Day is made possible by the [Institute for Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/ucl-institute-immunity-and-transplantation) and the [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/institute-physics-living-systems).
