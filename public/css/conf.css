@@ -28,17 +28,27 @@ p {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 0;
-  margin-left: 0rem
+  margin-left: 1rem;
+  padding-left: 0;
 }
 
 details {
-  margin-left: 1rem;
-  margin-bottom: 1rem;
+  margin-left: 0;
+  padding-left: 0;
+  margin-bottom: 0;
 }
 
 details > summary {
+  margin-left: 1rem;
+  padding-left: 0;
   cursor: pointer;
   margin-bottom: 0rem;
+  list-style: inherit;
+  color: #268bd2;
+}
+
+details > p {
+  margin-bottom: 1rem;
 }
 
 

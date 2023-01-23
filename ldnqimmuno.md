@@ -1,6 +1,7 @@
 ---
 layout: conf
 title: LDNQImmuno
+subtitle: March 9th
 order: 5
 ---
 
@@ -28,7 +29,7 @@ There is no registration fee, but we encourage prior [registration](https://form
 
 ## We want YOU!
 
-We highly encourage you to contribute to the London QImmuno day - works in progress and contributions from early career researchers particularly welcome!
+We highly encourage you to contribute to the London QImmuno day - works in progress and contributions from early career researchers are particularly welcome!
 
 There are three possible formats:
 
@@ -36,8 +37,7 @@ There are three possible formats:
 (2) a **whiteboard talk**: a talk without slides where you will explain your project interactively to a small audience with the support of a marker and a whiteboard  
 (3) a **poster** 
 
-If you would like to be considered for any of the three, please indicate so on the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u).
-
+If you would like to be considered for any of the three, please indicate so when [registering](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u).
 
 ## Schedule
 
@@ -55,14 +55,15 @@ To be announced
 </summary>
 To be announced
 </details>
-- 12:30-13:45 Lunch  
+- 12:30-13:45 Lunch break
 - 13:45-14:30 Whiteboard session  
 <details>
 <summary>
-14:30-15:30 Session 3 -- Keynote speaker: <a href="https://www.hoogenboom-lab.com/">Bart Hoogenboom</a>, UCL Physics
+14:30-15:30 Session 3 -- Keynote speaker: <a href="https://www.hoogenboom-lab.com/">Bart Hoogenboom</a>, UCL
 </summary>
   <h3>Physical membrane properties protect cytotoxic T cells from suicide</h3>
-  To eliminate virus-infected and tumour cells, cytotoxic T cells form a synapse with their target, in which they release pro-apoptotic granzymes as well as pore forming proteins called perforin. Perforin punches holes in the target membrane to facilitate cell entry for the granzymes, which next initiate a signalling cascade leading to programmed cell death (apoptosis). It has long been a mystery what protected the T cells from being targeted by the proteins they secrete to kill their targets. I will report on recent studies that have identified such self-protection mechanisms based on the physical properties of the T cell membrane. Notably, enhanced lipid order and packing reduce perforin binding, whereas externalisation of negatively charged lipids results in local deactivation of perforin. This raises the yet unanswered question if similar membrane-based protection could be used by cancer cells to evade immune killing.
+  <p>To eliminate virus-infected and tumour cells, cytotoxic T cells form a synapse with their target, in which they release pro-apoptotic granzymes as well as pore forming proteins called perforin. Perforin punches holes in the target membrane to facilitate cell entry for the granzymes, which next initiate a signalling cascade leading to programmed cell death (apoptosis). It has long been a mystery what protected the T cells from being targeted by the proteins they secrete to kill their targets. I will report on recent studies that have identified such self-protection mechanisms based on the physical properties of the T cell membrane. Notably, enhanced lipid order and packing reduce perforin binding, whereas externalisation of negatively charged lipids results in local deactivation of perforin. This raises the yet unanswered question if similar membrane-based protection could be used by cancer cells to evade immune killing.
+  </p>
 </details>
 - 15:30-16:00 Coffee break  
 - 16:00-17:00 Poster and drinks  
