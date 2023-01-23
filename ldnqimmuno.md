@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: conf
 title: LDNQImmuno
 order: 5
 ---
-
-<link rel="stylesheet" href="../public/css/ldnqimmuno.css">
 
 <div class="titlebox">
   <h1 style="color:#B5E2FF">
@@ -25,3 +23,18 @@ We aim to gather researchers with an interest in quantitative immunology in the 
 
 There is no registration fee, but we encourage prior registration to help us gauge attendance.
 
+
+## Schedule
+
+09:30-10:00 Meet and Greet  
+10:00-11:00 Session 1  
+11:00-11:30 Coffee break  
+11:30-12:30 Session 2  
+12:30-13:45 Lunch  
+13:45-14:30 Whiteboard session  
+14:30-15:30 Session 3 -- Keynote speaker: [Bart Hoogenboom](https://www.hoogenboom-lab.com/), UCL Physics  
+15:30-17:00 Poster and drinks  
+
+## Organizers
+
+[Martina Milighetti](https://twitter.com/martina_milig), [Yuta Nagano](https://www.yutanagano.com/), and [Andreas Mayer](https://qimmuno.com/).
