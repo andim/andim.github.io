@@ -33,7 +33,8 @@ There is no registration fee, but we encourage prior registration to help us gau
 12:30-13:45 Lunch  
 13:45-14:30 Whiteboard session  
 14:30-15:30 Session 3 -- Keynote speaker: [Bart Hoogenboom](https://www.hoogenboom-lab.com/), UCL Physics  
-15:30-17:00 Poster and drinks  
+15:30-16:00 Coffee break  
+16:00-17:00 Poster and drinks  
 
 ## Organizers
 
