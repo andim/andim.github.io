@@ -44,7 +44,7 @@ If you would like to be considered for any of the three, please indicate so when
 - 09:30-10:00 Meet and Greet  
 <details>
 <summary>
-10:00-11:00 Session 1  
+10:00-11:00 Session 1  -- Keynote speaker:  <a href="https://www.imperial.ac.uk/people/b.bravi21">Barbara Bravi</a>, Imperial
 </summary>
 To be announced
 </details>
