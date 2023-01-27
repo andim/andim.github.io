@@ -9,18 +9,24 @@ order: 5
   <h1>
   London Quantitative Immunology Day
   </h1>
-  <img style="width:6em;margin-left:1em;margin-top:1em;margin-right:1em" src="../images/ldnqimmuno.png" align="left">
-  <p style="text-align:left">
-    Thursday March 9th 2023 10am <br /> 
-    Pears Building, UCL Infection and Immunity <br />
+  <div class="box">
+  <img style="width:6em;margin-left:-1em;margin-top:1em;margin-right:1em" src="../images/ldnqimmuno.png">
+  <span style="text-align:left">
+    Thursday March 9th 2023 <br /> 
+    Pears Building, UCL IIT <br />
     Pond Street, London NW32PP <br />
     Tube station: Belsize Park <br />
+  </span>
+  </div>
+  <p style="margin-top:0em;padding:0.5rem">
+    A one day symposium to gather researchers from across London interested in the quantitative life sciences. <br />
   </p>
-  <p style="margin-top:0em;padding:1em">
-    A one day symposium to gather researchers from across London interested in the quantitative life sciences.
+  <p style="margin-top:0em;padding-top:0em;padding-bottom:1em;font-size:150%">
+   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u">&rarr; Register now &larr;</a>
   </p>
 </div>
 
+<img style="width:17em;margin-left:1em;margin-top:1em;margin-right:1em" src="../images/ldnday23.png" align="right">
 We aim to bring together researchers with an interest in quantitative immunology to create an **opportunity for sharing knowledge and social exchange**. It is going to be a day of conviviality and scientific enthusiasm with a dynamic and informal atmosphere. In the program, talks of the invited speakers are interleaved with short presentations by young investigators (contributions welcome!). The schedule includes ample breaks for discussions and, for those interested, we propose to conclude the day in a local pub.
 
 Immunology is being transformed through a multitude of quantitative approaches. Correspondingly, we expect the day to be of interest to researchers from diverse backgrounds from immunology, evolution, and cell biology, to systems biology, bioinformatics, and the physics of living systems. **No matter your background, you are welcome to join us!**
@@ -74,4 +80,4 @@ Toggle to see abstracts.
 
 [Martina Milighetti](https://twitter.com/martina_milig), [Yuta Nagano](https://www.yutanagano.com/), and [Andreas Mayer](https://qimmuno.com/).
 
-The LDN QImmuno Day is made possible by the [Institute for Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/ucl-institute-immunity-and-transplantation) and the [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/institute-physics-living-systems).
+The LDN QImmuno Day is made possible by UCL's [Institute for Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/ucl-institute-immunity-and-transplantation) and [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/institute-physics-living-systems).
