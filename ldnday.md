@@ -51,7 +51,7 @@ To be announced
 - 11:00-11:30 Coffee break  
 <details>
 <summary>
-11:30-12:30 Session 2  
+11:30-12:30 Session 2 -- Keynote speaker: <a href="https://dushek.path.ox.ac.uk/">Omer Dushek</a>, Oxford
 </summary>
 To be announced
 </details>
