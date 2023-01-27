@@ -19,7 +19,7 @@ order: 5
   </span>
   </div>
   <p style="margin-top:0em;padding:0.5rem">
-    A one day symposium for researchers from across London interested in the quantitative life sciences. <br />
+    A community day for researchers in the quantitative life sciences from across London. <br />
   </p>
   <p style="margin-top:0em;padding-top:0em;padding-bottom:1em;font-size:150%">
    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u">&rarr; Register now &larr;</a>
