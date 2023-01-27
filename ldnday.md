@@ -19,7 +19,7 @@ order: 5
   </span>
   </div>
   <p style="margin-top:0em;padding:0.5rem">
-    A one day symposium to gather researchers from across London interested in the quantitative life sciences. <br />
+    A one day symposium for researchers from across London interested in the quantitative life sciences. <br />
   </p>
   <p style="margin-top:0em;padding-top:0em;padding-bottom:1em;font-size:150%">
    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u">&rarr; Register now &larr;</a>
@@ -27,7 +27,7 @@ order: 5
 </div>
 
 <img style="width:17em;margin-left:1em;margin-top:1em;margin-right:1em" src="../images/ldnday23.png" align="right">
-We aim to bring together researchers with an interest in quantitative immunology to create an **opportunity for sharing knowledge and social exchange**. It is going to be a day of conviviality and scientific enthusiasm with a dynamic and informal atmosphere. In the program, talks of the invited speakers are interleaved with short presentations by young investigators (contributions welcome!). The schedule includes ample breaks for discussions and, for those interested, we propose to conclude the day in a local pub.
+We aim to bring together researchers with an interest in quantitative immunology to create an **opportunity for sharing knowledge and social exchange**. It is going to be a day of conviviality and scientific enthusiasm with a dynamic and informal atmosphere. Talks from invited speakers will be interleaved with short presentations by young investigators (contributions welcome!). The schedule includes ample breaks for discussions and, for those interested, we propose to conclude the day in a local pub.
 
 Immunology is being transformed through a multitude of quantitative approaches. Correspondingly, we expect the day to be of interest to researchers from diverse backgrounds from immunology, evolution, and cell biology, to systems biology, bioinformatics, and the physics of living systems. **No matter your background, you are welcome to join us!**
 
@@ -71,8 +71,7 @@ To be announced
   <p>To eliminate virus-infected and tumour cells, cytotoxic T cells form a synapse with their target, in which they release pro-apoptotic granzymes as well as pore forming proteins called perforin. Perforin punches holes in the target membrane to facilitate cell entry for the granzymes, which next initiate a signalling cascade leading to programmed cell death (apoptosis). It has long been a mystery what protected the T cells from being targeted by the proteins they secrete to kill their targets. I will report on recent studies that have identified such self-protection mechanisms based on the physical properties of the T cell membrane. Notably, enhanced lipid order and packing reduce perforin binding, whereas externalisation of negatively charged lipids results in local deactivation of perforin. This raises the yet unanswered question if similar membrane-based protection could be used by cancer cells to evade immune killing.
   </p>
 </details>
-- 15:30-16:00 Coffee break  
-- 16:00-17:00 Poster and drinks  
+- 15:30-17:00 Poster and drinks  
 
 Toggle to see abstracts.
 
@@ -80,4 +79,4 @@ Toggle to see abstracts.
 
 [Martina Milighetti](https://twitter.com/martina_milig), [Yuta Nagano](https://www.yutanagano.com/), and [Andreas Mayer](https://qimmuno.com/).
 
-The LDN QImmuno Day is made possible by UCL's [Institute for Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/ucl-institute-immunity-and-transplantation) and [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/institute-physics-living-systems).
+The LDN QImmuno Day is made possible by UCL's [Institute of Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/ucl-institute-immunity-and-transplantation) and [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/institute-physics-living-systems).
