@@ -26,7 +26,7 @@ order: 5
   </p>
 </div>
 
-<img style="width:17em;margin-left:1em;margin-top:1em;margin-right:1em" src="../images/ldnday23.png" align="right">
+<img style="max-width:50%;margin:0.5rem" src="../images/ldnday23.png" align="right">
 We aim to bring together researchers with an interest in quantitative immunology to create an **opportunity for sharing knowledge and social exchange**. It is going to be a day of conviviality and scientific enthusiasm with a dynamic and informal atmosphere. Talks from invited speakers will be interleaved with short presentations by young investigators (contributions welcome!). The schedule includes ample breaks for discussions and, for those interested, we propose to conclude the day in a local pub.
 
 Immunology is being transformed through a multitude of quantitative approaches. Correspondingly, we expect the day to be of interest to researchers from diverse backgrounds from immunology, evolution, and cell biology, to systems biology, bioinformatics, and the physics of living systems. **No matter your background, you are welcome to join us!**
