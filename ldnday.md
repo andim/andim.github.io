@@ -59,7 +59,8 @@ To be announced
 <summary>
 11:30-12:30 Session 2 -- Keynote speaker: <a href="https://dushek.path.ox.ac.uk/">Omer Dushek</a>, Oxford
 </summary>
-To be announced
+  <h3>The discriminatory power of the T cell receptor</h3>
+ <p>T cells use their T cell receptors (TCRs) to discriminate between lower-affinity self and higher-affinity non-self peptides presented on major histocompatibility complex (pMHC) antigens. Although the discriminatory power of the TCR is widely believed to be near-perfect, technical difficulties have hampered efforts to precisely quantify it. Using an accurate method for measuring very low TCR/pMHC affinities, we quantify the discriminatory power of the TCR. We find that TCR discrimination, although enhanced compared with conventional cell-surface receptors is imperfect: primary human T cells can respond to pMHC with affinities as low as KD ∼ 1 mM. The kinetic proofreading mechanism fit our data, providing the first estimates of both the time delay (2.8 s) and number of biochemical steps (2.67) that are consistent with the extraordinary sensitivity of antigen recognition. We next identify factors that can control antigen discrimination, including the accessory receptors CD2 and LFA-1. Taken together, our findings explain why self pMHC frequently induce autoimmune diseases and anti-tumour responses, and suggest ways to modify TCR discrimination for improved therapies.</p>
 </details>
 - 12:30-13:45 Lunch break
 - 13:45-14:30 Whiteboard session  
