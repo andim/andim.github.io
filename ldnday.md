@@ -43,7 +43,7 @@ There are three possible formats:
 (2) a **whiteboard talk**: a talk without slides where you will explain your project interactively to a small audience with the support of a marker and a whiteboard  
 (3) a **poster** 
 
-If you would like to be considered for any of the three, please indicate so when [registering](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u).
+If you would like to be considered for any of the three, please indicate so when [registering](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwsefyMHuSa9KkArfAHERWzNUQ0tOMlJIMElFUEVLNTM0T0RHMk9XSDZaSy4u). If you want to be considered for a short or whiteboard talks, please reply by March 22nd.
 
 ## Schedule
 
