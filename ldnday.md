@@ -52,7 +52,8 @@ If you would like to be considered for any of the three, please indicate so when
 <summary>
 10:00-11:00 Session 1  -- Keynote speaker:  <a href="https://www.imperial.ac.uk/people/b.bravi21">Barbara Bravi</a>, Imperial
 </summary>
-To be announced
+  <h3>Machine learning models to model antigen immunogenicity and T-cell recognition</h3>
+<p>Antigen immunogenicity and the specificity of binding of T-cell receptors to antigens are key properties underlying effective immune responses. Identifying immunogenic antigens, as well as antigen-specific T-cell receptors, is therefore crucial to vaccine and cancer immunotherapy design. In this talk, I will discuss a set of flexible and easily interpretable methods that we have recently developed based on the machine learning scheme of Restricted Boltzmann Machines (RBM). Such scheme allowed us first to build models of antigen presentation by the human leukocyte antigen class I proteins and antigen immunogenicity, which can be used to reconstruct the underlying molecular motifs and as predictors of viral epitopes and cancer neoantigens. I will next introduce RBM-based models of the complementary process of recognition by T cells of presented antigens, which are able to discriminate responses specific to different epitopes and to detect signatures of response at the T-cell repertoire level.</p>
 </details>
 - 11:00-11:30 Coffee break  
 <details>
