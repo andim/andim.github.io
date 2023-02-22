@@ -8,7 +8,8 @@ We are thrilled to be part of the [Institute of Immunity and Transplantation](ht
 
 Division of Infection and Immunity  
 University College London  
-Pears Building Room 302  
+Pears Building, Pond Street
+Room 302  
 London, NW3 2PP, UK  
 
 You can also contact us via [email](mailto:andimscience@gmail.com) or [twitter](http://twitter.com/andimscience).
