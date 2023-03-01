@@ -50,7 +50,7 @@ If you would like to be considered for any of the three, please indicate so when
 - 09:30-10:00 Meet and Greet  
 <details open>
 <summary>
-10:00-11:00 Session 1
+10:00-11:00 Session 1, Chair: Andreas Mayer
 </summary>
 <details>
 <summary>
@@ -77,7 +77,7 @@ Lung cancer immune escape through HLA disruption
 - 11:00-11:30 Coffee break  
 <details open>
 <summary>
-11:30-12:30 Session 2
+11:30-12:30 Session 2, Chair: Leo Swadling
 </summary>
 <details>
 <summary>
@@ -121,7 +121,7 @@ PD-1/LAG-3 dysfunctionality signatures in human cancers
 </details>
 <details open>
 <summary>
-14:30-15:30 Session 3
+14:30-15:30 Session 3, Chair: Jennifer Cowan
 </summary>
 <details>
 <summary>
