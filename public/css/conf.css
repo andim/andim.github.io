@@ -67,11 +67,25 @@ details > summary {
   cursor: pointer;
   margin-bottom: 0rem;
   list-style: inherit;
+  color: #1a6091;
+}
+
+details > details {
+  margin-left: 1em;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+details > details > summary {
   color: #268bd2;
+  list-style: square;
+  font-size: 0.9rem;
+  padding:0.1rem;
 }
 
 details > p {
   margin-bottom: 1rem;
+  font-size: 0.8rem;
 }
 
 
