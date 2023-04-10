@@ -1,3 +1,10 @@
+- authors: P Mehta\*, B Sanz-Magallón Duque de Estrada\*, EK Denneny\*, K Foster, CT Turner, A Mayer, M Milighetti, M Platé, KB Worlock, M Yoshida, JS Brown, MZ Nikolić, A Nair, BM Chain, M Noursadeghi, RC Chambers\*\*, JC Porter\*\*, GS Tomlinson\*\*
+  title: Single-cell analysis of bronchoalveolar cells in inflammatory and fibrotic post-COVID lung disease
+  journal: medRxiv preprint
+  year: 2023
+  links:
+    doi: https://doi.org/10.1101/2023.03.28.23287759
+
 - authors: A Mayer, CJ Russo, Q Marcou, W Bialek, BD Greenbaum
   title: How different are self and nonself?
   journal: arXiv preprint
@@ -69,7 +76,7 @@
   links:
       doi: https://doi.org/10.1073/pnas.1812800116
       github: https://github.com/andim/paper-tcellexp
-  media: "Featured in [Princeton discovery blog](https://discovery.princeton.edu/2019/03/11/for-infection-fighting-cells-a-guideline-for-expanding-the-troops/) and [MedicalXpress](https://medicalxpress.com/news/2019-03-infection-fighting-cells-guideline-troops.html)"
+  media: "Featured in [Princeton discovery blog](https://discovery.princeton.edu/2019/03/11/for-infection-fighting-cells-a-guideline-for-expanding-the-troops/) and [MedicalXpress](https://medicalxpress.com/news/2019-03-infection-fighting-cells-guideline-troops.html)". Video of Andreas presenting this work at the [Human immunome project webinar](https://www.youtube.com/watch?v=7whZNlwWiPQ&t=555s)
 
 - authors: S Mayer\*, J Chen\*, D Velmeshev, A Mayer, UZ Eze, A Bhaduri, CE Cunha, D Jung,A Arjun, E Li, B Alvarado, S Wang, N Lovegren, ML Gonzales, L Szpankowski, A Leyrat, JAA West, G Panagiotakos, A Alvarez-Buylla, MF Paredes, TJ Nowakowski, AA Pollen, AR Kriegstein
   title: Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex
