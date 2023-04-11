@@ -5,6 +5,16 @@
   links:
     doi: https://doi.org/10.1101/2023.03.28.23287759
 
+- authors: A Mayer, CG Callan Jr.
+  title: Measures of epitope binding degeneracy from T cell receptor repertoires
+  journal: PNAS
+  year: 2023
+  detail: 120(4)e2213264120
+  links:
+      doi: https://doi.org/10.1073/pnas.2213264120
+      github: https://github.com/andim/paper_coincidences/
+  media: "Video of Andreas presenting this work in the [iReceptor+ Seminar Series](https://www.youtube.com/watch?v=YdSzql3ZiHQ) and in [Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5139/videos/watch/202202140936-Mayer.html)"
+
 - authors: A Mayer, CJ Russo, Q Marcou, W Bialek, BD Greenbaum
   title: How different are self and nonself?
   journal: arXiv preprint
@@ -19,16 +29,6 @@
   links:
       doi: https://doi.org/10.1101/2022.11.08.515436
   media: Featured in [news-medical.net](https://www.news-medical.net/news/20221114/Study-suggests-the-rapid-expansion-of-naive-T-cells-can-provide-a-fast-and-effective-immune-response-to-SARS-CoV-2-and-other-viral-infections.aspx)
-
-- authors: A Mayer, CG Callan Jr.
-  title: Measures of epitope binding degeneracy from T cell receptor repertoires
-  journal: PNAS
-  year: 2023
-  detail: 120(4)e2213264120
-  links:
-      doi: https://doi.org/10.1073/pnas.2213264120
-      github: https://github.com/andim/paper_coincidences/
-  media: "Video of Andreas presenting this work in the [iReceptor+ Seminar Series](https://www.youtube.com/watch?v=YdSzql3ZiHQ) and in [Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5139/videos/watch/202202140936-Mayer.html)"
 
 - authors: H Chen\*, A Mayer\*, V Balasubramanian
   title: A scaling law in CRISPR repertoire sizes arises from avoidance of autoimmunity 
