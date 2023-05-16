@@ -5,42 +5,46 @@ order: 3
 ---
 
 <img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="../images/andreasmayer.jpg" align="right">
-**Andreas Mayer**  
-*Group Leader and Lecturer in Computational Biology*  
+**Andreas Mayer**  &nbsp;
 <a href="https://scholar.google.com/citations?user=BKGAixAAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;
 <a href="http://orcid.org/0000-0002-6643-7622"><i class="ai ai-orcid"></i></a> &nbsp;
 <a href="https://github.com/andim"><i class="fa fa-github"></i></a> &nbsp;
 <a href="https://twitter.com/andimscience"><i class="fa fa-twitter"></i></a> &nbsp;  
+*Group Leader / Lecturer in Computational Biology*  
 
-After an initial training in statistical physics in Göttingen and Paris, I worked on how evolution shapes immune defense strategies for my PhD at École Normale Supérieure in the [statistical biophysics group](https://sites.google.com/view/statbiophysens). As a Lewis-Sigler Theory Fellow at [Princeton University](https://lsi.princeton.edu/) I further developed my interest in evolutionary immunology and started to ask more practical questions around how to turn advances in measuring immunological processes into quantitative models. Notably, combining theory and data analysis I uncovered quantitative principles that govern the regulation of T cell dynamics at multiple timescales. As of 2022, I have opened up the QImmunoLab at UCL and I am excited to do so at a time that is ripe for major advances in the grand challenge of understanding immunity quantitatively.   
+After an initial training in statistical physics in Göttingen and Paris, I worked on how evolution shapes immune defense strategies for my PhD at École Normale Supérieure in the [statistical biophysics group](https://sites.google.com/view/statbiophysens). As a Lewis-Sigler Theory Fellow at [Princeton University](https://lsi.princeton.edu/) I further developed my interest in evolutionary immunology and started to ask more practical questions around how to turn advances in measuring immunological processes into quantitative models. Notably, combining theory and data analysis I uncovered quantitative principles that govern the regulation of T cell dynamics at multiple timescales. As of 2022, I have opened up the QImmuno Lab at UCL and I am excited to do so at a time that is ripe for major advances in the grand challenge of understanding immunity quantitatively.   
 
 <img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="../images/andrewpyo.jpg" align="right">
-**Andrew Pyo**  
-*PhD student*  
-<a href="https://scholar.google.com/citations?user=xf3PDngAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;
+**Andrew Pyo**  &nbsp;
+<a href="https://scholar.google.com/citations?user=xf3PDngAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;  
+*PhD student (Princeton Physics)*   
 
 Interested in the statistical physics of receptor-ligand interactions (co-supervised by Ned Wingreen). Laying the groundwork for applying metric learning to the prediction of lymphocyte receptor specificity, and linking results to biophysical intuition.
 
-**Yuta Nagano**
-*PhD student*
-
-Interested in applying protein language models to adaptive immune receptor repertoire data (co-supervised by Benny Chain).
-
 **James Henderson**  
-*MSci student in Physics*
+*MSci student in Physics*   
 
 Interested in developing information theoretic tools to quantify which features of immune receptors are most restricted in epitope-specific repertoires.
 
-**Touchchai Chotisorayuth**
-*MSc student in AI for Biomedicine and Healthcare*
+**Kirsten Silvey**   
+*PhD rotation student (MRC DTP)*   
+
+Interested in how thymic function shapes the functional diversity of the adaptive immune system (co-supervised by Jennifer Cowan).
+
+**Touchchai Chotisorayuth**   
+*MSc student in AI for Biomedicine and Healthcare*   
 
 Interested in weakly supervised TCR metric learning.
 
-**Kirsten Silvey**
-*PhD rotation student*
 
-Interested in how thymic function shapes the functional diversity of the adaptive immune system (co-supervised with Jennifer Cowan).
+<img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="https://www.yutanagano.com/resources/images/cover.JPG" align="right">
+**Yuta Nagano**  &nbsp;
+<a href="https://github.com/yutanagano/"><i class="fa fa-github"></i></a> &nbsp;
+<a href="https://twitter.com/YutaNotUtah"><i class="fa fa-twitter"></i></a> &nbsp;
+<a href="https://www.yutanagano.com/"><i class="fa fa-house"></i></a> &nbsp;   
+*PhD student (CRUK)*  
 
+Interested in applying protein language models to adaptive immune receptor repertoire data (co-supervised by Benny Chain and Sergio Quezada).
 
 **You?**  
 *Immunologist? Physicist? Data Scientist?*
