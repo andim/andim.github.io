@@ -16,15 +16,31 @@ After an initial training in statistical physics in Göttingen and Paris, I work
 
 <img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="../images/andrewpyo.jpg" align="right">
 **Andrew Pyo**  
-*PhD student at Princeton University*  
+*PhD student*  
 <a href="https://scholar.google.com/citations?user=xf3PDngAAAAJ"><i class="ai ai-google-scholar"></i></a> &nbsp;
 
 Interested in the statistical physics of receptor-ligand interactions (co-supervised by Ned Wingreen). Laying the groundwork for applying metric learning to the prediction of lymphocyte receptor specificity, and linking results to biophysical intuition.
 
-**James Henderson**  
-*Master student at UCL*
+**Yuta Nagano**
+*PhD student*
 
-Interested in learning the sequence determinants of TCR specificity.
+Interested in applying protein language models to adaptive immune receptor repertoire data (co-supervised by Benny Chain).
+
+**James Henderson**  
+*MSci student in Physics*
+
+Interested in developing information theoretic tools to quantify which features of immune receptors are most restricted in epitope-specific repertoires.
+
+**Touchchai Chotisorayuth**
+*MSc student in AI for Biomedicine and Healthcare*
+
+Interested in weakly supervised TCR metric learning.
+
+**Kirsten Silvey**
+*PhD rotation student*
+
+Interested in how thymic function shapes the functional diversity of the adaptive immune system (co-supervised with Jennifer Cowan).
+
 
 **You?**  
 *Immunologist? Physicist? Data Scientist?*

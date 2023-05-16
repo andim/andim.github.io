@@ -46,6 +46,9 @@ A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies exp
     <a href="images/tcellexpansion.jpg" title="How is T cell expansion regulated? (PNAS 2019)">
         <img src="images/thumbnails/tcellexpansion.jpg" alt="T cell expansion">
     </a>
+    <a href="images/ldnqimmuno_audience_23.jpg" title="The lively audience of the London QImmunoDay 2023">
+        <img src="images/thumbnails/ldnqimmuno_audience_23.jpg" alt="London QImmuno Day">
+    </a>
 </div>
 
 <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
