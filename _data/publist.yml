@@ -1,3 +1,11 @@
+- authors: M Milighetti\*, Y Peng\*, C Tan\*, M Mark\*, G Nageswaran, S Byrne, T Ronel, T Peacock, A Mayer, A Chandran, J Rosenheim, ..., COVIDsortium Investigators, M Noursadeghi, B Chain
+  title: Large clones of pre-existing T cells drive early immunity against SARS-COV-2 and LCMV infection
+  journal: iScience
+  year: 2023
+  links:
+      doi: https://doi.org/10.1016/j.isci.2023.106937
+  media: Featured in [news-medical.net](https://www.news-medical.net/news/20221114/Study-suggests-the-rapid-expansion-of-naive-T-cells-can-provide-a-fast-and-effective-immune-response-to-SARS-CoV-2-and-other-viral-infections.aspx)
+
 - authors: RGH Lindeboom\*, KB Worlock\*, LM Dratva, M Yoshida, D Scobie, HR Wagstaffe, ..., M Noursadeghi, B Chain, A Mayer, KB Meyer, C Chiu, MZ Nikolic\*\*, SA Teichmann\*\*
   title: Human SARS-CoV-2 challenge resolves local and systemic response dynamics
   journal: medRxiv preprint
@@ -28,14 +36,6 @@
   year: 2022
   links:
     doi: https://doi.org/10.48550/arXiv.2212.12049
-
-- authors: M Milighetti\*, Y Peng\*, C Tan\*, M Mark\*, G Nageswaran, S Byrne, T Ronel, T Peacock, A Mayer, A Chandran, J Rosenheim, ..., COVIDsortium Investigators, M Noursadeghi, B Chain
-  title: Large clones of pre-existing T cells drive early immunity against SARS-COV-2 and LCMV infection
-  journal: bioRxiv preprint
-  year: 2022
-  links:
-      doi: https://doi.org/10.1101/2022.11.08.515436
-  media: Featured in [news-medical.net](https://www.news-medical.net/news/20221114/Study-suggests-the-rapid-expansion-of-naive-T-cells-can-provide-a-fast-and-effective-immune-response-to-SARS-CoV-2-and-other-viral-infections.aspx)
 
 - authors: H Chen\*, A Mayer\*, V Balasubramanian
   title: A scaling law in CRISPR repertoire sizes arises from avoidance of autoimmunity 
