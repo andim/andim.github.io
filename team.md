@@ -42,7 +42,7 @@ Interested in weakly supervised TCR metric learning.
 <a href="https://github.com/yutanagano/"><i class="fa fa-github"></i></a> &nbsp;
 <a href="https://twitter.com/YutaNotUtah"><i class="fa fa-twitter"></i></a> &nbsp;
 <a href="https://www.yutanagano.com/"><i class="fa fa-house"></i></a> &nbsp;   
-*PhD student (CRUK)*  
+*MBPhD student (CRUK)*  
 
 Interested in applying protein language models to adaptive immune receptor repertoire data (co-supervised by Benny Chain and Sergio Quezada).
 
