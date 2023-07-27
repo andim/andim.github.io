@@ -1,3 +1,10 @@
+- authors: CG Rapazzo, ML Fernandez Quintero, A Mayer, NC Wu, V Greiff, JJ Guthmiller
+  title: Defining and Studying B Cell Receptor and TCR Interactions 
+  journal: Journal of Immunology
+  year: 2023
+  links:
+    doi: https://doi.org/10.4049/jimmunol.2300136
+
 - authors: M Milighetti\*, Y Peng\*, C Tan\*, M Mark\*, G Nageswaran, S Byrne, T Ronel, T Peacock, A Mayer, A Chandran, J Rosenheim, ..., COVIDsortium Investigators, M Noursadeghi, B Chain
   title: Large clones of pre-existing T cells drive early immunity against SARS-COV-2 and LCMV infection
   journal: iScience
