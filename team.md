@@ -26,10 +26,8 @@ Interested in the statistical physics of receptor-ligand interactions (co-superv
 
 Interested in developing information theoretic tools to quantify which features of immune receptors are most restricted in epitope-specific repertoires.
 
-**Kirsten Silvey**   
-*PhD rotation student (MRC DTP)*   
-
-Interested in how thymic function shapes the functional diversity of the adaptive immune system (co-supervised by Jennifer Cowan).
+**Rishika Saxena** 
+*iBSc student in Maths, Computing, and Medicine*
 
 **Touchchai Chotisorayuth**   
 *MSc student in AI for Biomedicine and Healthcare*   
@@ -52,6 +50,8 @@ Interested in applying protein language models to adaptive immune receptor reper
 We are looking for enthusiastic researchers at all levels to join us on our journey. Interested in working on some of the most fundamental questions in immunology using cutting edge machine learning techniques? Excited about studying the physics of living systems in an important and tractable model system? Please reach out!
 
 ### Alumni
+**Jocelyn Japnanto**, was a IPLS summer student || now a Master student in Medical Physics at UCL
+**[Kirsten Silvey](https://www.uclbbk-mrcdtp.ac.uk/people/kirsten-silvey)**, was a MRC-DTP PhD rotation student || now a PhD student in structural biology at UCL
 **[Chris Russo](https://cobeylab.uchicago.edu/people/c-j-russo/)**, was a physics junior and senior thesis student || now a PhD student at University of Chicago  
 **[Max Nguyen](https://lsi.princeton.edu/max-nguyen)**, was a QCB PhD rotation student || now a PhD student at Princeton University  
 **[Léo Régnier](https://leoregnier.com/)**, was a visiting Master student from ENS || now a PhD student at CNRS  
