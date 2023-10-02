@@ -22,6 +22,7 @@ After an initial training in statistical physics in Göttingen and Paris, I work
 Interested in the statistical physics of receptor-ligand interactions (co-supervised by Ned Wingreen). Laying the groundwork for applying metric learning to the prediction of lymphocyte receptor specificity, and linking results to biophysical intuition.
 
 **James Henderson**  
+<a href="http://orcid.org/0009-0003-1584-605X"><i class="ai ai-orcid"></i></a> &nbsp;
 *MSci student in Physics*   
 
 Interested in developing information theoretic tools to quantify which features of immune receptors are most restricted in epitope-specific repertoires.
@@ -29,14 +30,22 @@ Interested in developing information theoretic tools to quantify which features 
 **Rishika Saxena** 
 *iBSc student in Maths, Computing, and Medicine*
 
+Interested in robustly quantifying whether TCRs in the tumor microenvironment have differing distributional properties.
+
 **Touchchai Chotisorayuth**   
 *MSc student in AI for Biomedicine and Healthcare*   
 
-Interested in weakly supervised TCR metric learning.
+Interested in weakly supervised TCR metric learning and fast clustering of sequence data.
 
+**Ursule Demaël** &nbsp;
+<a href="http://orcid.org/0000-0003-4793-9325"><i class="ai ai-orcid"></i></a> &nbsp;  
+*PhD student (MRC DTP)*  
+
+Interested in TCR engineering for immunotherapy (co-supervised by Hans Stauss).
 
 <img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="https://www.yutanagano.com/resources/images/cover.JPG" align="right">
 **Yuta Nagano**  &nbsp;
+<a href="http://orcid.org/0000-0002-1784-9276"><i class="ai ai-orcid"></i></a> &nbsp;
 <a href="https://github.com/yutanagano/"><i class="fa fa-github"></i></a> &nbsp;
 <a href="https://twitter.com/YutaNotUtah"><i class="fa fa-twitter"></i></a> &nbsp;
 <a href="https://www.yutanagano.com/"><i class="fa fa-house"></i></a> &nbsp;   
