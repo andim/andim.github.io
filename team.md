@@ -23,7 +23,7 @@ Interested in the statistical physics of receptor-ligand interactions (co-superv
 
 **James Henderson**
 <a href="http://orcid.org/0009-0003-1584-605X"><i class="ai ai-orcid"></i></a> &nbsp;  
-*MSci student in Physics*   
+*Research Assistant*   
 
 Interested in developing information theoretic tools to quantify which features of immune receptors are most restricted in epitope-specific repertoires.
 
@@ -31,6 +31,12 @@ Interested in developing information theoretic tools to quantify which features 
 *iBSc student in Maths, Computing, and Medicine*
 
 Interested in robustly quantifying whether TCRs in the tumor microenvironment have differing distributional properties.
+
+**Sankalan Bhattacharyya**   
+*Research Assistant*
+
+Interested in quality-quantity tradeoffs in learning probabilistic models
+
 
 **Touchchai Chotisorayuth**   
 *MSc student in AI for Biomedicine and Healthcare*   
