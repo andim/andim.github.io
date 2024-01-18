@@ -30,12 +30,12 @@ Interested in developing information theoretic tools to quantify which features 
 **Rishika Saxena**   
 *iBSc student in Maths, Computing, and Medicine*
 
-Interested in robustly quantifying whether TCRs in the tumor microenvironment have differing distributional properties.
+Interested in robustly quantifying whether cancer-associated TCRs can be identified from TCR sequence features.
 
 **Sankalan Bhattacharyya**   
 *Research Assistant*
 
-Interested in quality-quantity tradeoffs in learning probabilistic models
+Interested in quality-quantity tradeoffs in learning probabilistic models.
 
 
 **Touchchai Chotisorayuth**   
