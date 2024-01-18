@@ -14,7 +14,9 @@ Our approach to quantitative immunology is rooted in the tradition of biological
 
 ### News
 
-- On March 9th 2023 we are organizing a [London Quantitative Immunology Day](https://qimmuno.com/ldnday/). Come join us!
+- On March 14th 2024 we are organizing the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/). Come join us!
+- The London Quantitative Immunology Network now has a mailing list: Sign up [Here](https://qimmuno.com/ldnqimmuno/).
+- On March 9th 2023 we are organizing a [London Quantitative Immunology Day](https://qimmuno.com/ldnday2023/). Come join us!
 - Sept 30 2022: The workshop "Statistical physics and adaptive immunity" co-organized by Andreas is now open for [registration](https://aspenphys.org/physicists/summer/program/currentworkshops.html). The workshop will be held at the Aspen Center for Physics August 6 - 27, 2023.
 - July 25 2022: First paper from lab out on [bioRxiv](https://doi.org/10.1101/2022.07.25.501373)! Our first foray into deciphering TCR specificity quantitatively. 
 - Apr 7 2022: The lab opens its doors at UCL!
