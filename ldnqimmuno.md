@@ -1,10 +1,8 @@
 ---
 layout: page
-title: LDN QImmuno
+title: LDNQimmunoNetwork
 order: 8
 ---
-
-## Our network
 
 The London Quantitative Immunology Network was created in 2023 to bring together researchers from different institutions with a shared interest in using quantitative approaches to study immune defence. Our informal network is open to all.
 
