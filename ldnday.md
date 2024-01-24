@@ -43,7 +43,7 @@ There are three possible formats:
 (2) a **whiteboard talk**: a talk without slides where you will explain your project interactively to a small audience with the support of a marker and a whiteboard  
 (3) a **poster** 
 
-If you would like to be considered for any of the three, please indicate so when [registering](https://lu.ma/9rvihe65). If you want to be considered for a short or whiteboard talk  the deadline to submit a title and abstract is the *28th of February*
+If you would like to be considered for any of the three, please indicate so when [registering](https://lu.ma/9rvihe65). If you want to be considered for a short or whiteboard talk  the deadline to submit a title and abstract is the **28th of February**.
 
 ## Schedule
 
