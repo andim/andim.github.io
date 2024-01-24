@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LDNQimmunoNetwork
+title: LDN-Q-Immuno
 order: 8
 ---
 
