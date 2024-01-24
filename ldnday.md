@@ -50,7 +50,7 @@ There is no registration fee, but we encourage prior [registration](https://lu.m
 Invited speakers this year include:
 - [Alexandra Sharland](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/alexandra-sharland.html) (University of Sydney)
 - [Kabir Husain](https://kabirhusain.github.io/) (University College London)
-- [Justin Barton](https://scholar.google.co.uk/citations?user=rqbk7ezKqosC&hl=en) (Alchemab)
+- [Justin Barton](https://scholar.google.co.uk/citations?user=rqbk7ezKqosC&hl=en) (Alchemab Therapeutics)
 
 ... and YOU are also invited to contribute (see below)!
 
