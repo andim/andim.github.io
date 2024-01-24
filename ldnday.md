@@ -45,6 +45,15 @@ Immunology is being transformed by the application of a multitude of quantitativ
 
 There is no registration fee, but we encourage prior [registration](https://lu.ma/9rvihe65) to help us gauge attendance.
 
+## Schedule
+
+Invited speakers this year include:
+- [Alexandra Sharland](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/alexandra-sharland.html) (University of Sydney)
+- [Kabir Husain](https://kabirhusain.github.io/) (University College London)
+- [Justin Barton](https://scholar.google.co.uk/citations?user=rqbk7ezKqosC&hl=en) (Alchemab)
+
+... and YOU are also invited to contribute (see below)!
+
 ## Talks and Posters
 
 We highly encourage you to contribute to the London Q-Immuno day - works in progress and contributions from early career researchers are particularly welcome!
@@ -56,15 +65,6 @@ There are three possible formats:
 (3) a **poster** 
 
 If you would like to be considered for any of the three, please indicate so when [registering](https://lu.ma/9rvihe65). If you want to be considered for a short or whiteboard talk  the deadline to submit a title and abstract is the **28th of February**.
-
-## Schedule
-
-Invited speakers this year include:
-- [Alexandra Sharland](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/alexandra-sharland.html) (University of Sydney)
-- [Kabir Husain](https://kabirhusain.github.io/) (University College London)
-- [Justin Barton](https://scholar.google.co.uk/citations?user=rqbk7ezKqosC&hl=en) (Alchemab)
-
-... and YOU are invited to contribute (see above)!
 
 ## Organizers
 
