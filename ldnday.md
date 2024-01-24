@@ -22,7 +22,19 @@ order: 5
     A community day for researchers in the quantitative life sciences from across London. <br />
   </p>
   <p style="margin-top:0em;padding-top:0em;padding-bottom:1em;font-size:150%">
-   <a href="https://lu.ma/9rvihe65">&rarr; Register now &larr;</a>
+
+
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+
+<a
+  href="https://lu.ma/event/evt-1MnVzjAgp836VoR"
+  class="luma-checkout--button"
+  data-luma-action="checkout"
+  data-luma-event-id="evt-1MnVzjAgp836VoR"
+>
+  Register now
+</a>
+
   </p>
 </div>
 
