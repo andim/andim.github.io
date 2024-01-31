@@ -67,8 +67,10 @@ There are three possible formats:
 
 If you would like to be considered for any of the three, please indicate so when [registering](https://lu.ma/9rvihe65). If you want to be considered for a short or whiteboard talk  the deadline to submit a title and abstract is the **28th of February**.
 
-## Organizers
+## Organisers
 
- [Yuta Nagano](https://www.yutanagano.com/), [Ursule Demaël](https://twitter.com/UDemael), [James Henderson](https://qimmuno.com/team/) and [Andreas Tiffeau-Mayer](https://qimmuno.com/).
+[Yuta Nagano](https://www.yutanagano.com/), [Ursule Demaël](https://twitter.com/UDemael), [James Henderson](https://qimmuno.com/team/) and [Andreas Tiffeau-Mayer](https://qimmuno.com/).
 
-The LDN Q-Immuno Day is made possible by a [USyd-UCL Global Engagement award](https://www.ucl.ac.uk/global/ucl-global-engagement) and UCL's [Institute of Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/ucl-institute-immunity-and-transplantation) and [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/institute-physics-living-systems).
+The LDN Q-Immuno Day is made possible by a [USyd-UCL Global Engagement award](https://www.ucl.ac.uk/global/ucl-global-engagement) and UCL's [Institute of Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/ucl-institute-immunity-and-transplantation) and [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/institute-physics-living-systems).  
+
+It is part of a series of events organised by the informal [London Quantitative Immunology Network](https://qimmuno.com/ldnqimmuno/). Please join our mailing list!

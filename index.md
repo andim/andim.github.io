@@ -14,8 +14,8 @@ Our approach to quantitative immunology is rooted in the tradition of biological
 
 ### News
 
-- On March 14th 2024 we are organizing the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/). Come join us!
-- The London Quantitative Immunology Network now has a mailing list: Sign up instructions [here](https://qimmuno.com/ldnqimmuno/).
+- On March 14th 2024 we are organising the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/). Come join us!
+- January 2024: The London Quantitative Immunology Network now has a mailing list: Sign up instructions [here](https://qimmuno.com/ldnqimmuno/).
 - December 2023: Silver and Bronze for the QImmuno lab in the [IMMREP23](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard) TCR Specificity Prediction Challenge!!
 - On March 9th 2023 we are organizing a [London Quantitative Immunology Day](https://qimmuno.com/ldnday2023/). Come join us!
 - Sept 30 2022: The workshop "Statistical physics and adaptive immunity" co-organized by Andreas is now open for [registration](https://aspenphys.org/physicists/summer/program/currentworkshops.html). The workshop will be held at the Aspen Center for Physics August 6 - 27, 2023.
