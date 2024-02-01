@@ -51,7 +51,7 @@ Invited speakers this year include:
 - [Alexandra Sharland](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/alexandra-sharland.html) (University of Sydney)
 - [Justin Barton](https://scholar.google.co.uk/citations?user=rqbk7ezKqosC&hl=en) (Alchemab Therapeutics)
 - [Kabir Husain](https://kabirhusain.github.io/) (University College London)
-- [Leonard Wossnig](https://labgeni.us/news-1/ctoappointment) (Labgenius)
+- [Leonard Wossnig](https://www.linkedin.com/in/leonard-wossnig/) (Labgenius)
 
 ... and YOU are also invited to contribute (see below)!
 
