@@ -6,10 +6,10 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            The Qimmuno Lab
+title:            The Q-Immuno Lab
 tagline:          'Quantitative Immunology @ UCL'
 description:      'PI: Andreas Tiffeau-Mayer | UCL'
-url:              http://andim.github.io/
+url:              http://qimmuno.com/
 baseurl:          /
 
 author:
