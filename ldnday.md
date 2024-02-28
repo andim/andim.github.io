@@ -10,7 +10,6 @@ order: 5
   2nd London Quantitative Immunology Day
   </h1>
   <div class="box">
-  <img style="width:6em;margin-left:0;margin-top:1em;margin-right:1em" src="../images/ldnqimmuno.png">
   <span style="text-align:left">
     Thursday March 14th 2024 <br /> 
     Pears Building, UCL IIT <br />
