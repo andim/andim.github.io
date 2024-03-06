@@ -54,7 +54,7 @@ There is no registration fee, but we encourage prior [registration](https://lu.m
 <details>
 <summary>
 <a href="https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/alexandra-sharland.html">Alexandra Sharland</a> (University of Sydney): <br> 
-TBD
+Characterizing alloreactive T cells in Transplantation
 </summary>
 <p> Abstract</p>
 </details>
@@ -167,7 +167,7 @@ Genetically engineering T cells to reduce the risk of autoimmune cross-reactivit
 <details>
 <summary>
 <a href="https://kabirhusain.github.io/">Kabir Husain</a> (UCL): <br>
-TBD
+Signatures of an evolutionary capacitor from a high-resolution Luria-Delbruck assay
 </summary>
   <p>
   TBD
