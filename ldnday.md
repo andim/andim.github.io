@@ -44,24 +44,7 @@ Immunology is being transformed by the application of a multitude of quantitativ
 
 There is no registration fee, but we encourage prior [registration](https://lu.ma/9rvihe65) to help us gauge attendance.
 
-## Talks and Posters
-
-We highly encourage you to contribute to the London Q-Immuno day - works in progress and contributions from early career researchers are particularly welcome!
-
-There are three possible formats:
-
-(1) a **short talk** during one of the main sessions  
-(2) a **whiteboard talk**: a talk without slides where you will explain your project interactively to a small audience with the support of a marker and a whiteboard  
-(3) a **poster** 
-
-If you would like to be considered for any of the three, please indicate so when [registering](https://lu.ma/9rvihe65). If you want to be considered for a short or whiteboard talk  the deadline to submit a title and abstract is the **28th of February**.
-
 ## Schedule
-
-Invited speakers this year include:
-- []() (Labgenius)
-
-... and YOU are also invited to contribute (see below)!
 
 - 09:30-10:00 Meet and Greet  
 <details open>
@@ -194,6 +177,18 @@ TBD
 - 16:15-17:15 Posters and drinks  
 
 Toggle to see abstracts.
+
+## Talks and Posters
+
+We highly encourage you to contribute to the London Q-Immuno day - works in progress and contributions from early career researchers are particularly welcome!
+
+There are three possible formats:
+
+(1) a **short talk** during one of the main sessions  
+(2) a **whiteboard talk**: a talk without slides where you will explain your project interactively to a small audience with the support of a marker and a whiteboard  
+(3) a **poster** 
+
+If you would like to be considered for any of the three, please indicate so when [registering](https://lu.ma/9rvihe65). If you want to be considered for a short or whiteboard talk  the deadline to submit a title and abstract is the **28th of February**.
 
 
 ## Organisers
