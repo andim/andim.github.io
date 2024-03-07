@@ -56,7 +56,8 @@ There is no registration fee, but we encourage prior [registration](https://lu.m
 <a href="https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/alexandra-sharland.html">Alexandra Sharland</a> (University of Sydney): <br> 
 Characterizing alloreactive T cells in Transplantation
 </summary>
-<p> Abstract</p>
+<p> Directly alloreactive CD8 T cells recognise epitopes formed by an allogeneic MHC I molecule loaded with an endogenous peptide. Using a combination of mass spectrometry and ex-vivo multimer staining, we have recently identified over 40 immunogenic peptides presented by H-2Kb. Profiling the T cell receptor (TCR) repertoire of CD8 T cells responding to a subset of these epitopes under various transplant conditions can inform our understanding of the molecular basis of alloreactivity and the mechanisms underlying transplant tolerance or rejection.
+</p>
 </details>
 <details>
 <summary>
@@ -167,10 +168,10 @@ Genetically engineering T cells to reduce the risk of autoimmune cross-reactivit
 <details>
 <summary>
 <a href="https://kabirhusain.github.io/">Kabir Husain</a> (UCL): <br>
-Signatures of an evolutionary capacitor from a high-resolution Luria-Delbruck assay
+The noise is the signal
 </summary>
   <p>
-  TBD
+  Eighty years ago, Luria and Delbruck had a rather clever idea: simply by counting bacterial colonies on a plate, they learned something about the nature of evolution and even measured the mutation rate -- a full decade before the structure of DNA was determined. However, their particular statistical insight has not been brought into the modern age. I will present a high-throughput riff on their work, and discuss applications in the context of ongoing work on proofreading DNA polymerases, modifier loci, and protein evolvability. Overall, I hope to suggest a phenomenological, statistical approach to study the ebb and flow of genetic variation in a population.
   </p>
 </details>
 </details>
