@@ -46,6 +46,8 @@ There is no registration fee, but we encourage prior [registration](https://lu.m
 
 ## Schedule
 
+Toggle to see abstracts. You can also [download](https://qimmuno.com/images/LDN-Q-Immuno-24-Schedule.pdf) the schedule.
+
 - 09:30-10:00 Meet and Greet  
 <details open>
 <summary>
@@ -176,8 +178,6 @@ The noise is the signal
 </details>
 </details>
 - 16:15-17:15 Posters and drinks  
-
-Toggle to see abstracts.
 
 ## Talks and Posters
 

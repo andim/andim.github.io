@@ -39,6 +39,7 @@ Interested in quality-quantity tradeoffs in learning probabilistic models.
 
 
 **Touchchai Chotisorayuth**   
+<a href="http://orcid.org/0009-0005-5248-5112"><i class="ai ai-orcid"></i></a> &nbsp;  
 *MSc student in AI for Biomedicine and Healthcare*   
 
 Interested in weakly supervised TCR metric learning and fast clustering of sequence data.
