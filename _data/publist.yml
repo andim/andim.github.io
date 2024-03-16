@@ -1,9 +1,19 @@
+- authors: T Chotisorayuth, A Tiffeau-Mayer
+  title: Lightning-fast adaptive immune receptor similarity search by symmetric deletion lookup
+  journal: arXiv preprint
+  year: 2024
+  links:
+    doi: https://arxiv.org/abs/2403.09010
+    github: https://github.com/heartnetkung/XT-neighbor/
+
+
 - authors: A Tiffeau-Mayer
   title: Unbiased estimation of sampling variance for Simpson's diversity index
   journal: arXiv preprint
   year: 2023
   links:
     doi: https://doi.org/10.48550/arXiv.2310.03439
+    github: https://github.com/andim/pydiver/
 
 - authors: CG Rapazzo, ML Fernandez Quintero, A Mayer, NC Wu, V Greiff, JJ Guthmiller
   title: Defining and Studying B Cell Receptor and TCR Interactions 
