@@ -4,8 +4,6 @@ title: Home
 order: 1
 ---
 
-<link rel="stylesheet" href="gallery/css/blueimp-gallery.min.css">
-
 #### Our lab's mission is to understand immune defense quantitatively using theory and computation.
 
 We are a Quantitative Immunology research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.ucl.ac.uk/infection-immunity/research/research-department-infection/lab-research-groups/innate2adaptive) and we have strong links with experimental and theory groups at UCL and beyond.
@@ -14,7 +12,7 @@ Our approach to quantitative immunology is rooted in the tradition of biological
 
 ### News
 
-- On March 14th 2024 we are organising the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/). Come join us!
+- March 14th 2024: [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/).
 - January 2024: The London Quantitative Immunology Network now has a mailing list: Sign up instructions [here](https://qimmuno.com/ldnqimmuno/).
 - December 2023: Silver and Bronze for the QImmuno lab in the [IMMREP23](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard) TCR Specificity Prediction Challenge!!
 - On March 9th 2023 we are organizing a [London Quantitative Immunology Day](https://qimmuno.com/ldnday2023/). Come join us!
@@ -39,42 +37,34 @@ A Mayer, Y Zhang, AS Perelson, NS Wingreen, **Regulation of T cell expansion by 
 A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies explained by adaptation to pathogen statistics**, PNAS, 2016. [<i class="ai ai-doi"></i>](http://dx.doi.org/10.1073/pnas.1600663113)
 
 ### Image Gallery
-<div id="links" style="background-color:#2d314d;padding:0.5em">
-    <a href="images/pears.jpg" title="The Institute of Immunity and Transplantation">
-        <img src="images/thumbnails/pears.jpg" alt="Pears Building">
-    </a>
-    <a href="images/crispr.jpg" title="What trade-offs shape prokaryotic immunity? (Current Biology 2022)">
-        <img src="images/thumbnails/crispr.jpg" alt="CRISPR graphical abstract">
-    </a>
-    <a href="images/tcellexpansion.jpg" title="How is T cell expansion regulated? (PNAS 2019)">
-        <img src="images/thumbnails/tcellexpansion.jpg" alt="T cell expansion">
-    </a>
-    <a href="images/ldnqimmuno_audience_23.jpg" title="The lively audience of the London QImmunoDay 2023">
-        <img src="images/thumbnails/ldnqimmuno_audience_23.jpg" alt="London QImmuno Day">
-    </a>
+
+
+<div class="gallery">
+  <a target="_blank" href="images/crispr.jpg">
+    <img src="images/crispr.jpg" alt="Trade-off sketch">
+  </a>
+  <div class="desc">What trade-offs shape prokaryotic immunity? (Current Biology 2022)</div>
 </div>
 
-<div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
+<div class="gallery">
+  <a target="_blank" href="images/tcellexpansion.jpg">
+    <img src="images/tcellexpansion.jpg" alt="T cell regulation sketch">
+  </a>
+  <div class="desc">How is T cell expansion regulated? (PNAS 2019)</div>
 </div>
 
-<script>
-document.getElementById('links').onclick = function (event) {
-    event = event || window.event;
-    var target = event.target || event.srcElement,
-        link = target.src ? target.parentNode : target,
-        options = {index: link, event: event},
-        links = this.getElementsByTagName('a');
-    blueimp.Gallery(links, options);
-};
-</script>
+<div class="gallery">
+  <a target="_blank" href="images/pears.jpg">
+    <img src="images/pears.jpg" alt="IIT photo">
+  </a>
+  <div class="desc">The Institute of Immunity and Transplantation</div>
+</div>
 
-<script src="gallery/js/blueimp-gallery.min.js"></script>
+<div class="gallery">
+  <a target="_blank" href="images/ldnqimmuno_audience_23.jpg">
+    <img src="images/ldnqimmuno_audience_23.jpg" alt="LDN Q-Immuno Day 22">
+  </a>
+  <div class="desc">The lively audience of the London Q-Immuno Day 2023</div>
+</div>
 
 
