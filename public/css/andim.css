@@ -34,7 +34,7 @@ div.gallery {
   margin: 0.5rem;
   border: 0.1rem solid #ccc;
   float: left;
-  width: 10em;
+  width: 15em;
 }
 
 div.gallery:hover {
@@ -47,8 +47,9 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 1rem;
+  padding: 0.5rem;
   text-align: center;
+  font-size: 0.8rem;
 }
 
 .theme-andim .content {

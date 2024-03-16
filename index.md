@@ -38,6 +38,19 @@ A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies exp
 
 ### Image Gallery
 
+<div class="gallery">
+  <a target="_blank" href="images/pears.jpg">
+    <img src="images/pears.jpg" alt="IIT photo">
+  </a>
+  <div class="desc">The Institute of Immunity and Transplantation</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/ldnqimmuno_audience_23.jpg">
+    <img src="images/ldnqimmuno_audience_23.jpg" alt="LDN Q-Immuno Day 22">
+  </a>
+  <div class="desc">London Q-Immuno Day 2023</div>
+</div>
 
 <div class="gallery">
   <a target="_blank" href="images/crispr.jpg">
@@ -52,19 +65,4 @@ A Mayer, O Rivoire, T Mora, and AM Walczak, **Diversity of immune strategies exp
   </a>
   <div class="desc">How is T cell expansion regulated? (PNAS 2019)</div>
 </div>
-
-<div class="gallery">
-  <a target="_blank" href="images/pears.jpg">
-    <img src="images/pears.jpg" alt="IIT photo">
-  </a>
-  <div class="desc">The Institute of Immunity and Transplantation</div>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="images/ldnqimmuno_audience_23.jpg">
-    <img src="images/ldnqimmuno_audience_23.jpg" alt="LDN Q-Immuno Day 22">
-  </a>
-  <div class="desc">The lively audience of the London Q-Immuno Day 2023</div>
-</div>
-
 
