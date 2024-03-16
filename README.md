@@ -1,5 +1,5 @@
-Source for my homepage
-----------------------
+Source for the Q-Immuno lab homepage
+------------------------------------
 
 Content is licensed cc-by-sa, the rest is MIT licensed.
 
