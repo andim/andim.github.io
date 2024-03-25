@@ -27,6 +27,11 @@ Interested in the statistical physics of receptor-ligand interactions (co-superv
 
 Interested in developing information theoretic tools to quantify which features of immune receptors are most restricted in epitope-specific repertoires.
 
+**Prisha Satwani**
+*MSc student in AI*
+
+Large language models to predict T cell specificity and function
+
 **Rishika Saxena**   
 *iBSc student in Maths, Computing, and Medicine*
 
@@ -51,7 +56,7 @@ Interested in weakly supervised TCR metric learning and fast clustering of seque
 
 Interested in TCR engineering for immunotherapy (co-supervised by Hans Stauss).
 
-<img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="https://www.yutanagano.com/resources/images/cover.JPG" align="right">
+<img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="https://www.yutanagano.com/images/avatar.jpg" align="right">
 **Yuta Nagano**  &nbsp;
 <a href="http://orcid.org/0000-0002-1784-9276"><i class="ai ai-orcid"></i></a> &nbsp;
 <a href="https://github.com/yutanagano/"><i class="fa fa-github"></i></a> &nbsp;
@@ -67,9 +72,9 @@ Interested in applying protein language models to adaptive immune receptor reper
 We are looking for enthusiastic researchers at all levels to join us on our journey. Interested in working on some of the most fundamental questions in immunology using cutting edge machine learning techniques? Excited about studying the physics of living systems in an important and tractable model system? Please reach out!
 
 ### Alumni
-**Jocelyn Japnanto**, was a IPLS summer student || now a Master student in Medical Physics at UCL  
-**[Kirsten Silvey](https://www.uclbbk-mrcdtp.ac.uk/people/kirsten-silvey)**, was a MRC-DTP PhD rotation student || now a PhD student in structural biology at UCL  
-**[Chris Russo](https://cobeylab.uchicago.edu/people/c-j-russo/)**, was a physics junior and senior thesis student || now a PhD student at University of Chicago  
-**[Max Nguyen](https://lsi.princeton.edu/max-nguyen)**, was a QCB PhD rotation student || now a PhD student at Princeton University  
-**[Léo Régnier](https://leoregnier.com/)**, was a visiting Master student from ENS || now a PhD student at CNRS  
-**[Mario Gaimann](https://mario.gaimann.com/)**, was a DAAD RISE summer intern || now a PhD student at the Max Planck Institute for Intelligent Systems  
+**Jocelyn Japnanto**, IPLS summer student || now a PhD student in earth sciences at UCL  
+**[Kirsten Silvey](https://www.uclbbk-mrcdtp.ac.uk/people/kirsten-silvey)**, MRC-DTP PhD rotation student || now a PhD student in structural biology at UCL  
+**[Chris Russo](https://cobeylab.uchicago.edu/people/c-j-russo/)**, physics junior and senior thesis student || now a PhD student at University of Chicago  
+**[Max Nguyen](https://lsi.princeton.edu/max-nguyen)**, QCB PhD rotation student || now a PhD student at Princeton University  
+**[Léo Régnier](https://leoregnier.com/)**, visiting Master student from ENS || now a PhD student at CNRS  
+**[Mario Gaimann](https://mario.gaimann.com/)**, DAAD RISE summer intern || now a PhD student at the Max Planck Institute for Intelligent Systems  
