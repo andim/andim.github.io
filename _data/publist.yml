@@ -1,3 +1,11 @@
+- authors: J Henderson, Y Nagano, M Milighetti, A Tiffeau-Mayer
+  title: Limits on Inferring T-cell Specificity from Partial Information
+  journal: arXiv preprint
+  year: 2024
+  links:
+    doi: https://arxiv.org/abs/2404.12565
+
+
 - authors: T Chotisorayuth, A Tiffeau-Mayer
   title: Lightning-fast adaptive immune receptor similarity search by symmetric deletion lookup
   journal: arXiv preprint
@@ -5,7 +13,6 @@
   links:
     doi: https://arxiv.org/abs/2403.09010
     github: https://github.com/heartnetkung/XT-neighbor/
-
 
 - authors: A Tiffeau-Mayer
   title: Unbiased estimation of sampling variance for Simpson's diversity index
