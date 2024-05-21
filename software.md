@@ -8,6 +8,10 @@ order: 6
 
 A Python library that provides algorithms and visualization tools to speed up the analysis of immune repertoire sequencing data.
 
+### [PyDiver](https://pydiver.readthedocs.io/)
+
+A lightweight software package for calculating Simpson diversity with error bars.
+
 ### [Easyleed](http://andim.github.io/easyleed/)
 
 Software for the automated extraction of intensity-energy spectra from low-energy election diffraction patterns based on image analysis and spot tracking.
