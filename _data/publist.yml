@@ -1,3 +1,11 @@
+- authors: Y Nagano, A Pyo, M Milighetti, J Henderson, J Shaw-Taylor, B Chain\*, A Tiffeau-Mayer\*
+  title: Contrastive learning of T cell receptor representations
+  journal: arXiv preprint
+  year: 2024
+  links:
+    doi: https://arxiv.org/abs/2406.06397
+    github: https://github.com/yutanagano/sceptr/
+
 - authors: M Milighetti, Y Nagano, J Henderson, U Hershberg, A Tiffeau-Mayer, A-F Bitbol, B Chain
   title: "Intra-and inter-chain contacts determine TCR specificity: applying protein co-evolution methods to TCRab pairing"
   journal: bioRxiv preprint
