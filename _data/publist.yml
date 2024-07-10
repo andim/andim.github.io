@@ -30,11 +30,19 @@
 
 - authors: A Tiffeau-Mayer
   title: Unbiased estimation of sampling variance for Simpson's diversity index
-  journal: arXiv preprint
-  year: 2023
+  journal: Physical Review E
+  year: 2024
   links:
-    doi: https://doi.org/10.48550/arXiv.2310.03439
+    doi: https://doi.org/10.1103/PhysRevE.109.064411
     github: https://github.com/andim/pydiver/
+
+- authors: RGH Lindeboom\*, KB Worlock\*, LM Dratva, M Yoshida, D Scobie, HR Wagstaffe, ..., M Noursadeghi, B Chain, A Mayer, KB Meyer, C Chiu, MZ Nikolic\*\*, SA Teichmann\*\*
+  title: Human SARS-CoV-2 challenge uncovers local and systemic response dynamics
+  journal: Nature
+  year: 2024
+  links:
+    doi: https://doi.org/10.1038/s41586-024-07575-x
+  media: "Featured by [Nature News & Views](https://www.nature.com/articles/d41586-024-01644-x), the [Guardian](https://www.theguardian.com/world/article/2024/jun/19/covid-immune-response-study-could-explain-why-some-escape-infection) and others."
 
 - authors: CG Rapazzo, ML Fernandez Quintero, A Mayer, NC Wu, V Greiff, JJ Guthmiller
   title: Defining and Studying B Cell Receptor and TCR Interactions 
@@ -50,14 +58,6 @@
   links:
       doi: https://doi.org/10.1016/j.isci.2023.106937
   media: Featured in [news-medical.net](https://www.news-medical.net/news/20221114/Study-suggests-the-rapid-expansion-of-naive-T-cells-can-provide-a-fast-and-effective-immune-response-to-SARS-CoV-2-and-other-viral-infections.aspx)
-
-- authors: RGH Lindeboom\*, KB Worlock\*, LM Dratva, M Yoshida, D Scobie, HR Wagstaffe, ..., M Noursadeghi, B Chain, A Mayer, KB Meyer, C Chiu, MZ Nikolic\*\*, SA Teichmann\*\*
-  title: Human SARS-CoV-2 challenge resolves local and systemic response dynamics
-  journal: Nature
-  year: 2024
-  links:
-    doi: https://doi.org/10.1038/s41586-024-07575-x
-  media: "Featured by [Nature News & Views](https://www.nature.com/articles/d41586-024-01644-x) &middot; the [Guardian](https://www.theguardian.com/world/article/2024/jun/19/covid-immune-response-study-could-explain-why-some-escape-infection) and others"
 
 - authors: P Mehta\*, B Sanz-Magallón Duque de Estrada\*, EK Denneny\*, K Foster, CT Turner, A Mayer, M Milighetti, M Platé, KB Worlock, M Yoshida, JS Brown, MZ Nikolić, A Nair, BM Chain, M Noursadeghi, RC Chambers\*\*, JC Porter\*\*, GS Tomlinson\*\*
   title: Single-cell analysis of bronchoalveolar cells in inflammatory and fibrotic post-COVID lung disease
