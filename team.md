@@ -59,7 +59,7 @@ Interested in weakly supervised TCR metric learning and fast clustering of seque
 <img style="width:6em;margin-left:1em;margin-top:1em,border-radius:5px" src="https://www.uclbbk-mrcdtp.ac.uk/sites/default/files/styles/profile/public/2023-06/ursule_demael_headshot_-_1_1_-removebg-previ_ursule_demael.png?h=ac026c95&itok=dtBCHY9z" align="right">
 **Ursule Demaël** &nbsp;
 <a href="http://orcid.org/0000-0003-4793-9325"><i class="ai ai-orcid"></i></a> &nbsp;
-<a href="https://github.com/ursule-demael"><i class="fa fa-github"></i></a> &nbsp;  
+<a href="https://github.com/ursule-demael"><i class="fa fa-github"></i></a> &nbsp;
 <a href="https://twitter.com/UDemael"><i class="fa fa-twitter"></i></a> &nbsp;  
 *PhD student (MRC DTP)*  
 
