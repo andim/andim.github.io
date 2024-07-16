@@ -16,10 +16,12 @@ ii.ldnqimmuno-join at ucl.ac.uk
 This list serves to facilitate distributing announcement about events, open positions, and the like among its members.
 
 
-## Next meeting:
-- 19th June 2024: Meet-up at Imperial-X 2.30-5pm (organised by [Barbara Bravi](https://www.imperial.ac.uk/people/b.bravi21))
+## Next meetings:
+- Fall 2024: To be announced
+- Spring 2025: 3rd LDN Q-Immuno Day
 
 ## Past meetings:
+- 19th June 2024: Meet-up at Imperial-X 2.30-5pm (organised by [Barbara Bravi](https://www.imperial.ac.uk/people/b.bravi21))
 - March 14th 2024: 2nd [LDN Q-Immuno Day](https://qimmuno.com/ldnday/) at UCL
 - November 2023: Meet-up at the Institute for Cancer Research (organised by [Tahel Ronel](https://scholar.google.com/citations?user=GxSxgP0AAAAJ) & [Luis Zapata](https://www.icr.ac.uk/our-research/researchers-and-teams/dr-luis-zapata-ortiz))
 - June 2023: Meet-up at Imperial-X (organised by [Barbara Bravi](https://www.imperial.ac.uk/people/b.bravi21))
