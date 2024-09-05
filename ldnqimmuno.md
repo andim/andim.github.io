@@ -3,8 +3,9 @@ layout: page
 title: LDN-Q-Immuno
 order: 8
 ---
+# LDN Q-Immuno Network
 
-The London Quantitative Immunology Network brings together researchers from across institutions with a shared interest in using *mathematical models, quantitative methods, and genomic approaches* to understand the immune system and its interactions. Our informal network is open to all.
+The London Quantitative Immunology Network brings together researchers from across institutions with a shared interest in using **mathematical models, quantitative methods, and genomic approaches** to understand the immune system and its interactions. Our informal network is open to all.
 
 We are particularly focused on giving early-career researchers opportunities to network and present their research. Through our events we hope to facilitate lasting interdisciplinary connections within this newly emerging field. Come join us!
 
@@ -17,7 +18,7 @@ This list serves to facilitate distributing announcement about events, open posi
 
 
 ## Next meetings:
-- 13th November 2024: Meetup at the Institute of Cancer Research Chelsea 2-5pm
+- 13th November 2024: Meetup at the Institute of Cancer Research Chelsea 2-5pm (organised by [Luis Zapata](https://www.icr.ac.uk/our-research/researchers-and-teams/dr-luis-zapata-ortiz))
 - Spring 2025: 3rd LDN Q-Immuno Day
 
 ## Past meetings:
