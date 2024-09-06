@@ -1,4 +1,4 @@
-- authors: S Sureshchandra, J Henderson, E Levendosky, S Bhattacharyya, JM Kastenschmidt, AM Sorn, M Tabassum Mitul, A Benchorin, K Batucal, A Daugherty, SJH Murphy, C Thakur, D Trask, G Ahuja, A Moisan, A Tiffeau-Mayer\*, N Saligrama\*, LE Wagar\*
+- authors: S Sureshchandra, J Henderson, E Levendosky, S Bhattacharyya, JM Kastenschmidt, AM Sorn, M Tabassum Mitul, A Benchorin, K Batucal, A Daugherty, SJH Murphy, C Thakur, D Trask, G Ahuja, A Moisan, A Tiffeau-Mayer\*\*, N Saligrama\*\*, LE Wagar\*\*
   title: Tissue determinants of the human T cell receptor repertoire
   journal: bioRxiv preprint
   year: 2024
@@ -12,7 +12,6 @@
   links:
     doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4914987 
     github: https://github.com/justin-barton/IMMREP23/
-
 
 - authors: Y Nagano, A Pyo, M Milighetti, J Henderson, J Shawe-Taylor, B Chain\*, A Tiffeau-Mayer\*
   title: Contrastive learning of T cell receptor representations
@@ -60,6 +59,13 @@
     doi: https://doi.org/10.1038/s41586-024-07575-x
   media: "Featured by [Nature News & Views](https://www.nature.com/articles/d41586-024-01644-x), the [Guardian](https://www.theguardian.com/world/article/2024/jun/19/covid-immune-response-study-could-explain-why-some-escape-infection) and others."
 
+- authors: P Mehta\*, B Sanz-Magallón Duque de Estrada\*, EK Denneny\*, K Foster, CT Turner, A Mayer, M Milighetti, M Platé, KB Worlock, M Yoshida, JS Brown, MZ Nikolić, A Nair, BM Chain, M Noursadeghi, RC Chambers\*\*, JC Porter\*\*, GS Tomlinson\*\*
+  title: Single-cell analysis of bronchoalveolar cells in inflammatory and fibrotic post-COVID lung disease
+  journal: Frontiers in Immunology
+  year: 2024
+  links:
+    doi: https://doi.org/10.3389/fimmu.2024.1372658
+
 - authors: CG Rapazzo, ML Fernandez Quintero, A Mayer, NC Wu, V Greiff, JJ Guthmiller
   title: Defining and Studying B Cell Receptor and TCR Interactions 
   journal: Journal of Immunology
@@ -75,13 +81,6 @@
       doi: https://doi.org/10.1016/j.isci.2023.106937
       github : https://github.com/innate2adaptive/CovidsortiumTCRExpanded
   media: Featured in [news-medical.net](https://www.news-medical.net/news/20221114/Study-suggests-the-rapid-expansion-of-naive-T-cells-can-provide-a-fast-and-effective-immune-response-to-SARS-CoV-2-and-other-viral-infections.aspx)
-
-- authors: P Mehta\*, B Sanz-Magallón Duque de Estrada\*, EK Denneny\*, K Foster, CT Turner, A Mayer, M Milighetti, M Platé, KB Worlock, M Yoshida, JS Brown, MZ Nikolić, A Nair, BM Chain, M Noursadeghi, RC Chambers\*\*, JC Porter\*\*, GS Tomlinson\*\*
-  title: Single-cell analysis of bronchoalveolar cells in inflammatory and fibrotic post-COVID lung disease
-  journal: Frontiers in Immunology
-  year: 2024
-  links:
-    doi: https://doi.org/10.3389/fimmu.2024.1372658
 
 - authors: A Mayer, CG Callan Jr.
   title: Measures of epitope binding degeneracy from T cell receptor repertoires
