@@ -12,6 +12,7 @@ You can find an overview of our research philosophy and research interests [here
 
 ### News
 
+- July 2024: [Wellcome Discovery Team Award](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/clonal-and-functional-t-cell-determinants) to study the clonal and functional T cell determinants of protection and pathogenesis in tuberculosis!
 - March 14th 2024: We organised the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/).
 - January 2024: The London Quantitative Immunology Network now has a mailing list: Sign up instructions [here](https://qimmuno.com/ldnqimmuno/).
 - December 2023: Silver and Bronze for the Q-Immuno lab in the [IMMREP23](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard) TCR Specificity Prediction Challenge!
