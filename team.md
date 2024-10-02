@@ -26,9 +26,15 @@ Interested in the statistical physics of receptor-ligand interactions (co-superv
 <a href="http://orcid.org/0009-0003-1584-605X"><i class="ai ai-orcid"></i></a> &nbsp;
 <a href="https://twitter.com/jhenderson_sci"><i class="fa fa-twitter"></i></a> &nbsp;
 <a href="https://github.com/jhenderson0"><i class="fa fa-github"></i></a> &nbsp;  
-*Research Assistant*   
+*PhD student*   
 
 Interested in developing information theoretic tools to quantify which features of immune receptors are most restricted in epitope-specific repertoires.
+
+**Peter Thomas**
+<a href="https://twitter.com/peterthomas1992"><i class="fa fa-twitter"></i></a> &nbsp;
+*Postdoc*
+
+Interested in using insights from TCR repertoires to inform the design of pancoronavirus vaccines (co-supervised by Leo Swadling).
 
 **Prisha Satwani**
 <a href="https://github.com/prishasatwani"><i class="fa fa-github"></i></a> &nbsp;  
@@ -41,13 +47,6 @@ Large language models to predict T cell specificity and function
 *iBSc student in Maths, Computing, and Medicine*
 
 Interested in robustly quantifying whether cancer-associated TCRs can be identified from TCR sequence features.
-
-**Sankalan Bhattacharyya**
-<a href="https://github.com/Sankalan-Bhattacharyya"><i class="fa fa-github"></i></a> &nbsp;  
-*Research Assistant*
-
-Interested in quality-quantity tradeoffs in learning probabilistic models.
-
 
 **Touchchai Chotisorayuth** 
 <a href="http://orcid.org/0009-0005-5248-5112"><i class="ai ai-orcid"></i></a> &nbsp;
@@ -71,9 +70,9 @@ Interested in TCR engineering for immunotherapy (co-supervised by Hans Stauss).
 <a href="https://github.com/yutanagano/"><i class="fa fa-github"></i></a> &nbsp;
 <a href="https://twitter.com/YutaNotUtah"><i class="fa fa-twitter"></i></a> &nbsp;
 <a href="https://www.yutanagano.com/"><i class="fa fa-house"></i></a> &nbsp;   
-*MBPhD student (CRUK)*  
+*Postdoc, previously MBPhD student in the group*  
 
-Interested in applying protein language models to adaptive immune receptor repertoire data (co-supervised by Benny Chain and Sergio Quezada).
+Interested in applying protein language models to adaptive immune receptor repertoire data (co-supervised by Benny Chain).
 
 **You?**  
 *Immunologist? Physicist? Data Scientist?*
@@ -81,6 +80,7 @@ Interested in applying protein language models to adaptive immune receptor reper
 We are looking for enthusiastic researchers at all levels to join us on our journey. Interested in working on some of the most fundamental questions in immunology using cutting edge machine learning techniques? Excited about studying the physics of living systems in an important and tractable model system? Please reach out!
 
 ### Alumni
+**[Sankalan Bhattacharyya](https://www.ph.ed.ac.uk/people/sankalan-bhattacharyya)**, Research Assistant || now a PhD student in astrophysics at University of Edinburgh 
 **Jocelyn Japnanto**, IPLS summer student || now a PhD student in earth sciences at UCL  
 **[Kirsten Silvey](https://www.uclbbk-mrcdtp.ac.uk/people/kirsten-silvey)**, MRC-DTP PhD rotation student || now a PhD student in structural biology at UCL  
 **[Chris Russo](https://cobeylab.uchicago.edu/people/c-j-russo/)**, physics junior and senior thesis student || now a PhD student at University of Chicago  
