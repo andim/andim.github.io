@@ -7,11 +7,12 @@
 
 - authors: M Nielsen, A Eugster, MF Jensen, M Goel, A Tiffeau-Mayer, A Pelissier, S Valkiers, M Rodriguez Martinez, B Meynard-Piganeau, V Greiff, T Mora, AM Walczak, G Croce, DL Moreno, D Gfeller, P Meysman, J Barton
   title: Lessons learned from the IMMREP23 TCR-epitope prediction challenge
-  journal: SSRN preprint
+  journal: Immunoinformatics
   year: 2024
   links:
-    doi: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4914987 
+    doi: https://doi.org/10.1016/j.immuno.2024.100045
     github: https://github.com/justin-barton/IMMREP23/
+  media: "Link to [Kaggle competition page](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard)"
 
 - authors: Y Nagano, A Pyo, M Milighetti, J Henderson, J Shawe-Taylor, B Chain\*, A Tiffeau-Mayer\*
   title: Contrastive learning of T cell receptor representations
@@ -28,13 +29,6 @@
   links:
     doi: https://doi.org/10.1101/2024.05.24.595718 
 
-- authors: J Henderson, Y Nagano, M Milighetti, A Tiffeau-Mayer
-  title: Limits on Inferring T-cell Specificity from Partial Information
-  journal: arXiv preprint
-  year: 2024
-  links:
-    doi: https://arxiv.org/abs/2404.12565
-
 - authors: T Chotisorayuth, A Tiffeau-Mayer
   title: Lightning-fast adaptive immune receptor similarity search by symmetric deletion lookup
   journal: arXiv preprint
@@ -42,6 +36,15 @@
   links:
     doi: https://arxiv.org/abs/2403.09010
     github: https://github.com/heartnetkung/XT-neighbor/
+
+- authors: J Henderson, Y Nagano, M Milighetti, A Tiffeau-Mayer
+  title: Limits on Inferring T cell Specificity from Partial Information
+  journal: PNAS
+  year: 2024
+  detail: 121(42)e2408696121
+  links:
+    doi: https://doi.org/10.1073/pnas.2408696121
+    github: https://github.com/qimmuno/paper_tcrinfo
 
 - authors: A Tiffeau-Mayer
   title: Unbiased estimation of sampling variance for Simpson's diversity index
