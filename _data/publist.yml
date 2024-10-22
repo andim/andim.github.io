@@ -50,6 +50,7 @@
   title: Unbiased estimation of sampling variance for Simpson's diversity index
   journal: Physical Review E
   year: 2024
+  details: 109 064411
   links:
     doi: https://doi.org/10.1103/PhysRevE.109.064411
     github: https://github.com/andim/pydiver/
