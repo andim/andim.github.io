@@ -17,7 +17,7 @@ You can find an overview of our research philosophy and research interests [here
 - March 14th 2024: We organised the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/).
 - January 2024: The London Quantitative Immunology Network now has a mailing list: Sign up instructions [here](https://qimmuno.com/ldnqimmuno/).
 - December 2023: Silver and Bronze for the Q-Immuno lab in the [IMMREP23](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard) TCR Specificity Prediction Challenge!
-- August 6 - 27, 2023: We co-organized a workshop on "Statistical physics and adaptive immunity" at the [Aspen Center for Physics](https://aspenphys.org/physicists/summer/program/currentworkshops.html). 
+- August 6 - 27, 2023: We co-organized a workshop on "Statistical physics and adaptive immunity" at the [Aspen Center for Physics](https://aspenphys.org/summer/past-workshops/summer-2023-workshops/). 
 - March 9th 2023: We organized the [1st London Quantitative Immunology Day](https://qimmuno.com/ldnday2023/).
 - July 25 2022: First paper from lab out on [bioRxiv](https://doi.org/10.1101/2022.07.25.501373)! Our first foray into deciphering TCR specificity quantitatively. 
 - Apr 7 2022: The lab opens its doors at UCL!
