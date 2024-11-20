@@ -4,6 +4,10 @@ title: Software
 order: 6
 ---
 
+### [SCEPTR](https://pypi.org/project/sceptr/)
+
+SCEPTR (Simple Contrastive Embedding of the Primary sequence of T cell Receptors) is a small and fast TCR langauge model that produces highly informative TCR embeddings for accurate downstream TCR specificity prediction and clustering.
+
 ### [Pyrepseq](https://pyrepseq.readthedocs.io/)
 
 A Python library that provides algorithms and visualization tools to speed up the analysis of immune repertoire sequencing data.
