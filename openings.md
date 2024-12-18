@@ -27,13 +27,13 @@ Deep learning has recently begun to achieve breakthrough success on important pr
 
 1. *To rank putative targets by in silico predictions of MHC binding*  
     In preliminary work, we have identified T cell receptor motifs among the TCR repertoire at the site of a Tuberculin skin test, and linked these to subject major histocompatibility complex (MHC) alleles [Ref. 2]. The binding of peptides to MHC poses a major constraint on which antigens are likely to be targeted by the TCRs of interest, which we will leverage by using existing machine learning models to probabilistically rank peptides for the MHCs of interest.
-2. *To develop deep learning approaches to prioritize targets based on TCR sequence* 
+2. *To develop deep learning approaches to prioritize targets based on TCR sequence*   
     Recent advances allow prediction of TCR binding to pMHCs for which some experimental training data is available. We will use SCEPTR, a protein language model for TCRs developed in our group [Ref. 3], to map TCR motifs to known pMHCs. However, only few TCR-pMHC pairing are known for TB, so we will next generalise the contrastive learning approach we developed to train SCEPTR to train predictors that can rank peptides unseen during training. Progress in generalisable prediction of TCR-pMHC specificity will have substantial impact beyond TB, if successful.
 
 ### Skills
 This project provides a powerful platform for application of machine learning to  biomedical research, invaluable to academia and  industry. The student will develop expertise in large language models for the prediction of protein function, and contribute substantial new knowledge in the field. They will also acquire expertise in immunology as part of an international Wellcome Trust funded team including computational biologists, wet-lab scientists and clinicians focused on discovering the T cell determinants of protection and pathogenesis in Tuberculosis.
 
-### [Apply by January 26th](https://www.ucl.ac.uk/london-nano/cdt-amr/how-apply)
+### [&#8594; Apply by January 26th](https://www.ucl.ac.uk/london-nano/cdt-amr/how-apply)
 
 ## [Wellcome Trust funded Research Fellow](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=12146&nPostingTargetId=29502&id=Q1KFK026203F3VBQBLO8M8M07): Clonal and functional T cell determinants of protection and pathogenesis in tuberculosis
 
@@ -49,7 +49,7 @@ The position will suit a highly motivated postdoctoral computational scientist i
 
 Applicants should have a PhD (or about to be awarded) in a relevant subject, and experience of application of bioinformatics, computational science and mathematical modelling of biological systems. Experience of sequencing data, immunology and infectious disease research are also desirable. Good oral and written communication skills are essential, as is commitment to effective multi-disciplinary teamwork.
 
-### [Apply by January 14th](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=12146&nPostingTargetId=29502&id=Q1KFK026203F3VBQBLO8M8M07)
+### [&#8594; Apply by January 14th](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?nPostingId=12146&nPostingTargetId=29502&id=Q1KFK026203F3VBQBLO8M8M07)
 
 
 ## Further Information:
