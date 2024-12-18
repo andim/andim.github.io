@@ -1,4 +1,4 @@
----
+e--
 layout: page
 title: Team
 order: 3
@@ -84,7 +84,7 @@ How can we make protein language models useful for adaptive immune receptor anal
 **You?**  
 *Immunologist? Physicist? Data Scientist?*
 
-We are looking for enthusiastic researchers at all levels to join us on our journey. Interested in working on some of the most fundamental questions in immunology using cutting edge machine learning techniques? Excited about studying the physics of living systems in an important and tractable model system? Please reach out!
+We are looking for enthusiastic researchers at all levels to join us on our journey. Interested in working on some of the most fundamental questions in immunology using cutting edge machine learning techniques? Excited about studying the physics of living systems in an important and tractable model system? Please take a look at our current [openings](https://qimmuno.com/openings/) or reach out!
 
 ### Alumni
 **[Sankalan Bhattacharyya](https://www.ph.ed.ac.uk/people/sankalan-bhattacharyya)**, Research Assistant || now a PhD student in astrophysics at University of Edinburgh  

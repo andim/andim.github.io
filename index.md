@@ -10,10 +10,11 @@ We are a research group in the [Division of Infection and Immunity](https://www.
 
 You can find an overview of our research philosophy and research interests [here](https://qimmuno.com/research/) or you can take a look at some of our recent [publications](https://qimmuno.com/publications/). And finally, we have an open door policy for all of our lab meetings, so if you want to get a first-hand impression of what research questions we are most excited by at the moment email us and come stop by! 
 
-### News
+### Selected News
 
+- November 2024: Congratulations to Yuta on being runners up for the IJEP Woolf Prize for best MBPhD thesis at UCL!
 - October 2024: Congratulations to Dr. Yuta Nagano for his successful PhD defense!
-- July 2024: [Wellcome Discovery Team Award](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/clonal-and-functional-t-cell-determinants) to study the clonal and functional T cell determinants of protection and pathogenesis in tuberculosis!
+- July 2024: Our [Wellcome Discovery Team Award](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/clonal-and-functional-t-cell-determinants) was funded enabling us to study the clonal and functional T cell determinants of protection and pathogenesis in tuberculosis for the next eight years.
 - March 14th 2024: We organised the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/).
 - January 2024: The London Quantitative Immunology Network now has a mailing list: Sign up instructions [here](https://qimmuno.com/ldnqimmuno/).
 - December 2023: Silver and Bronze for the Q-Immuno lab in the [IMMREP23](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard) TCR Specificity Prediction Challenge!
