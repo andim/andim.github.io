@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-order: 6
+order: 7
 ---
 
 ### [SCEPTR](https://pypi.org/project/sceptr/)
