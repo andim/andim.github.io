@@ -36,18 +36,18 @@ Developing information theoretic tools to quantify which features of immune rece
 
 Modelling stochastic cancer-immune cell interactions using agent-based modelling (co-supervised by Benny Chain)
 
+**Ishaan Sikka**
+<a href="https://github.com/issikis"><i class="fa fa-github"></i></a> &nbsp;  
+*MSc Physics student*   
+
+Building statistical models to predict immune repertoire overlap at the cohort level
+
 **Peter Thomas**
 <a href="https://twitter.com/peterthomas1992"><i class="fa fa-twitter"></i></a> &nbsp;
 <a href="https://github.com/pthomas92"><i class="fa fa-github"></i></a> &nbsp;  
 *Postdoc*
 
 Using insights from TCR repertoires to inform the design of pancoronavirus vaccines (co-supervised by Leo Swadling).
-
-**Prisha Satwani**
-<a href="https://github.com/prishasatwani"><i class="fa fa-github"></i></a> &nbsp;  
-*MSc student in AI*
-
-Applying large language models to predict T cell specificity and function.
 
 **Rishika Saxena**
 <a href="https://github.com/rsaxena20"><i class="fa fa-github"></i></a> &nbsp;  
@@ -87,6 +87,7 @@ How can we make protein language models useful for adaptive immune receptor anal
 We are looking for enthusiastic researchers at all levels to join us on our journey. Interested in working on some of the most fundamental questions in immunology using cutting edge machine learning techniques? Excited about studying the physics of living systems in an important and tractable model system? Please take a look at our current [openings](https://qimmuno.com/openings/) or reach out!
 
 ### Alumni
+**[Prisha Satwani](https://www.linkedin.com/in/prishasatwani/)**, MSc AI student
 **[Sankalan Bhattacharyya](https://www.ph.ed.ac.uk/people/sankalan-bhattacharyya)**, Research Assistant || now a PhD student in astrophysics at University of Edinburgh  
 **[Jocelyn Japnanto](https://www.ucl.ac.uk/earth-sciences/people/research-students)**, IPLS summer student || now a PhD student in earth sciences at UCL  
 **[Kirsten Silvey](https://www.uclbbk-mrcdtp.ac.uk/people/kirsten-silvey)**, MRC-DTP PhD rotation student || now a PhD student in structural biology at UCL  
