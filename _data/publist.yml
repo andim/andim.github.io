@@ -24,10 +24,10 @@
 
 - authors: Y Nagano, A Pyo, M Milighetti, J Henderson, J Shawe-Taylor, B Chain\*, A Tiffeau-Mayer\*
   title: Contrastive learning of T cell receptor representations
-  journal: arXiv preprint
-  year: 2024
+  journal: Cell Systems
+  year: 2025
   links:
-    doi: https://arxiv.org/abs/2406.06397
+    doi: https://doi.org/10.1016/j.cels.2024.12.006
     github: https://github.com/yutanagano/sceptr/
 
 - authors: M Milighetti, Y Nagano, J Henderson, U Hershberg, A Tiffeau-Mayer, A-F Bitbol, B Chain
