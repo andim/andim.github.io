@@ -17,6 +17,7 @@ You can find an overview of our research philosophy and research interests [here
 - July 2024: Our [Wellcome Discovery Team Award](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/clonal-and-functional-t-cell-determinants) was funded enabling us to study the clonal and functional T cell determinants of protection and pathogenesis in tuberculosis for the next eight years.
 - March 14th 2024: We organised the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/).
 - January 2024: The London Quantitative Immunology Network now has a mailing list: Sign up instructions [here](https://qimmuno.com/ldnqimmuno/).
+- December 2024: Our [Type 1 Diabetes Grand Challenge award](https://www.ucl.ac.uk/news/2023/dec/ucl-researchers-awarded-ps1m-investigate-new-treatment-type-1-diabetes) was funded enabling us to study mathematically how combination immunotherapies impact different immune cells involved in this autoimmune disease.
 - December 2023: Silver and Bronze for the Q-Immuno lab in the [IMMREP23](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard) TCR Specificity Prediction Challenge!
 - August 6 - 27, 2023: We co-organized a workshop on "Statistical physics and adaptive immunity" at the [Aspen Center for Physics](https://aspenphys.org/summer/past-workshops/summer-2023-workshops/). 
 - March 9th 2023: We organized the [1st London Quantitative Immunology Day](https://qimmuno.com/ldnday2023/).
