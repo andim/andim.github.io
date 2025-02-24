@@ -54,7 +54,7 @@ There is no registration fee, but we encourage prior [registration](https://lu.m
 - 13:30-14:15 Whiteboard talks and posters
 - 14:30-15:30 Session 3
 - 15:45-16:15 Closing Session
-- 16:15-17:15 Posters and drinks  
+- 16:15-17:00 Posters and drinks  
 
 ## Talks and Posters
 
