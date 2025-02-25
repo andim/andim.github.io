@@ -40,7 +40,7 @@ order: 5
 <img style="max-width:55%;margin:0.2rem;padding-right:0;margin-right:0" src="../images/ldnday25.jpg" align="right">
 We aim to bring together researchers with an interest in quantitative immunology to create an **opportunity for sharing knowledge and social exchange**. The London Q-Immuno day will be a day of conviviality and scientific enthusiasm with a dynamic and informal atmosphere. Talks from invited speakers will be interleaved with short presentations by young investigators (contributions welcome!). The schedule includes ample breaks for discussions and, for those interested, we propose to conclude the day in a local pub.
 
-Immunology is being transformed by the application of a multitude of quantitative methods. We want to foster discussions between researchers from diverse backgrounds: immunology, evolution, computational biology, evolution, systems biology, bio-informatics, mathematics and the physics of living system. **No matter your background, you are welcome to join us!**
+Immunology is being transformed by the application of a multitude of quantitative methods. We want to foster discussions between researchers from diverse backgrounds: immunology, evolution, computational biology, evolution, systems biology, bio-informatics, mathematics and the physics of living systems. **No matter your background, you are welcome to join us!**
 
 There is no registration fee, but we encourage prior [registration](https://lu.ma/sg42wn3p) to help us gauge attendance.
 
