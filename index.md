@@ -6,6 +6,8 @@ order: 1
 
 #### Our lab's mission is to understand immune defense quantitatively using theory and computation.
 
+Our research integrates mathematical modelling, machine learning, and immunology to decode the fundamental principles governing adaptive immune responses. By combining theoretical approaches with data-driven methods, we aim to uncover how immune repertoires evolve, respond to challenges, and contribute to disease pathology.
+
 We are a research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our approach to quantitative immunology is rooted in the tradition of biological physics and we are also part of the [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/). Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.innate2adaptive.uk/) and we have strong links with experimental and theory groups at UCL and beyond.
 
 You can find an overview of our research philosophy and research interests [here](https://qimmuno.com/research/) or you can take a look at some of our recent [publications](https://qimmuno.com/publications/). And finally, we have an open door policy for all of our lab meetings, so if you want to get a first-hand impression of what research questions we are most excited by at the moment email us and come stop by! 
