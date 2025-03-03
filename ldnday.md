@@ -46,6 +46,14 @@ There is no registration fee, but we encourage prior [registration](https://lu.m
 
 ## Schedule 
 
+We will be joined by three featured speakers:
+
+- [Thomas Höfer](https://www.dkfz.de/en/theoretical-systems-biology) (DKFZ / Heidelberg University)
+- [Xiaowen Chen](https://sites.google.com/view/xiaowen-chen) (Ecole Normale Superieure / CNRS)
+- [Pietro Sormanni](https://www-sormanni.ch.cam.ac.uk/) (Cambridge University)
+
+The schedule of the day will likely look like this:
+
 - 09:30-10:00 Meet and Greet  
 - 10:00-11:00 Session 1
 - 11:00-11:30 Coffee break  
