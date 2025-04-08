@@ -159,6 +159,7 @@ uneveness) on the guild-structure reconstruction success.
 </details>
 </details>
 - 15:30-17:00 Poster and drinks
+- 17:00-late Local Pub
 
 Toggle to see abstracts.
 
