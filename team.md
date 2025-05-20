@@ -22,6 +22,13 @@ After an initial training in statistical physics in Göttingen and Paris, Andrea
 
 Applying metric learning to the prediction of lymphocyte receptor specificity (co-supervised by Ned Wingreen).
 
+**Antonio Matas Gil**
+<a href="http://orcid.org/0009-0001-8455-8903"><i class="ai ai-orcid"></i></a> &nbsp;
+<a href="https://github.com/AntonioMG99"><i class="fa fa-github"></i></a> &nbsp;  
+*Postdoc*   
+
+Developing mathematical modelling and machine learning approaches with the ultimate goal of better understanding immune responses to Tuberculosis.
+
 **James Henderson**
 <a href="http://orcid.org/0009-0003-1584-605X"><i class="ai ai-orcid"></i></a> &nbsp;
 <a href="https://twitter.com/jhenderson_sci"><i class="fa fa-twitter"></i></a> &nbsp;
