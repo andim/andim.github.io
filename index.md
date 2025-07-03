@@ -6,7 +6,7 @@ order: 1
 
 #### Our lab's mission is to understand immune defense quantitatively using theory and computation.
 
-Our research integrates mathematical modelling, machine learning, and immunology to decode the fundamental principles governing adaptive immune responses. By combining theoretical approaches with data-driven methods, we aim to uncover how immune repertoires evolve, respond to challenges, and contribute to disease pathology.
+Our research integrates mathematical modelling and machine learning to quantitatively study adaptive immune responses across scales, from the molecular to the population level. By combining theoretical approaches with data-driven methods, we aim to uncover how immune repertoires evolve, respond to challenges, and contribute to disease pathology.
 
 We are a research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our approach to quantitative immunology is rooted in the tradition of biological physics and we are also part of the [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/). Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.innate2adaptive.uk/) and we have strong links with experimental and theory groups at UCL and beyond.
 
@@ -14,10 +14,12 @@ You can find an overview of our research philosophy and research interests [here
 
 ### Selected News
 
-- November 2024: Congratulations to Yuta on being runners up for the IJEP Woolf Prize for best MBPhD thesis at UCL!
-- October 2024: Congratulations to Dr. Yuta Nagano for his successful PhD defense!
+- July 2025: We organised a [UCL New Academics Day](https://lu.ma/gde2kquj) to connect new(ish) academics across faculties. Get in touch to join our network.
+- June 2025: Andreas has been promoted to [Associate Professor](https://www.ucl.ac.uk/human-resources/hr-policies-procedures-and-advice/academic-careers-framework-and-promotions-processes/promotions) from October 1st.
+- April 10th 2025: We organised the [3rd London Quantitative Immunology Day](https://qimmuno.com/ldnday/)
+- October 2024: Congratulations to Dr. Yuta Nagano for his successful PhD defense and for being shortlisted for the IJEP Woolf Prize for best MBPhD thesis at UCL!
 - July 2024: Our [Wellcome Discovery Team Award](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/clonal-and-functional-t-cell-determinants) was funded enabling us to study the clonal and functional T cell determinants of protection and pathogenesis in tuberculosis for the next eight years.
-- March 14th 2024: We organised the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday/).
+- March 14th 2024: We organised the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday2024/).
 - January 2024: The London Quantitative Immunology Network now has a mailing list: Sign up instructions [here](https://qimmuno.com/ldnqimmuno/).
 - December 2024: Our [Type 1 Diabetes Grand Challenge award](https://www.ucl.ac.uk/news/2023/dec/ucl-researchers-awarded-ps1m-investigate-new-treatment-type-1-diabetes) was funded enabling us to study mathematically how combination immunotherapies impact different immune cells involved in this autoimmune disease.
 - December 2023: Silver and Bronze for the Q-Immuno lab in the [IMMREP23](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard) TCR Specificity Prediction Challenge!

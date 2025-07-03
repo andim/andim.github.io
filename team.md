@@ -45,9 +45,16 @@ Modelling stochastic cancer-immune cell interactions using agent-based modelling
 
 **Ishaan Sikka**
 <a href="https://github.com/issikis"><i class="fa fa-github"></i></a> &nbsp;  
-*MSc Physics student*   
+*MSc student in Physics*   
 
 Building statistical models to predict immune repertoire overlap at the cohort level
+
+**Peng-Yuan Dong**
+<a href="https://github.com/issikis"><i class="fa fa-github"></i></a> &nbsp;  
+*MSc student in Infection and Immunity*   
+
+Building a pipeline for prioritizing TCR variants for experimental testing of cospecificity, incorporating sequence-based modelling approaches developed in the lab such as [mlTCRdist](https://doi.org/10.1103/14j1-wrh5) and [SCEPTR](https://doi.org/10.1016/j.cels.2024.12.006) with structural modelling.
+
 
 **Peter Thomas**
 <a href="https://twitter.com/peterthomas1992"><i class="fa fa-twitter"></i></a> &nbsp;
