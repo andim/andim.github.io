@@ -41,12 +41,11 @@ Modelling stochastic cancer-immune cell interactions using agent-based modelling
 
 Building statistical models to predict immune repertoire overlap at the cohort level
 
-**Peng-Yuan Dong**
-<a href="https://github.com/issikis"><i class="fa fa-github"></i></a> &nbsp;  
-*MSc student in Infection and Immunity*   
+**Lucia Guillamet Garcia**
+<a href="https://github.com/guillametlucia"><i class="fa fa-github"></i></a> &nbsp;  
+*PhD student*
 
-Building a pipeline for prioritizing TCR variants for experimental testing of cospecificity, incorporating sequence-based modelling approaches developed in the lab such as [mlTCRdist](https://doi.org/10.1103/14j1-wrh5) and [SCEPTR](https://doi.org/10.1016/j.cels.2024.12.006) with structural modelling.
-
+Developing a reverse-epitope discovery pipeline for T cells specific to Tuberculosis (co-supervised by Mahdad Noursadeghi)
 
 **Peter Thomas**
 <a href="https://twitter.com/peterthomas1992"><i class="fa fa-twitter"></i></a> &nbsp;
@@ -86,6 +85,7 @@ How can we make protein language models useful for adaptive immune receptor anal
 We are looking for enthusiastic researchers at all levels to join us on our journey. Interested in working on some of the most fundamental questions in immunology using cutting edge machine learning techniques? Excited about studying the physics of living systems in an important and tractable model system? Please take a look at our current [openings](https://qimmuno.com/openings/) or reach out!
 
 ### Alumni
+**Peng-Yuang Dong**, MSc I&I student || Now a Research Assistant at Shenzen Medical Academy  
 **[Andrew Pyo](https://stanfordsciencefellows.stanford.edu/people/andrew-pyo)**, Physics PhD student || now a Stanford Science Fellow  
 **[Touchchai Chotisorayuth](https://www.linkedin.com/in/heartnetkung/)**, MSc AI student  
 **[Prisha Satwani](https://www.linkedin.com/in/prishasatwani/)**, MSc AI student  
