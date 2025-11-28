@@ -19,6 +19,7 @@
   year: 2025
   links:
     doi: https://doi.org/10.1101/2025.04.12.648537
+    github: https://github.com/qimmuno/metaclonotypist
 
 - authors: AGT Pyo, Y Nagano, M Milighetti, J Henderson, CG Callan Jr., B Chain, NS Wingreen, A Tiffeau-Mayer
   title: Data-driven Discovery of Biophysical T Cell Receptor Co-specificity Rules

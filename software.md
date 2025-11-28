@@ -12,6 +12,10 @@ SCEPTR (Simple Contrastive Embedding of the Primary sequence of T cell Receptors
 
 A Python library that provides algorithms and visualization tools to speed up the analysis of immune repertoire sequencing data.
 
+### [Metaclonotypist](https://github.com/qimmuno/metaclonotypist)
+
+Metaclonotypist is a modular pipeline for the discovery of TCR metaclones.
+
 ### [PyDiver](https://pydiver.readthedocs.io/)
 
 A lightweight software package for calculating Simpson diversity with error bars.
