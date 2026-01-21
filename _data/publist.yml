@@ -1,3 +1,11 @@
+- authors: CT Turner\*, A Tiffeau-Mayer\*, J Rosenheim, A Chandran, R Saxena, P Zhang, J Jiang, M Berkeley, F Pang, I Uddin, G Nageswaran, S Byrne, A Karthikeyan, W Smidt, P Ogongo, R Byng-Maddick, S Capocci, M Lipman, H Kunst, S Lozewicz, V Rasmussen, G Pollara, JC Knight, A Leslie, BM Chain, M Noursadeghi
+  title: Evolution of T cell responses in the tuberculin skin test reveals generalisable Mtb-reactive T cell metaclones
+  journal: Nature Communications
+  year: 2026
+  links:
+    doi: https://doi.org/10.1038/s41467-026-68678-9
+    github: https://github.com/qimmuno/metaclonotypist
+
 - authors: M Bauer, A Goyal, S Goyal, G Reddy, S Chakrabarti, MM Desai, W Gilpin, J Grilli, K Husain, S Jain, M Kumar Jolly, K Kawaguchi, A Koseska, M Lin, L Narlikar, S Pigolotti, A Raju, K Shrinivas, R Siddarthan, GJ Stephens, A Tiffeau-Mayer, S Vaikuntanathan
   title: Unifying Theories in High-Dimensional Biology. Approaches, Challenges and Opportunities
   journal: arXiv preprint
@@ -20,14 +28,6 @@
   links:
     doi: https://doi.org/10.3390/cells1415122
 
-- authors: CT Turner\*, A Tiffeau-Mayer\*, J Rosenheim, A Chandran, R Saxena, P Zhang, J Jiang, M Berkeley, F Pang, I Uddin, G Nageswaran, S Byrne, A Karthikeyan, W Smidt, P Ogongo, R Byng-Maddick, S Capocci, M Lipman, H Kunst, S Lozewicz, V Rasmussen, G Pollara, JC Knight, A Leslie, BM Chain, M Noursadeghi
-  title: Evolution of T cell responses in the tuberculin skin test reveals generalisable Mtb-reactive T cell metaclones
-  journal: bioRxiv preprint
-  year: 2025
-  links:
-    doi: https://doi.org/10.1101/2025.04.12.648537
-    github: https://github.com/qimmuno/metaclonotypist
-
 - authors: AGT Pyo, Y Nagano, M Milighetti, J Henderson, CG Callan Jr., B Chain, NS Wingreen, A Tiffeau-Mayer
   title: Data-driven Discovery of Biophysical T Cell Receptor Co-specificity Rules
   journal: PRX Life
@@ -46,15 +46,6 @@
     github: https://github.com/wagar-lab/Paper_TABLO 
   media: "Video of [Suhas](https://www.youtube.com/watch?v=iMS7hSzuqd8) presenting this work | UC Irvine [press release](https://medschool.uci.edu/news/new-findings-reshape-our-understanding-human-t-cell-biology)"
 
-- authors: M Nielsen, A Eugster, MF Jensen, M Goel, A Tiffeau-Mayer, A Pelissier, S Valkiers, M Rodriguez Martinez, B Meynard-Piganeau, V Greiff, T Mora, AM Walczak, G Croce, DL Moreno, D Gfeller, P Meysman, J Barton
-  title: Lessons learned from the IMMREP23 TCR-epitope prediction challenge
-  journal: Immunoinformatics
-  year: 2024
-  links:
-    doi: https://doi.org/10.1016/j.immuno.2024.100045
-    github: https://github.com/justin-barton/IMMREP23/
-  media: "Link to [Kaggle competition page](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard)"
-
 - authors: Y Nagano, A Pyo, M Milighetti, J Henderson, J Shawe-Taylor, B Chain\*, A Tiffeau-Mayer\*
   title: Contrastive learning of T cell receptor representations
   journal: Cell Systems
@@ -63,6 +54,15 @@
     doi: https://doi.org/10.1016/j.cels.2024.12.006
     github: https://github.com/yutanagano/sceptr/
   media: "Video of Andreas presenting this work at [ICTS](https://www.youtube.com/watch?v=0JjBI-dtD1E&t=2572s)"
+
+- authors: M Nielsen, A Eugster, MF Jensen, M Goel, A Tiffeau-Mayer, A Pelissier, S Valkiers, M Rodriguez Martinez, B Meynard-Piganeau, V Greiff, T Mora, AM Walczak, G Croce, DL Moreno, D Gfeller, P Meysman, J Barton
+  title: Lessons learned from the IMMREP23 TCR-epitope prediction challenge
+  journal: Immunoinformatics
+  year: 2024
+  links:
+    doi: https://doi.org/10.1016/j.immuno.2024.100045
+    github: https://github.com/justin-barton/IMMREP23/
+  media: "Link to [Kaggle competition page](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard)"
 
 - authors: M Milighetti, Y Nagano, J Henderson, U Hershberg, A Tiffeau-Mayer, A-F Bitbol, B Chain
   title: "Intra-and inter-chain contacts determine TCR specificity: applying protein co-evolution methods to TCRab pairing"
