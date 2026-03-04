@@ -6,6 +6,14 @@
     doi: https://doi.org/10.1038/s41467-026-68678-9
     github: https://github.com/qimmuno/metaclonotypist
 
+- authors: A Tiffeau-Mayer\*, JA Levine\*, CJ Russo, Q Marcou, W Bialek, BD Greenbaum
+  title: How different are self and nonself?
+  journal: PRX Life
+  year: 2026
+  links:
+    doi: https://doi.org/10.1103/fbct-vzwm
+    github: https://github.com/jonlevi/self_not_self
+
 - authors: M Bauer, A Goyal, S Goyal, G Reddy, S Chakrabarti, MM Desai, W Gilpin, J Grilli, K Husain, S Jain, M Kumar Jolly, K Kawaguchi, A Koseska, M Lin, L Narlikar, S Pigolotti, A Raju, K Shrinivas, R Siddarthan, GJ Stephens, A Tiffeau-Mayer, S Vaikuntanathan
   title: Unifying Theories in High-Dimensional Biology. Approaches, Challenges and Opportunities
   journal: arXiv preprint
@@ -139,13 +147,6 @@
       doi: https://doi.org/10.1073/pnas.2213264120
       github: https://github.com/andim/paper_coincidences/
   media: "Video of Andreas presenting this work in the [iReceptor+ Seminar Series](https://www.youtube.com/watch?v=YdSzql3ZiHQ) and in [Banff](https://www.birs.ca/events/2022/5-day-workshops/22w5139/videos/watch/202202140936-Mayer.html)"
-
-- authors: A Mayer, CJ Russo, Q Marcou, W Bialek, BD Greenbaum
-  title: How different are self and nonself?
-  journal: arXiv preprint
-  year: 2022
-  links:
-    doi: https://doi.org/10.48550/arXiv.2212.12049
 
 - authors: H Chen\*, A Mayer\*, V Balasubramanian
   title: A scaling law in CRISPR repertoire sizes arises from avoidance of autoimmunity 
