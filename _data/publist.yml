@@ -1,3 +1,11 @@
+- authors: J Henderson, A Tiffeau-Mayer
+  title: Fluctuating environments are sufficient to drive substantial variability in species abundance across locations
+  journal: arXiv
+  year: 2026
+  links:
+    doi: https://doi.org/10.48550/arXiv.2603.02403
+    github: https://github.com/jhenderson0/paper_fluctuating_environments_and_migration
+
 - authors: CT Turner\*, A Tiffeau-Mayer\*, J Rosenheim, A Chandran, R Saxena, P Zhang, J Jiang, M Berkeley, F Pang, I Uddin, G Nageswaran, S Byrne, A Karthikeyan, W Smidt, P Ogongo, R Byng-Maddick, S Capocci, M Lipman, H Kunst, S Lozewicz, V Rasmussen, G Pollara, JC Knight, A Leslie, BM Chain, M Noursadeghi
   title: Evolution of T cell responses in the tuberculin skin test reveals generalisable Mtb-reactive T cell metaclones
   journal: Nature Communications
