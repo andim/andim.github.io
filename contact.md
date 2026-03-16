@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Contact
-order: 8
+order: 9
 ---
 
-We are thrilled to be part of the [Institute of Immunity and Transplantation](https://www.ucl.ac.uk/immunity-transplantation/) in central North London, a new hub for immunology research located in a stunning building within walking distance to Hampstead Heath. You can find us [here](https://goo.gl/maps/RsAgTCkQwTSLdBVK7):
+We are thrilled to be part of the [Institute of Infection, Immunity and Transplantation](https://www.ucl.ac.uk/medical-sciences/divisions/infection-and-immunity) in central North London, a new hub for immunology research located in a stunning building within walking distance to Hampstead Heath. You can find us [here](https://goo.gl/maps/RsAgTCkQwTSLdBVK7):
 
-Division of Infection and Immunity  
+Institute of Infection, Immunity and Transplantation
 University College London  
 Pears Building, Pond Street
 Room 302  

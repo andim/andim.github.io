@@ -1,0 +1,156 @@
+/* ==========================================================================
+   LDN Q-Immuno Network — page styles
+   Scoped under .lqn-page, loaded only via layout: ldnqimmuno
+   
+   Jekyll auto-generates IDs from heading text, e.g.:
+     ## Mailing list   →  <h2 id="mailing-list">
+     ## Next meetings  →  <h2 id="next-meetings">
+     ## Past meetings  →  <h2 id="past-meetings">
+   These IDs are used as stable anchors so selectors don't break
+   if the order of sections changes.
+   ========================================================================== */
+
+
+/* ── Hero: style the h1 + intro paragraphs as a banner ─────────────────── */
+
+.lqn-page h1 {
+  background: linear-gradient(135deg, #1a3a4a 0%, #0d2233 100%);
+  color: #fff;
+  border-radius: 8px 8px 0 0;
+  margin: 0;
+  padding: 1.75rem 1.75rem 0.75rem;
+  font-size: 1.5rem;
+  border-bottom: none;
+  position: relative;
+}
+
+/* The two intro paragraphs that follow h1, before the first h2 */
+.lqn-page h1 + p,
+.lqn-page h1 + p + p {
+  background: linear-gradient(135deg, #1a3a4a 0%, #0d2233 100%);
+  color: rgba(255, 255, 255, 0.88);
+  padding: 0 1.75rem;
+  margin: 0;
+  line-height: 1.7;
+}
+
+/* Close off the hero card on the last intro paragraph */
+.lqn-page h1 + p + p {
+  padding-bottom: 1.75rem;
+  border-radius: 0 0 8px 8px;
+  margin-bottom: 1.75rem;
+}
+
+.lqn-page h1 + p strong,
+.lqn-page h1 + p + p strong {
+  color: #7ee8d8;
+}
+
+
+/* ── Section headings: replace default h2 with a small label ───────────── */
+
+.lqn-page h2 {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #8a9faf;
+  border-bottom: 1px solid #e4eaee;
+  padding-bottom: 0.35rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+
+/* ── Mailing list section ───────────────────────────────────────────────── */
+
+/* The paragraph and its inline code that follow #mailing-list */
+#mailing-list + p {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  border: 1px solid #dde8ee;
+  border-radius: 6px;
+  padding: 0.9rem 1.1rem;
+  background: #f5f9fb;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  margin-bottom: 0.35rem;
+}
+
+/* Prepend an envelope icon via pseudo-element */
+#mailing-list + p::before {
+  content: "✉";
+  font-size: 1.1rem;
+  flex-shrink: 0;
+  margin-top: 0.05rem;
+  color: #2aa89a;
+}
+
+/* The email address rendered as inline code */
+#mailing-list + p code {
+  font-size: 0.82rem;
+  background: #1a3a4a;
+  color: #7ee8d8;
+  padding: 2px 8px;
+  border-radius: 4px;
+  border: none;
+  white-space: nowrap;
+}
+
+/* The explanatory sentence below */
+#mailing-list + p + p {
+  font-size: 0.82rem;
+  color: #667;
+  margin-top: 0;
+  line-height: 1.55;
+}
+
+
+/* ── Next meetings: highlight as cards ─────────────────────────────────── */
+
+#next-meetings + ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#next-meetings + ul li {
+  background: #eef6f4;
+  border-left: 3px solid #2aa89a;
+  border-radius: 0 6px 6px 0;
+  padding: 0.7rem 1rem;
+  margin-bottom: 0.4rem;
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+
+/* ── Past meetings: compact timeline rows ──────────────────────────────── */
+
+#past-meetings + ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#past-meetings + ul li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eef0f2;
+  font-size: 0.86rem;
+  line-height: 1.55;
+  color: #334;
+}
+
+#past-meetings + ul li:last-child {
+  border-bottom: none;
+}
+
+#past-meetings + ul li a {
+  color: inherit;
+}
+
+#past-meetings + ul li a:hover {
+  color: #2aa89a;
+}
