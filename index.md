@@ -8,16 +8,17 @@ order: 1
 
 Our research integrates mathematical modelling and machine learning to quantitatively study adaptive immune responses across scales, from the molecular to the population level. By combining theoretical approaches with data-driven methods, we aim to uncover how immune repertoires evolve, respond to challenges, and contribute to disease pathology.
 
-We are a research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our approach to quantitative immunology is rooted in the tradition of biological physics and we are also part of the [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/). Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.innate2adaptive.uk/) and we have strong links with experimental and theory groups at UCL and beyond.
+We are a research group in the [Division of Infection and Immunity](https://www.ucl.ac.uk/infection-immunity/) at UCL. Our approach to quantitative immunology is rooted in the tradition of biological physics and we are also part of the [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/mathematical-physical-sciences/physics-living-systems). Our research is embedded within the collaborative environment of the [Innate2Adaptive lab group](https://www.innate2adaptive.uk/) and we have strong links with experimental and theory groups at UCL and beyond.
 
 You can find an overview of our research philosophy and research interests [here](https://qimmuno.com/research/) or you can take a look at some of our recent [publications](https://qimmuno.com/publications/). And finally, we have an open door policy for all of our lab meetings, so if you want to get a first-hand impression of what research questions we are most excited by at the moment email us and come stop by! 
 
 ### Selected News
 
+- May 8th 2026: Come join us for the [4th London Quantitative Immunology Day](https://qimmuno.com/ldnday/)!
 - September 2025: Congratulations to Trupti Gore and James Henderson, who won the poster prize and Hackathon at the [Oxford Unravelling T cell recognition conference](https://web.cvent.com/event/7466b0c8-3ee9-4a4c-b781-d8b582130660/home)!
 - July 2025: We organised a [UCL New Academics Day](https://lu.ma/gde2kquj) to connect new(ish) academics across faculties. Get in touch to join our network.
 - June 2025: Andreas has been promoted to [Associate Professor](https://www.ucl.ac.uk/human-resources/hr-policies-procedures-and-advice/academic-careers-framework-and-promotions-processes/promotions) from October 1st.
-- April 10th 2025: We organised the [3rd London Quantitative Immunology Day](https://qimmuno.com/ldnday/).
+- April 10th 2025: We organised the [3rd London Quantitative Immunology Day](https://qimmuno.com/ldnday2025/).
 - October 2024: Congratulations to Dr. Yuta Nagano for his successful PhD defense and for being shortlisted for the IJEP Woolf Prize for best MBPhD thesis at UCL!
 - July 2024: Our [Wellcome Discovery Team Award](https://wellcome.org/grant-funding/people-and-projects/grants-awarded/clonal-and-functional-t-cell-determinants) was funded enabling us to study the clonal and functional T cell determinants of protection and pathogenesis in tuberculosis for the next eight years.
 - March 14th 2024: We organised the [2nd London Quantitative Immunology Day](https://qimmuno.com/ldnday2024/).

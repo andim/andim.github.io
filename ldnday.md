@@ -93,6 +93,6 @@ If you would like to be considered for any of the three, please indicate so when
 
 Trupti Gore, Matthew Cowley, Lucia Guillamet Garcia and Andreas Tiffeau-Mayer.
 
-The LDN Q-Immuno Day is made possible by UCL's [Institute of Infection, Immunity and Transplantation](https://www.ucl.ac.uk/medical-sciences/divisions/infection-and-immunity) the [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/physics-living-systems/institute-physics-living-systems) and a UCL-ZHU Global Engagement Award. 
+The LDN Q-Immuno Day is made possible by UCL's [Institute of Infection, Immunity and Transplantation](https://www.ucl.ac.uk/medical-sciences/divisions/infection-and-immunity) the [Institute for the Physics of Living Systems](https://www.ucl.ac.uk/mathematical-physical-sciences/physics-living-systems) and a UCL-ZHU Global Engagement Award. 
 
 It is part of a series of events organised by the informal [London Quantitative Immunology Network](https://qimmuno.com/ldnqimmuno/). Please join our mailing list!
