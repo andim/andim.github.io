@@ -43,7 +43,15 @@ Immunology is being transformed by the application of a multitude of quantitativ
 
 [Registration](https://luma.com/dpspncb1) is free, but required to help us gauge attendance.
 
-## Schedule
+We are excited that the following featured speakers will share their research this year:
+
+- [Agne Antanaviciute](https://www.imm.ox.ac.uk/people/agne-antanaviciute) (Oxford)
+- [Andrew Pyo](https://agpyo.github.io/) (Stanford)
+- [Joshua Waterfall](https://institut-curie.org/person/joshua-waterfall) (Curie)
+- [Lucy Garner](https://www.imm.ox.ac.uk/people/lucy-garner) (Oxford)
+- [Omer Karin](https://profiles.imperial.ac.uk/o.karin) (Imperial)
+
+## Indicative Schedule
 
 - 09:30-10:00 Meet and Greet
 <details open>
