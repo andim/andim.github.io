@@ -204,8 +204,7 @@ There are three possible formats:
 
 (1) a **short talk** during one of the main sessions  
 (2) a **whiteboard talk**: a talk without slides where you will explain your project interactively to a small audience with the support of a marker and a whiteboard  
--(3) a **poster** 
-+(3) a **poster**
+(3) a **poster**
 
 If you would like to be considered for any of the three, please indicate so when [registering](https://luma.com/dpspncb1). If you want to be considered for a short or whiteboard talk the deadline to submit a title and abstract is the **Wednesday April 22nd**.
 
