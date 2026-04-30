@@ -191,9 +191,9 @@ Chris Thorpe (EMBL-EBI):
 <summary>
 <a href="https://agpyo.github.io/">Andrew Pyo</a> (Stanford):
 <br>
-<em>TBC</em>
+<em>Coupled TFH-B Cell Dynamics Regulate Germinal Center Composition and Affinity Maturation</em>
 </summary>
-<p>TBC</p>
+<p>High-affinity antibody–producing B cells arise through affinity maturation within germinal centers (GCs), guided by T follicular helper (Tfh) cells. Recent studies reveal that these helper cells also undergo antigen-dependent selection, dynamically reshaping their repertoire. Yet, how mutual feedback between the two populations shapes affinity maturation remains unclear. To address this gap, we developed a population dynamics model that captures key Tfh cell properties and their reciprocal interactions with B cells. We find that such reciprocal interactions enforce robust “homeostatic” control of GC composition, maintaining a constant B-to-T cell ratio. Moreover, preferential expansion of high-sensitivity clones prolongs the GC reaction. Together, these findings highlight dynamic reciprocity between B and T cells as a mechanism for stabilizing GC dynamics—a principle that may extend to other adaptive immune processes.</p>
 </details>
 </details>
 - 16:15-17:30 Posters and Drinks
