@@ -54,7 +54,9 @@ Immunology is being transformed by the application of a multitude of quantitativ
 <summary>
 <a href="https://profiles.imperial.ac.uk/o.karin">Omer Karin</a> (Imperial):
 <br> 
+<em>
 Design principles of immune memory persistence
+</em>
 </summary>
 <p>Immune memory systems exhibit prolonged but finite responses that underlie their efficacy. I will present our analysis of two distinct memory systems, plasma cell persistence following immune responses in mice and humans, and transgenerational gene silencing in C. elegans. Despite relying on different biological mechanisms, these systems share key similarities captured by a unifying mathematical framework, where memory units (cells or silenced genomic regions) are tuned near critical tipping points through competition over shared resources. This framework generates specific testable predictions, which we apply to analyse the buildup of memory, heterogeneity within and between responses, and the effects of perturbations. I will conclude by discussing how this resource competition mechanism may serve as an efficient quality control strategy for immunity.
 </p>
@@ -63,7 +65,9 @@ Design principles of immune memory persistence
 <summary>
 John McEnany (Stanford):
 <br> 
+<em>
 Dynamics of Local B Cell Migration During Affinity Maturation
+</em>
 </summary>
 <p>
 Affinity maturation enhances B cell binding within germinal centers, where spatial structure preserves sequence diversity by restricting cell movement. While recent studies show that some B cell lineages span multiple germinal centers, the sources, rates and consequences of this spreading process remain unknown. Here, we show that the spatial arrangement of B cells in the human tonsil is driven by local migration during affinity maturation. Through an evolutionary re-analysis of spatial transcriptomics data, we demonstrate that these local migrations follow a clock-like process, in which cells migrate at an average rate of ~1/50 cell divisions that is consistent across lineages and time. Migrating cells continue to evolve and diversify in their new germinal centers at similar rates, such that the largest lineages in each germinal center often originate from another. These results suggest that affinity maturation operates in a regime of pervasive but intermediate migration, balancing diversity and selection.
@@ -73,7 +77,9 @@ Affinity maturation enhances B cell binding within germinal centers, where spati
 <summary>
 Yinfei Yang (Imperial):
 <br> 
+<em>
 Statistical and Machine Learning Modelling of HLA-I Peptide Presentation Landscapes
+</em>
 </summary>
 <p>Peptide presentation by human leukocyte antigen class I (HLA-I) molecules shapes CD8+ T-cell recognition and varies substantially across alleles. Probabilistic models trained on immunopeptidomics data provide allele-specific descriptions of peptide presentation landscapes. In this work, we compare two such models: position weight matrices (PWMs), which assume positional independence, and energy-based restricted Boltzmann machines (RBMs), which capture higher-order positional correlations. We quantify repertoire diversity within an allele using Shannon entropy and divergence between allelic repertoires using Jensen--Shannon divergence (JSD). These quantities provide interpretable measures of presentation breadth and overlap, but their empirical estimation is challenging in finite samples, where plug-in estimators are biased and model fitting introduces additional uncertainty beyond sampling noise.
 To address this, we develop a bootstrap-based framework for bias correction and confidence interval construction that accounts for both finite sampling and model misspecification. Using synthetic ground-truth distributions with known entropy and Jensen--Shannon divergence (JSD), we benchmark parametric and non-parametric bootstrap procedures together with five confidence interval constructions across multiple scenarios. We find that the parametric bootstrap-t interval achieves the most reliable near-nominal coverage under practical sample-size and bootstrap-replicate settings. We then apply this framework to immunopeptidomics data from 68 HLA-I alleles spanning HLA-A, HLA-B, and HLA-C, enabling uncertainty-aware comparisons of intra-allelic diversity and inter-allelic divergence. Our results reveal substantial heterogeneity in allele-specific presentation landscapes and robustly quantify peptide repertoire overlap within and across supertypes. Overall, this work provides a statistically grounded framework for comparing HLA-I peptide presentation profiles, with potential applications in quantitative immunology, immunotherapy, and vaccine design.
@@ -89,7 +95,9 @@ To address this, we develop a bootstrap-based framework for bias correction and 
 <summary>
 <a href="https://www.imm.ox.ac.uk/people/agne-antanaviciute">Agne Antanaviciute</a> (Oxford):
 <br>
+<em>
 Spatial inflammatory fibroblast niches shape Crohn’s fistulae
+</em>
 </summary>
 <p>
  Crohn’s disease often presents with fistulae, abnormal tunnels that connect the intestine to the skin or other organs. Despite their profound effect on morbidity, the molecular basis of fistula formation remains unclear, largely owing to the challenge of capturing intact fistula tracts and their inherent heterogeneity. Here we construct a subcellular-resolution spatial atlas of 68 intestinal fistulae spanning diverse anatomical locations. We describe fistula-associated epithelial, immune and stromal cell states, revealing abnormal zonation of growth factors and morphogens linked to establishment of tunnelling anatomy. We identify fistula-associated stromal (FAS) fibroblasts, which are assembled in concentric layers: a proliferative, lumen-adjacent zone beneath neutrophil and macrophage-rich granulation tissue, an active lesion core of FAS cells and a quiescent, pro-fibrotic outer zone. We examine the architecture of the extracellular matrix in the fistula tract and demonstrate that FAS populations associate with distinct collagen structures, exhibiting properties ranging from proliferation, migration and extracellular matrix remodelling to dense collagen deposition and fibrosis. We define niches supporting epithelialization of fistula tunnels and a FAS-like population that is detected at the base of ulcers in non-penetrating Crohn’s disease. Our study demonstrates that common molecular pathways and cellular niches underpin fistulae across intestinal locations, revealing the cellular protagonists of fistula establishment and persistence. This resource will inform the development of model systems and interventions to mitigate aberrant fibroblast activity while preserving their regenerative properties in Crohn’s disease.
@@ -120,11 +128,7 @@ T cell antigen receptors (TCRs), these cells scan peptides and other antigens pr
 </p>
 </details>
 </details>
-<details open>
-<summary>
-12:20-12:30 Flash talks
-</summary>
-</details>
+- 12:20-12:30 Flash talks
 - 12:30-13:45 Lunch break and Posters
 <details open>
 <summary>
@@ -174,9 +178,9 @@ Chris Thorpe (EMBL-EBI):
 <summary>
 <a href="https://www.imm.ox.ac.uk/people/lucy-garner">Lucy Garner</a> (Oxford):
 <br>
-<em>TBC</em>
+<em>Mapping immune responses at single-cell resolution across infection and vaccination</em>
 </summary>
-<p>TBC</p>
+<p> Understanding variation in immune responses across tissues and over time, and the cell-specific mechanisms underlying these differences, remains a central challenge in human immunology. I present two case studies applying single-cell RNA-sequencing in distinct contexts. First, using paired peripheral blood and cerebrospinal fluid from patients with tuberculous, bacterial, viral, or cryptococcal meningitis, I identify compartment-specific immune programmes and pathogen-associated signatures that distinguish inflammatory states across tissues. Second, I analyse longitudinal samples from individuals receiving ChAdOx1 nCoV-19 or BNT162b2 vaccination, revealing early transcriptional responses shaped by vaccine platform and dosing interval. Together, these analyses show that single-cell approaches can resolve spatial and temporal heterogeneity in human immunity, providing insights into disease pathogenesis and vaccine responses.</p>
 </details>
 </details>
 <details open>
