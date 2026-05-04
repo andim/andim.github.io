@@ -43,7 +43,7 @@ Immunology is being transformed by the application of a multitude of quantitativ
 
 [Registration](https://luma.com/dpspncb1) is free, but required to help us gauge attendance.
 
-## Indicative Schedule
+## Schedule
 
 - 09:30-10:00 Meet and Greet
 <details open>
