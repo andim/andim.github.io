@@ -48,7 +48,7 @@ Immunology is being transformed by the application of a multitude of quantitativ
 - 09:30-10:00 Meet and Greet
 <details open>
 <summary>
-10:00-11:00 Session 1
+10:00-11:00 Session 1 (Chair: Peter Thomas)
 </summary>
 <details>
 <summary>
@@ -89,7 +89,7 @@ To address this, we develop a bootstrap-based framework for bias correction and 
 - 11:00-11:20 Coffee break
 <details open>
 <summary>
-11:20-12:20 Session 2
+11:20-12:20 Session 2 (Chair: James Henderson)
 </summary>
 <details>
 <summary>
@@ -164,7 +164,7 @@ Chris Thorpe (EMBL-EBI):
 </details>
 <details open>
 <summary>
-14:30-15:30 Session 3
+14:30-15:30 Session 3 (Chair: Isabella Sodi)
 </summary>
 <details>
 <summary>
