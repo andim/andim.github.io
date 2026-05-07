@@ -36,9 +36,6 @@ subtitle: May 8th
   </p>
 </div>
 
-
-# [Streaming link](https://ucl.zoom.us/j/95061125724)
-
 <img style="max-width:55%;margin:0.2rem;padding-right:0;margin-right:0" src="../images/ldnday26.png" align="right">
 We aim to bring together researchers with an interest in quantitative immunology to create an **opportunity for sharing knowledge and social exchange**. The London Q-Immuno day will be a day of conviviality and scientific enthusiasm with a dynamic and informal atmosphere. Talks from invited speakers will be interleaved with presentations by young investigators (contributions welcome!). The schedule includes ample breaks for discussions and, for those interested, we propose to conclude the day in a local pub.
 
@@ -201,6 +198,10 @@ Chris Thorpe (EMBL-EBI):
 </details>
 - 16:15-17:30 Posters and Drinks
 - 17:30-late Local Pub
+
+## [Online streaming link](https://ucl.zoom.us/j/95061125724)
+
+We are trialling live streaming of the main scientific sessions to allow more people to hear the talks. No promise it will work!
 
 
 ## Talks and Posters
