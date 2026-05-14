@@ -17,10 +17,11 @@ Sign up by sending an email to `ii.ldnqimmuno-join at ucl.ac.uk`
 This list serves to facilitate distributing announcement about events, open positions, and the like among its members.
 
 ## Next meetings
-- 8th May 2026: [4th LDN Q-Immuno Day](https://qimmuno.com/ldnday/) at UCL 
+- 30th June 2026: Meetup at Imperial - save the date!
 
 ## Past meetings
 
+- 8th May 2026: [4th LDN Q-Immuno Day](https://qimmuno.com/ldnday/) at UCL 
 - 19th November 2025: [Meetup at the Institute for Cancer Research Chelsea](https://forms.gle/YZT1y2Sp6YVjFFS1A) (organised by [Tahel Ronel](https://scholar.google.com/citations?user=GxSxgP0AAAAJ) & [Luis Zapata](https://www.icr.ac.uk/our-research/researchers-and-teams/dr-luis-zapata-ortiz))
 - 10th April 2025: [3rd LDN Q-Immuno Day](https://qimmuno.com/ldnday2025/) at UCL
 - 29th January 2025: [Benny Chain Festschrift Research Symposium](https://www.eventbrite.com/e/benny-chain-festschrift-research-symposium-tickets-1006953173047?aff=oddtdtcreator) at UCL
