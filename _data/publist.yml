@@ -1,3 +1,11 @@
+- authors: M Milighetti, Y Nagano, J Henderson, U Hershberg, A Tiffeau-Mayer, A-F Bitbol, B Chain
+  title: " Systematic analysis of CDR contacts and pairing constraints between T cell receptor ab chains"
+  journal: Bioinformatics
+  year: 2026
+  links:
+    doi: https://doi.org/10.1093/bioinformatics/btag551
+    github: https://github.com/mm523/TCRab-pairing
+
 - authors: A Tiffeau-Mayer
   title: External Clustering Validation by the Homogeneity-Parsimony Trade-off
   journal: arXiv
@@ -102,13 +110,6 @@
     doi: https://doi.org/10.1016/j.immuno.2024.100045
     github: https://github.com/justin-barton/IMMREP23/
   media: "Link to [Kaggle competition page](https://www.kaggle.com/competitions/tcr-specificity-prediction-challenge/leaderboard)"
-
-- authors: M Milighetti, Y Nagano, J Henderson, U Hershberg, A Tiffeau-Mayer, A-F Bitbol, B Chain
-  title: "Intra-and inter-chain contacts determine TCR specificity: applying protein co-evolution methods to TCRab pairing"
-  journal: bioRxiv preprint
-  year: 2024
-  links:
-    doi: https://doi.org/10.1101/2024.05.24.595718 
 
 - authors: T Chotisorayuth, A Tiffeau-Mayer
   title: Lightning-fast adaptive immune receptor similarity search by symmetric deletion lookup
