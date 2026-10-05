@@ -18,6 +18,7 @@ You can find an overview of our research philosophy and research interests [here
 
 - May 8th 2026: Come join us for the [4th London Quantitative Immunology Day](https://qimmuno.com/ldnday/)!
 - September 2025: Congratulations to Trupti Gore and James Henderson, who won the Hackathon and poster prize respectively at the [Oxford Unravelling T cell recognition conference](https://web.cvent.com/event/7466b0c8-3ee9-4a4c-b781-d8b582130660/home)!
+- UCl published a case study [Using machine learning to combat rejection in medical transplants](https://www.ucl.ac.uk/engage/case-studies/2025/sep/using-machine-learning-combat-rejection-medical-transplants) on our ongoing collaboration with [Alexandra Sharland](https://profiles.sydney.edu.au/alexandra.sharland) at University of Sydney.
 - July 2025: We organised a [UCL New Academics Day](https://lu.ma/gde2kquj) to connect new(ish) academics across faculties. Get in touch to join our network.
 - June 2025: Andreas has been promoted to [Associate Professor](https://www.ucl.ac.uk/human-resources/hr-policies-procedures-and-advice/academic-careers-framework-and-promotions-processes/promotions) from October 1st.
 - April 10th 2025: We organised the [3rd London Quantitative Immunology Day](https://qimmuno.com/ldnday2025/).
