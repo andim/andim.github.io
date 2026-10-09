@@ -17,7 +17,7 @@ Sign up by sending an email to `ii.ldnqimmuno-join at ucl.ac.uk`
 This list serves to facilitate distributing announcement about events, open positions, and the like among its members.
 
 ## Next meetings
-- 18th November 2026: Meetup at the Institute for Cancer Research Chelsea from 2pm (organised by [Luis Zapata](https://www.icr.ac.uk/our-research/researchers-and-teams/dr-luis-zapata-ortiz))
+- 30th November 2026: Meetup at the Institute for Cancer Research Chelsea from 2pm (organised by [Luis Zapata](https://www.icr.ac.uk/our-research/researchers-and-teams/dr-luis-zapata-ortiz))
 
 ## Past meetings
 
